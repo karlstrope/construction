@@ -38,4 +38,7 @@
 - Glasses
 - several
 - perspective
-- 
+- most
+- Construction
+- Division
+- Translator
