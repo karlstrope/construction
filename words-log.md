@@ -23,3 +23,19 @@
 - those
 - First
 - some
+- clasped
+- measuring
+- last
+- sides
+- first
+- Glass
+- glass
+- suppose
+- else
+- Compass
+- constructs
+- Telescopes
+- Glasses
+- several
+- perspective
+- 
