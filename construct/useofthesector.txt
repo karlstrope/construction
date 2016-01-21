@@ -1,0 +1,211 @@
+The Use of the Seclor in the ConftruSlion of Solar Eclipfes.
+
+DEFINITION I.
+
+H E Path of a Vertex, is that Circle of the Earth which any Place or Vertex on it's Superficies defcribes, in the Space of twenty-four Hours, by the Earth's diurnal Revolution, rallel to the Equator.
+
+Whence the Paths of Vertices are Circles pa-
+
+DEFINITION II.
+
+If a Plane be conceived to touch the Moon's Orbit in that Point, wherein a Line connec- ting the Centers of the Earth and Sun interfects the said Orbit, and Hands at right Angles to the aforenamed Line : And if an infinite Number of right Lines be supposed to pass from the Center of the Sun, thro' this Plane to the Periphery of the Earth, to it's Axis, as likewise to the Axis of the Ecliptick, and the Path of any Vertex ; the said Lines will orthographically project the Earth's Disk, it's Axis, the Axis of the Ecliptick, and the Path of the Vertex, on the aforsaid Plane : and this is the Projection we are to delineate. This being presupposed, it will follow ;
+
+1. That when the Sun is in &, Si, «P, =&, "1, +, the Northern half of the Earth's Axis projected on the aforsaid Plane, viewed on that Side next to the Earth, lies to the Right-Hand from the Axis of the Ecliptick : But if the Longitude of the Sun be in any of the fix oppoGte Signs, it lies to the Left-Hand from the Axis of the Ecliptick.
+
+2. When the Sun's apparent Place happens to be either in v, «, v, 2?, Si, tP, the North Pole lies in the illuminate, or vifible part cf the Disk ; but otherways in the cbfcure.
+
+3. When the Sun's Place in the Ecliptick is 90 Degrees d iff ant from either Pole* that is, when the Sun is in the Equator, the Paths cf the Vertices, or all Circles of the Earth parallel to the Equator, will be projected in right Lines upon the said Plane : but if the Sun's Place be leffer than 90 Degrees, the said Paths will be projected in Ellipfes upon the said Plane, whose conjugate Diameters will be so much the lefTtr, as the Place of the Sun is leffer.
+
+4. The tranfverfe Diameter of the Ellipfes reprefenting any Path, is equal to double the right Sine of the Diltance of the said Vertex from the Pole ; that is, equal to twice the Co-Sine of the Latitude of the Place or Vertex : but the Conjugate, to the Difference of the right Sines of the Sum, and Difference of the Difrances of the Path and Sun from the Pole j that is, equal to the Sine of the Complement of the Sun's Declination added to the Co-La- titude of the Place, less the right Sine of the Difference of the Complement of the Sun's Declination, and the Co-Latitude of the Place.
+
+5. The tranfverfe Diameter lies at right Angles to the Earth's Axis, and the conjugate sp-incides therewith.
+
+SECTION I.
+
+To reprefent in P!a?io, the Path of a Vertex in the Earth's Disk, whose Dijlance
+
+from the North Pole is 38 Deg 32 Min. the Sun's Place being in 10 Deg. 40
+
+Min. 30 Sec. of Gemini, femblable to that which will be projected on a Plane t
+
+touching the Earth's Orbit in that Pointy by fir ait Lines produced from the Sun to
+
+the Earth.
+
+HAVING drawn the Semi-Circle HER, let it reprefent the Northern half of the p} a t e lc , Earth's illuminate Disk (because the Sun is in Gemini) projected upon the said Plane, F] - the Sun it's Center, the Point therein opposite to the Sun, H o R an Arc of the Ecliptick ' S passing through it. Upon O raife G E, perpendicular to the Ecliptick H R, and the Point E wherein it interfecls the Limb of the Disk, will be the Pole of the Ecliptick, and C; E it's Axis.
+
+Again ; Make O E equal to the Radius of a Line of Chords (by Use III. of the Line of Chords)^ from which taking the Chord of 23 Deg. 30 Min. (the conftant Distance of the two Poles) fet it off both ways from E to B and C, draw the Line B C, in which the Northern Pole of the World mail be found.
+
+Make B A equal to A C, the half of this Line, the Radius of a Line of Sines, and there- in fet off the Sine of the Sun's Distance from the folftitial Colure 19 Deg. 19 Min. 30 Sec. from A to P, on the Left-Hand of the Axis of the Ecliptick (because the Sun is in Gemini)* arid draw the Line O P, which will be the Axis of the Earth, and P the Place of the North- Pole in the illuminate Hemifphere of the Disk.
+
+Or the Angle E O I, which the Axis of the Earth and Ecliptick make with each other,
+may be more accurately determined by Calculation. For,
+
+So is the Tangent of the Sun's greateft Declination to the J 23 30 00 9^3795^
+
+Tangent of the Inclination of the Axis - - - - * 8 10 54 9^57^7
+
+Count the said 8 Deg. 10 Min. 54 Sec. in the Limb of the Disk from E to I, on the Left-hand, and draw the Line O I, this shall be the Axis ; and the Point P wherein it inter- fects the Line B C, the Place of the Pole in the illuminate Disk.
+
+The next thing required will be the Sun's Distance from the Pole, or the Complement of his Declination, which will be found 6y Deg. 57 Min. 48 Sec. this added to the Distance of the Vertex from the Pole 38 Deg. 32 Min. makes 106 Deg. 29 Min. 48 Sec. and the fame 38 Deg. $1 Min. taken from 6y Deg. 51 Min. 48 Sec. gives 29 Deg. 25 Min. 48 Sec. the Meridional Distance of the Sun from the Vertex.
+
+Make- o E the Radius of the Disk, to be the Radius of a Line of Sines, from which take the Sine of 73 Deg. 30 Min. 12 Sec. (the Complement of 106 Deg. 29 Min. 48 Sec. to a Semi-Circle) and fet it off in the Axis from O to 12 j it there gives the Meridional Interferon of the Nocturnal Arc of the Path with the Axis,
+
+Take the Sine of 29 Deg. 25 Min. 48 Sec. from the fame Line of Sines, and kt it off the fame way from to M, and it there gives the InterfecYion of the diurnal Arc of the Path with the Meridian. Whence M 12 will be the conjugate Diameter of the Path, it being the Difference of the Sines of 70 Deg. 30 Min. 12 Sec. and 29 Deg. 25 Min. 48 Sec. that is, the Difference of the Sines of the Sum, and Difference of the Di- ftances of the Path and Sun from the Pole, which will be the conjugate Diameter of any Path.
+
+Bifect 12 M in C, and through it draw 6 C 6 at right Angles to the Axis of the Globe § and then taking the Sine of 38 Deg. 32 Min. the Distance of the Pole from the Vertex, fee it off from C both ways to 6 and 6; then the Line 6 6 will be the Tranverfe-Diameter of the Path, and C 6 the Semi-Diameter.
+
+Making C 6 equal to the Radius of a Line of Sines, if from the fame you take the right Sines of 15, 30, 45, 60, y$ Degrees, and fet them off severally both ways from C in the Tranverfe-Diameter, and from the Points so found erect Perpendiculars, a 11, a 1, a io, a 2, &c. equal to the Co-Sines of the said Arcs, taken from a Line of Sines, whose Radius shall be C 12, equal to C M, you will have twenty-four Points given, through which the Ellipfis reprefenting the Path shall pass, which shall also fhew the Place of the Vertex at every Hour of the Day. In the fame manner may the Parts of an Hour be pricked down in the Path, in laying off the Sine of the Degrees and Minutes correfponding thereto from C towards 6, and then raiting Perpendiculars from the Points so found in the Semi- Tranfverfe, and fctting off from the said Semi-Tranfverfe each way upon the Perpendiculars,
+
+the Sines of the Complements of the Degrees and Minutes correfponding (o the aforsaid Parts of an Hour. As, for Example ; To denote half an Hour pait n and 12, cake the Sine of 7 Deg. 30 Min. and lay it effon both sides from C to b and b ; then take the Co-fine of 7 Deg. 30 Min. and having raifed the Perpendiculars b ', lay off the laid Sine-Comple- ment from b to f, and you will have the Points in the Periphery of the Eliipfts, for half an Hour pafb n, and half an Hour pafi 12 ; and in this manner may the Path be divided into Minutes, if the Ellipfis be large enough.
+
+Take this for another Example; Suppoie I would reprefent upon the Plane of the Earth's Disk, the Path of Gibraltar ', whose Latitude is 35 Deg. 32 Min. North, and the Sun's Place is in 15 Deg. 45 Min. of Leo. Pig- 2- Having, as before, drawn the Semi-Circle H E R, for the Northern half of the Earth's
+
+illuminate Disk, and drawn O E perpendicular to R H, as alio drawn the Lane C B, which is always equal to twice the Chord of the Sun's greateft Declination, 23 Deg. 30 Min. you must next make AB equal to a Radius of a Line of Sines, and then lay off from A to P, on the Right-hand of the Axis of the Ecliptick (because the Sun is in Leo), the Sine of the Sun's Distance from the folftitial Colure 45 Deg. 45 Mm. or, the Angle E O I may be more nicely determined by Calculation, as was before directed, and then © P I, will be the Axis of the World.
+
+Now the Sun's Distance from the Pole, or the Complement of his Declination is 73 Deo-. 51 Min. which being added to the Complement of the Latitude 54 Deg. 28 Min. the Sum will be 128 Deg. 19 Min. and this taken from 180 Deg. the Remainder will be 51 Deg-. 41 Min. also if 54 Deg. 28 Min. be taken from 73 Deg. 51 Min. the Difference will be iQ°De°-. 23 Min.
+
+Then if you make the Semi-Diameter of the Disk the Radius of a Line of Sines, and lay oft from the Center O to 12, the Sine of 55 Deg. 41 Min. the Point 12 in the Axis will be the Meridional Interferon of the Nocturnal Arc of the Path with the Axis •, and if again you lay off the Sine of 19 Deg. 23 Min. irom © to M, you will have the Meridional Interaction of the Diurnal Arc of the Path with the Axis ; whxce M 12 will be the con- jugate Diameter of the Elliptical Path.
+
+And if you bifecl M 1 2 in C, and draw the Line 6 C 6 at right Angles to the Axis © I ; and then lay off the Sine Complement of the Latitude 54 Deg. 28 Min. from C to 6, on each side the Axis, you will have the Tranfverfe diameter of the Path, which may be drawn and divided, as before directed, for that of Fig. I.
+
+Note, When the elevated Pole is in the obfeure Hemifphere of the Earth, the diurnal Arc, or illuminated Part of the Path, is in that Part of the Ellipfis that lies neaRest -to the said Pole, but ocherways b the more remote ; and where the Ellipfis cuts the Limb of the Disk, are the Points on it from which the Sun appears to rife and fet, &e. And because these Points are necefTary to be found, when an Eclipfe happens near Sun-riling or Sun-fet- ting, they may be determined in the following manner: Sig 1. Lay off the Sun's Declination 22 Deg. 2 Min. upon the Limb of the Disk from R to N,
+
+as also the Complement of the Latitude of 38 Deg. 32 Min. from R to P •, then draw the Line © N, and from the Point P let fall upon the Diameter R H, the Perpendicular P Q^, cutting the Line © N in L. This being done, take the Extent G L, between your Com- pafTes, and lay it off upon the Axis © I from © to K •, then draw a Line both ways from the Point K, parallel to the tranfverfe Axis C 6 of the Path, and the said Line will cut the Limb of the Disk in the Points q p of the Sun's rifing and fetting.
+
+Or the Arc Ip may be more accurately determined by Calculation ; for in the Triangle O Q^L, right-angled at Q^, are given the Angle CKL O, equal to the Sun's Distance from the Pole •, and thf Side Q^G equal to the Sine of tke Latitude. To find the Side O L, which is equal to the Sine Complement of the Arc I p, the Canon is, As the Sine of the Sun's Distance from the Pole, is to Radius ; So is the Sine of the Latitude to the Sine Com- plement of the Arc I p, or I q.
+
+SECTION II.
+
+HAVING in the foregoing Section fhewn how to draw the Path of any Vertex upon the Earth's Disk, as likewise to divide it, the next things necefTary to be given, in or- der to conftruct the Phafes of a Solar Eclipfe in any given Place on the Earth's Super- ficies, are j
+
+I. The apparent Time of the neaRest Approach of the Moon to the Center of the Disk, or the Time of the Middle of the Eclipfe.
+
+II. The neaRest Distance of the Moon's Center from the Center of the Disk in her PafTage over it ; which is equal to her Latitude at the Time of the Conjunction.
+
+III. The Semi-Diameter of the Disk at the Time of the Conjunction,
+
+IV. The Moon's Semi-Diameter at the fame Time.
+
+V. The Sun's Semi-Diameter.
+
+VI. The Semi-Diameter of the Penumbra.
+
+VII. The
+
+Cottjlruclion of Solar Eclipfes. 2,61
+
+VII. The Angle of the Moon's Way with the Ecliptick, which is equal to the Angle that the Perpendicular to the Moon's Way forms with the Axis of the Ecliptick ; and if the Argument of Latitude be more than 9 Sines, or less than 3, the said Perpendicular lies to the Left-hand •, if more, to the Right, from the Axis of the Ecliptick.
+
+VIII. The hourly Motion of the Moon from the Sun at the Time of the Conjunction.
+
+Note, The Semi-Diameter of the Disk is always equal to the Difference of the Sun and Moon's horizontal Parallaxes.
+
+All these for the Solar Eclipfe of May 11, 1 724, will be as follows :
+
+Hours. Mln. fee.
+
+The apparent Time of the neaRest Approach of the Moon to 1 the Center of the Disk, will be J
+
+The neaRest Pittance of the Moon's Center from the Center of the Disk
+
+The Semi-Diameter of the Disk *•
+
+The Moon's Semi-Diameter _--_-.
+
+The Sun's Semi-Diameter - -
+
+The Semi-Diameter of the Penumbra -
+
+The Angle of the Moon's Way with the Ecliptick
+
+The hourly Motion of the Moon from the Sun
+
+Thefe being found from Aftronomical Tables and Calculations, I mall mew how to draw the Line of the Moon's Way, or Path of the Penumbra, upon the Plane of the Earth's Disk, as it falls at the Time of the Conjunction of May 1 1, 1724, and the manner of dividing the fame, for London, Genoa, and Rome.
+
+Having drawn the Semi-Circle HER of the Earth's Disk, and the Paths of London, Plate 26* Genoa, and Rome, by the Directions of the last Section, the Sun's Place being 61 Deg. pj~ , 38 Min. 45 Sec. and the Latitude of London 51 Deg. 30 Min. that of Genoa 44Deg. 27 Min. and that of Rome 41 Deg. 51 Min. you must next draw the Perpendicular to the Moon's Way •, which is done .thus : Take the Semi-Diameter O H of the Disk between your Com- pafTcs, and open your Sector fo, that the Distance from 60 to 60 of Chords be equal to that Extent; then taking 5 Deg. 37 Min. parallel-wife from the Lines of Chords (which is the Angle of the Moon's Way with the Ecliptick, or the Angle that a Perpendicular to her Way makes with the Axis E O of the fame Ecliptick), lay them off upon the Limb of the Disk from E to F, on the Right-hand of the Axis of the Ecliptick, because the Argument of Latitude is more than three Sines, and the Line O F being drawn, will be the Perpendi- cular to the Moon's Way at the Time of the general Conjunction, May 11, 1 724.
+
+Again : Take the Semi-Diameter of the Disk between your CompafTcs, and open the Sec- tor fo, that the Distance from 61 ~*, the Semi-Diameter of the Disk, on each Line of Lines be equal to that Extent ; then the Sector remaining thus opened, take between your Com- paflTes the parallel Extent of 32 ~ + , the neaRest Approach of the Moon to the Center of the Disk, and lay it off from O to M, upon the Perpendicular to the Moon's Way ; then, if upon the Point M, a Perpendicular, as M G, be drawn both ways, this will be the Line of the Moon's Way, or Path of the Penumbra.
+
+Now to divide the said Path into it's proper Hours, which let be for London. The mid- dle of the general Eclipfe, or the Time when the Moon's Center will be at M, happens at 12 Minutes paft 5 in the Afternoon : fay, As 1 Flour or 60 Minutes is to %5 Min. 18 Stc. the hourly Motion of the Moon from the Sun ; So is 12 Minutes the Time more than 5 in the Afternoon, to 7 Min. 3 Sec. the Motion from 5 a-Clock to the middle.
+
+Your Sector remaining opened to the last Angle it was fet to, take the Extent from 7 ~ to 7 A- on each Line of Lines, and fetting one Foot of your CompafTcs upon M, with the other make a Point on the Moon's Way to the Right-hand ; and this shall be the Place of the Penumbra at 5 a-Clock in the Afternoon at London ; which therefore denote with the Number V.
+
+The hourly Motion of the Moon from the Sun is 35 Min. 18 Sec. therefore take the pa- rallel Extent of 35',?, on the Line of Lines, between your Compasses, and fetting one Foot upon V, with the other make Points on each side V, these shall fhew the Place of the Moon's Center at the Hours of IV and VI ; and if from these Points you farther fet off the said Ex- tent in the said Line, you may thereby find the Place of the Moon's Center for every Hour, v/hilft the Penumbra shall touch the Disk : and if the Space between every Flour be divided into 60 equal Parts, you shall have the Place of the Moon's Center in the Line of her Way, to every fingle Minute of Time.
+
+Or, you may take the Semi- Diameter of the Disk between your CompafTcs, and make a Scale thereof, in dividing it, by means of the Sector, in the following manner: Open the Sector fo, that the Distance between 61 ff, the Semi-Diameter of the Disk, and 61 -i* on the Line of Lines, be equal to the Semi-Diameter of the Disk. This Distance lay off from A to B : then your Sector remaining thus opened, take between your CompafTes fucceftive- ly, the parallel Distances of each Division to 61 £*, and lay them off from A towards B, every 5th of which Number, and your Scale will be divided into Minutes. And by the fame Method you may divide each Minute into Parts, ferving for Seconds, if your Scale be long enough. Now your Scale being divided, you may make use thereof, for drawing and di- viding the Path of the Penumbra, without the Sector : For 32 44 of these Parts of the Scale, give you the neaRest Distance of the Moon's Center to the Center of the Disk. Also 7 ^ Parts of the said Scale, will be the Distance of the Center of the Penumbra from the Point M, at five a-Clock ; and 35 44 of the Parts of the Scale, will be the Distance from Hour to Hour, on the Path of the Penumbra.
+
+Now to fix Numbers upon the said Path of the Penumbra, reprefenting the Hours when the Moon's Center will be at the said Hours, at Rome and Genoa, we must have the Dif- ference of Longitude between London and the said two Places given ; as also, whether they are to the East or West from London; the Difference of Longitude between London and Rome, is 12 Deg. 37 Min. and between London and Genoa, is 9 Deg. 37 Min. they being both to the East from London. Each of these being reduced to Time, the former will be 50 Mi- nutes, and the latter 38 Minutes, wherefore 5 a-Clock for Rome on the Moon's Way, must be at 10. Min. pad 4, {ox London ; and 6 a-Clock at 10 Minutes paft five, &c. Underftand the fame for other Hours and Minutes. I have noted the Hours for Rome under the Line of the Moon's Way, with Roman Characters. Again, 5 a-Clock on the Moon's Way for Genoa, must be fet at 22 Minutes paft 5 for London ; and 6 a-Clock, at 22 Minutes paft 6, ciJV. I have noted the Hours for Genoa with small Figures over the Line of the Moon's Way.
+
+Note, The 10 Minutes, and 22, are each of them the Complement of 50 Minutes, and 38 Minutes to 60 Minutes.
+
+SECTION III.
+
+To determine the apparent Time of the Beginning or End of a Solar Eclipfe, the Time when the Sun foall be eclipfed to any pojjible Number of Digits, the Inclination of the Cuffs of the Eclipfe, and the Time of the vifble Conjunction of the Luminaries^ in any given Latitude.
+
+TH E Paths of London. Rome, and Genoa, as also the Path of the Penumbra being drawn and divided, as directed in the two last Sections for the great Eclipfe of 1724, which •will be a very proper Example for fufficiently explaining this Method, take between your CompafTes the Semi-Diameter of the Penumbra 32 ■£-£, from the Line of Lines on the Sector, it being first opened to the Semi-Diameter of the Disk 61 |4 *, or you may take it from your Scale, which being done, carry one Foot of your CompafTes along the Line of the Moon's Way, from the Right-hand to the Left •, wherein find such a Point, that if the said Foot be fet, the other Foot shall cut the fame Hour or Minute, in the Path of the Vertex of any given Place ; then the Points in the Paths upon which either of the Feet of your CompafTes ftand, will fhew the Time of the Beginning of the Eclipfe at that Place.
+
+For example ; If you carry the Semi-Diameter of the Disk along the Line of the Moon's Way, you will find that one Foot of the CompafTes being fet at a, on the Moon's Way, which is 41 Min. paft 5 in the Afternoon for London, the other Foot will fall on the Point b ©n the Path of London, which is likewise 41 Min. paft 5 in the Afternoon ; wherefore the Beginning of the Eclipfe ax. London will be at 41 Min. paft 5 in the Afternoon.
+
+Again : If you carry ftill on the Foot of your CompafTes, they remaining yet opened to the Semi-Diameter of the Disk, and find another Point on the Moon's Way, whereon if you fix one Point of your CompafTes, the other shall cut the Path of the Vertex at the fame Hour or Minute, which this ftands upon in the Line of the Moon's* Way, the Points whereon your CompafTes ftand in either Path, shall fhew the Minute the Eclipfe ends.
+
+For example : One Foot of the CompafTes being fet to g in the Path of the Vertex, which is 29 Min. paft 7 in the Afternoon, the other Foot will fall upon the Line of the Moon's Way, a: the fame Hour and Minute, viz. 29 Min. paft 7 ; therefore the Eclipfe ends at London 29 Min. paft 7 : but take notice, that the Line of the Moon's Way fliould be conti- nued further out beyond 7 a-Clock, that so the Point of the CompafTes may fall upon the proper Minute, to wit, 29.
+
+Moreover : If one side of a Square be applied to the Ecliptick H R, and so moved back- wards or forwards, until the other side of the said Square cuts the fame Hour or Minute in the Path of the Vertex, and Line of the Moon's Way ; this fame Hour or Minute will be the Time of the vifible Conjunction of the Luminaries at the given Place.
+
+For example ; When the perpendicular side of the Square cuts the Path of the Moon's Way at e, which is 37 Min. paft 6, the said side will likewise cut the Path of the Vertex for London at c, which is 37 Min. paft 6 ; therefore the Time of the vifible Conjunction of the Luminaries at London will be 37 Min. after 6,
+
+Draw the Line a b, as also the Line O b ; this mall reprefent the vertical Circle, and the Angle © b a will be the Angle that the vertical Circle makes with the Line connecting the Centers of the Sun and Moon, at the Beginning of the Eclipfe at London.
+
+Draw the Line g m ; to wit, join the Points in the Path of the Vertex, and the Puth of the Moon's Way, which fhews the End of the Eclipfe at London ; and the Line O g - y then the Angle O g m, will be that which the vertical Circle forms with the Line joining the Centers of the Luminaries.
+
+Take the Semi-Diameter of the Sun, viz. 15 44 between your Compasses, either from your Sector, opened as before directed, to the Semi-Diameter of theDisk, or from your Scale, and with that upon the Center c (to wit, the Minute in the Path of London, whereat the Time of the vifible Conjunction happens) defcribe a Circle ; this Circle shall reprefent the Sun.
+
+Again -, Take the Moon's Semi-Diameter 16%-% from your Sector (remaining opened as before), or your Scale, and upon the Center e (to wit, the Minute in the Path of the Moon's Way, whereat the true Conjunction happens at London) defcribe another Circle. This shall cut off from the former Circle so much as the Sun will be eclipfed, at the Time of the vifible Conjunction.
+
+From O draw the Line 0^: This mall reprefent the vertical Circle, and v the vertical Point in the Sun's Limb, whereby the Pofition of the Cufps of the Eclipfe, in refpect of the Perpendicular passing thro' the Sun's Center, are plainly and eafily had.
+
+Produce d c 'till it interfects the Moon's Limb in p, then shall p q be the part of the Sun's Diameter eclipfed, ?t the Time of the greateft Obfcuration at London : And if the Sun's Diameter be divided into 12 equal Parts, or Digits, you will find p q to be 11 -££s of those Parts or Digits.
+
+"Whence at London^
+
+H. M. Aftern.
+
+The Beginning of the Eclipfe, May 11, 1724, at - - - 05 41
+
+The vifible Conjunction of the Luminaries 06 37
+
+Digits then 1 1 -AV
+
+The End * * « 07 29
+
+After the fame manner, the Beginning of the Eclipfe at Genoa will be 06 27
+Vifible Conjunction, or middle of the Eclipfe 07 20
+
+The Sun will there fet eclipfed, and the Eclipfe will be Total.
+
+And the Beginning of the Eclipfe at Rome is - - - 06 42
+
+The vifible Conjunction, or Middle, will there be when the Sun is fet a and confequcntty also the End.
+
+I have, as you fee in the Figure, also drawn a fourth Path (or Edinburgh, whose Latitude is $$ Deg. 56 Min. and Longitude about 3 Deg. to the West from London. Wherefore for each Hour in the Moon's Way for London, you ffiuft account 1 2 Min. more for the fame Hour at Edinburgh ; that is, for example, 5 a-Clock on the Line of the Moon's Way for Edinburgh) must ftand at 1 2 Min. paft 5 at London. Underftand the fame for other Hours, &V.
+
+And by proceeding according to the Directions before given, you will find,
+
+Note, The Path of the Moon's Way ought to be continued out further to the Left-hand* in order to determine the Time of the End of the Eclipfe at Edinburgh.
+
+If you have a mind to know at what Time any poffible Number of Digits or Minutes shall be eclipfed at any Place in the Sun's antecedent or confequent Limb ; divide the Sun's Diameter into Digits or Minutes, and cut off the Parts required to be eclipfed from the Semi-Diameter of the Penumbra ; then take the remaining part of it between your Com- passes, and carrying it along the Line of the Moon's Way, find the first Point in it, in which placing one Foot, the other will cut the fame Hour in the Path of the Place that the fixed Foot ftands upon ; then the Hour and Minute in either Path upon which the Feet of your Compasses ftand, will be the Time of that Obfcuration.
+
+As, for example •, Suppose it was required to find at what Time 6 Digits or 4- of the Sun's Diameter shall be eclipfed in his antecedent Limb at London : Cut off 4 of the Sun's Semi- Diameter from the Semi-Diameter of the Penumbra, and carrying the Remainder, as directed, you will find, that if one Point of your Compasses be fet at 6 Hours 9 Minutes in the After- noon, on the Path of the Moon's Way, the other Point will also fall upon the fame Hour and Minute in the Path of London -, and therefore the Time when the Sun's antecedent Limb at London will be half eclipfed, will be at 9 Minutes paft 6 ; and when it's confequent Limb will be half eclipfed, will be at 5 Minutes paft 7.
+
+Fig. 2, Now to determine the Pofition of the Cufps of the Eclipfe, for example, at London :
+
+Draw a Circle A D B E, reprefenting the Sun's Body, and the right Line A C B, reprefent- ing his vertical Diameter. This being done, lay off the Angle © b a upon the Sun's Limb from A to D, draw the Diameter E C D, and the Point D will be the firlt Point of the Sun's Limb obfcured by the Moon at the Beginning of the Eclipfe.
+
+Fig. 3. Again ; To determine the Pofition and Appearance of the Eclipfe at the Time of the
+
+middle, or greateft Obfcuration, take the Sun's Semi-Diameter between your CompaiTes, and upon the Point C, defcribe a Circle •, then draw the vertical Diameter A C B, and make the Angle A C D equal to the Angle v c p, and draw the Diameter D C F. This bein» done take the Moon's Semi-Diameter between your CompaiTes, and having laid off from the Center C to E, the Distance c e in. the first Figure ; upon the Point E, as a Center, de- fcribe an Arc cutting the Sun's Limb, and the Pofition and Appearance of the Eclipfe at the Time of the greateft Obfcuration, or the middle, at London, will be as you fee in the Figure.
+
+Laftly, To determine the Pofition of the End of the Eclipfe, draw a Circle (as in the 4 th Figure), and crofs it with the vertical Diameter ACB; then make the Angle ACE equal to the Angle O g m, and draw the Diameter E D •, then will the Point E on the Limb of the Sun, be that which is last obfcured, or whereat the Eclipfe ends.
+
+If you have a mind to find the Continuation of total Darknefs at any Place where the Sun will be totally eclipfed, cut off the Semi-Diameter of the Sun, from the Semi-Diameter of the Penumbra, and taking the Remainder between your Compafles, carry it along the Line of the Moon's Way, and find the first Point in it j on which placing one Foot, the other will cut the fame Hour in the Path of the Place, which Hour note dow r n. Again -, Carrying on further the fame Extent of your Compasses, find two Points on the Paths of the Vertex and Moon's Way, which shall fhew the fame Hour and Minute on them both. This Time also note down ; then fubftracl the Time before found from this Time, and the Difference will be the Time of Continuance of total Darknefs.

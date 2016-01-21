@@ -1,0 +1,967 @@
+
+Of the ConjlruEiion and Uses of the SECTOR.
+
+CHAR I.
+
+Of the ConflruEtion of the Senior.
+
+H E Sector is a Mathematical Inftru merit, whose Use is to find the Pro- portion between Quantities of the fame kind ; as between one Line and another, between one Superficies and another, between one Solid and an- other, &c.
+
+This Instrument is made of two equal Rules, or Legs, of Silver, Brass, Ivory, or Wood, joined to each other by a Rivet, so worked, as to render it's Motion regular and uniform. To do which, first make two Slits with a Saw, about an Inch deep, at one End of one of the Rules, in order to fit therein the Head-Pieces, which muff, be well rivetted. Afterwards the Head mufb be rounded, by filing off the Superfluities, in such manner, that the Middle- Piece and Head- Pieces may be even with each other. Then to find the Center of the Rivet, fct one Foot of your CompafTes at the Bottom of the Middle-Piece, and mark with the other Foot four Sec- tions in the middle of the Rivet, by opening the Middle-Piece of the Joint to four or more different Angles, and the Middle- Point of those Sections will be the Center of the Rivet, and, confequently, also the Center of the Sector. This being done, a Line mud be drawn up- on the Rule from the Center, near the inward Edge, by which Line the inward Edge of the Rule muff be filed ft rait ; the inward Edge of the other Rule being also made ftrait, and flit, to receive the Middle- Piece, you mult cut away it's Corner in an Arc, so as it may well fit the Joint, and then rivet, with three or four little Rivets, the Rule to the Middle- Piece ; by which means the two Legs may eafily open and fhut, and keep at any Opening required. But Care must be taken that the Legs are filed very fiat, and do not twift ; Care must also be taken that the Sector be well centered, that is, that being entirely opened, both Infide and Outfide, may make a right Line, and that the Legs be very equal in Length and Breadth •, in a word, that it be very ftrait every way. Note* The Length and Breadth of the aforsaid Rules are not determinate, but they are commonly fix Inches long, three quar- ters of an Inch broad, and about one quarter in Thicknefs.
+
+There are commonly drawn upon the Faces of this Instrument fix kind of Lines ; viz. tho Line of equal Parts, the Line of Planes, and the Line of Polygons on one Side ; the Line of Chords, the Line of Solids, and the Line of Metals on the other.
+
+There is generally placed, near the Edge of the Sector, on one Side, a divided Line, whose Use is to find the Bores of Cannons •, and on the other Side, a Line fhewing the Dia- meters and Weights of Iron-Bullets, from one Quarter to 64 Pounds, whose Conftruction and Uses we shall give, in fpeaking of the Inftru ments belonging to the Artillery.
+
+SECTION I.
+
+Of the Line of Equal Parts.
+
+THIS Line is so called, because it is divided into equal Parts, whose Number is com- Plate 6. monly 200, when the Sector is fix Inches long. Fig ,
+
+1 kvino- drawn upon one of the Faces of each Leg the equal Lines A B, A B, from the Cen- ter oi the* Joint A: First, divide them into two equal Parts, each of which will confequent- ly be ioo ; then each of those Parts being again divided into two equal Parts, and each Part arifincr will' be $o ; then divide each of these Jaft Parts into five others, and each Part produced wih be io •, and finally dividing each of these new Parts into 2, and each of these last into five equal Parts, and by this means the Lines A B, AB, will be each disaded into 200 equal Parts, every 5 of which mud be distinguished by fhort Strokes, and every 10 numbered t'rom'the Center A to 200, at the other End.
+
+Now because the two other Lines, drawn upon the fame Faces of each Leg, mud ter- minate in the Center A, the Extremity B of the Line of equal Parts must be drawn as near as poffible the outward Edges of each Leg, that so there may be Space enough left to draw the Line of Planes in the middle of the Breadth of the said Legs, and the Line of Polygons near their inward Edg»s ; but Care must be taken, in drawing of these Lines, that each one, and it's Fellow, be equally distant from the interior Edges of each Leg, as may be feen in the Figure.
+
+SECTION II.
+
+Of the Li?ie of Planes.
+
+THIS Line is so called, because it contains the homologous Sides of a certain Number of similar Plants, Multiples of a small one, beginning from the Center A ; that is, whose Surfaces are double, triple, quadruple, i£c. that small Plane, from Unity, according to the natural Order of Numbers, to 64, which is commonly the greateft Term of the Divisions, cknoted upon the Line A C.
+
+This Line may be divided two ways, both of which are founded upon Prop. 20. lib. 6. End which dcmonflrates, That similar Plane Figures are to each other, as the Squares of their homologous Sides. The first way of dividing this Line is by Numbers, and the second without Numbers, as follows :
+
+Having drawn the Line A C, from the Center A, upon each Leg of the Sector ; first di- vide it into eight equal Parts, the first of which; next to the Center A, which reprefents the Side of the least Plane, hath no need of being drawn. The second Division from the Center, which is double the first, is the Side of a similar Plane quadruple the least Plane, (whose Side is fuppoled one of the eight Parts the Line A C is divided into), because the Square of 2 is 4. The third Division, which is three times the first, is the Side of a similar Plane, nine times greater than the first, because the Square of 3 is 9. The fourth Division, which is four times the first, and confequently half of the whole Scale, is the Side of a similar Plane, fix- teen times greater than the first, because the Square of 4 is 16. Laftly, The eighth Divi- fion which is eight times the first, is the Side of a similar Plane, fixty-four times greater, because the Square of 8 is 64.
+
+There is fomething more to do to find the homologous Sides of Planes that are double, triple, quadruple, &c. of the first. For you must have a Scale divided into 1000 equal Parts Fig. 2. (as that whose Conftruction we have already given in Book I.), whose Length must be equal to the Line A C •, and because the Side of the least Plane is '- of the Line A C, it will con- fequently be ' of 1000, which is 125. Again, to have in Numbers the Side of a Plane double the least, the square Root of a Number twice the Square of 1 25 must be found. This Square is 15625, which doubled, is 31250, the square Root of which is about 177, the Side of a similar Plane double the least, whose Side is fuppoled to be 125. Moreover, to have the Side of a Plane three times the first, the square Root of a Number three times the Square of the first must be found. The Number is 46875, and it's Root, which is about 216, is the Side of a similar Plane three times the least, and so of others ; therefore by laying off from the Center A, upon the Line of Planes, 177 Parts of the aforsaid Scale, you will have the Length of the Side of a similar Plane double the least Plane. Again, laying off 2 1 6 Parts of the lame Scale from the C enter A, the Length of *he Side of a similar Plane will be had, which is three times the least Plane.
+
+^ According to the aforsaid Directions, the following Table is calculated, that fhews the Number of equal Parts which are contained in the homologous Sides of all the similar Planes that are double, triple, quadruple, &c. of a Plane whose Side is 125, to the Plane 64, that is, which contains it 64 times, and whose Side is 1000.
+
+
+Each of the ten Divisions which the Scale of 1000 Parts contains, is 100 ; and each of the Subdivifions of the Line AB is 10 : therefore if it is to be used for dividing any of the Lines of the Sector -&gt; as, for Example, the Line of Planes •, take on the Scale a Line denoting the Hundreds, and the Excefs above must be taken in the Space between the Points- AB : As to denote the first Plane, to which the Number 125 anfwers, place your CompafTes on the fifth Line of the Space marked 100, and open them to the Distance OP; in the fame manner, if the Plane 50 is to be denoted, to which the Number 884 anfwers, for 800 take the 8th Space of the Scale, and for 84 take in the Space A B, the Interaction of the 8th Tranfvcrfal, with the fourth Parallel, which will be the Distance NL.
+
+The Line of Planes may otherwise be divided in the following manner, without Calcula- tion, founded on Prop 47. lib. 1. Eucl. Make the right-angled Ifofceles Triangle KMN, whose Side KM, or K N, let be equal to the Side of the least Plane, and then the Hypo- thenufe M N will be the Side of a similar Plane double to it ; therefore having laid off with your CompafTes the Distance M N, on the Side KL produced, from K to 2, the Length K 2 will be the Side of a Plane double the least Plane. In like manner lay off the Distance M 2, from K to 3, the Line K 3 will be the Side of a Plane triple the first. Again, lay off the Distance M 3, from K to 4, the Line K 4 (twice K M) will be the Side of a Plane four times greater, that is, which will contain the least Plane four times ; and so of others, as may be feen in the Figure.
+
+SECTION III.
+
+
+
+Of the Line of Polygons.
+
+
+
+This Line is so called, because it contains the homologous Sides of the first twelve regular Polygons inlcribed in the fame Circle, that is, from an equilateral Triangle to a Dodecagon.
+
+The Side of the Triangle being the greateft of all, must be the whole Length of each of the Legs of the Sector ; and because the Sides of the other regular Polygons, inferibed in the fame Circle, ftill diminish as the Number of Sides increafe, the Side of the Dodecagon is least, and confequently must be nigheft the Center of the Sector.
+
+Now supposing the Side of a Triangle to be a thoufand Parts, the Length of the Sides of every of the other Polygons must be found ; and because the Sides of regular Polygons, in- feribed in the fame Circle, are in the fame Proportion as the Chords of the Angles of the Cen- ter of each of the Polygons, it is neceffary to fhew here how to find the said Angles.
+
+To do which, divide 360 Deg. by the Number of the Sides of any Polygon, and the Quotient will give the Angle of the Center.
+
+l^ for Example, the Angle of the Center of a Hexagon is required, divide 360 Deg. by 6, and the Quotient will be 60 ; which fliews that the Angle of the Center of a Hexagon is 60 Deg. If likewise the Angle of the Center of a Pentagon be required, divide 360 Deg. by 5, the Number of Sides, and the Quotient will be 72 •, which fhews that the Angle of the Center of a Pentagon is 72 Deg. and so of others.
+
+The Angle of the Center being known, if it be fubftracted from 180 Degrees, the Remainder will be the Angle of the Polygon : As, for Example, the Angle of the Center of a Pentagon
+
+
+Regular Polygons.
+
+Angles
+
+Now to find in Numbers the Sides of the regular Polygons inferibed in the fame Circfe : Having supposed that the Side of the equilateral Triangle is 1000 equal Parts, inftead of the Chords of the Angles of the Center, take their Halves, which are the Sines of half the Angles at their Centers, and make the following Analogy.
+
+For Example, to find the Side of the Square, fay, As the Sine of 60 Degrees, half the Ann-le of the Center of the equilateral Triangle, is to the Side of the fame Triangle, fup- pofed 1000 •, So is the Sine of 45 Degrees half the Angle of the Center of the Square, to the Side of the fame Square, which, by calculating, will be found 816.
+
+And in this manner are the following Tables of Polygons conftructed.
+
+We have neglected the Fractions remaining after the Calculation in this Table, as in a, others •, as being but thoufandth Parts, which are not considerable.
+
+Those that will not denote an equilateral Triangle upon the Sector, because of the Facility of defcribingit, and which confequently begin at the Square, use the following Table, where- in the Side of the Square is supposed 1000 Parts.
+
+
+To make the Line of Polygons upon the Sector (the fame Scale of 1000 equal Parts be- ing used, as that for making the Line of Planes), you must lay ofF from the Center A, upon both the Lines A D, the Number of Parts exprefled in the Table, that thereby the Num- bers 3, 4, 5, csV. may be graved upon the Sector, fignifying the Numbers of the Sides of the regular Polygons.
+
+Of the Line of Chords.
+
+THIS Line is so named, because it contains the Chords of ail the Degrees of a Semi- circle, whose Diameter is the Length of that Line, which is denoted upon the other Surface of each Leg of the Sector, from the Point A, which is the Center of the Joint, to the End F of each Leg ; so that the two Lines A F are exactly equal, and equidistant from the interior Edges of the Sector.
+
+Note, The Line of Chords mud be drawn directly under the Line of equal Parts, because of some Operations that require a Correfpondence between those two Lines.
+
+It is alio proper for the Line of Solids to be drawn under the Line of Planes, and the Line of Metals under the Line of Polygons.
+
+For the Division of the aforsaid Line A F, defcribe a Semicircle, whose Diameter let be equal to it, which divide into 180 Degrees ; afterwards lay off the Lengths of the Chords of all those Degrees upon the Diameter of the Semicircle ; then lay the Diameter of the Se- micircle upon the Legs of the Sector, and mark upon them Points that repRestnt the Degrees of the Semicircle, every filth of which, distinguish by fhort Strokes, and every tenth by Numbers, beginning from the Point A, and going on to F.
+
+The fame Degrees may otherwise be denoted, upon the Line of Chords, by help of Num- bers, in supposing the Semidiameter of a Circle, or the Chord of 180 Degrees, to be 1000 equal Parts •, all of which Numbers may be found ready calculated in the common Tables of Sines : for in (lead of the Chords, there is no more to do but to take their halves, which are the Sines of half their Arcs. As for Example; inilead ok the Chord of 10 Degrees, the Sine of 5 muff, be taken-, and because the Calculation in Tables is made for a Radius of 100000 Parts, the two last Numbers must be taken away, as may be feen in the following Table, where the Chords of all the Degrees to 180 are denoted.
+
+Note, This Division is made with a Scale of 1000 Parts.
+
+SECTION V.
+
+Of the Line of Solids*
+
+THIS Line is so called, because it contains the homologous Sides of a certain Number of similar Solids, Multiples of a leffer from Unity, according to the natural Order of Num- bers, to 64, which is commonly the greateft of the Divisions of this Line, which is marked Fig. 44 A H, next to the Line of Chords.
+
+To make the Divisions upon it, the Scale of 1000 Parts must be used, and the Side of the 64th and created Solid mult be supposed 1000 equal Parts •, then because the Cube-Root of 64 is 4, and the Cube Root of 1 is 1, it follows that the Side of the 64th Solid is quadruple the Side of the first and lead Solid, which confequently will be 250, because (per Prop. %%. lib. 11. Eucl.) similar Solids are to each other, as the Cubes of their homologous Sides.
+
+The Number 500 (twice 250) is the Side of the eighth Solid, that is, of a Solid eight times as great as the firlt : because the Cube of 2, which is 8, is eight times the Cube of
+
+Unity. p /
+
+Likewise the Number 750, which is three times 250, is the Side of the 27th Solid ; be- caufe the Cube of 3, which is 27, is 27 times the Cube of Unity.
+
+There are more Calculations required to find the Sides of Solids double, triple, quadru- ple, &?f. the first, which cannot exactly be expRested in Numbers, because their Roots are incommenfurdble •, ncverthelefs they may be fufficiently approached forUse, by the following Method.
+
+For Example -, To find the Number expreffing the Side of a Solid, twice the first and lead i it's Side 250 mud be cubed, which is 15625000 ; then this Number must be doubled, and the Cube-Root of it extracted, which will be almost 315, for the Side of a Solid double the first. To have the Side of a Solid triple the first, the said Cube must be tripled, and it's Cube- Root, which is 360, will be the Side of a Solid triple the first; and so of others, as may be feen in the following Table.
+
+The Sides of all these Solids being thus found in Numbers, they are denoted on the Lin© of Solids, by laying off from the Center A the Parts which they contain, taken upon the
+
+Scale*
+
+SECTION VI.
+
+Of the Line of Metals.
+
+T HI S Line is so named, because it is used to find the Proportion between the fix Me- tals, or which Solids may be made.
+
+It is placed upon the Legs of the Sector, hard by the Line of Solids, and the Metals are Pig, 4, hgured thereon by the Chara&ers, which have been appropriated to them by Chymifts and
+
+T w DiV u ifi ° n ° f thlS Line 1S founded u P on Experiments that have been made of the diffe- rent Weights of equal Maffes of each of these Metals, from whence their Proportions arc calculated, as in the following Table.
+
+
+r z The ConfiruSiion and Uses Book II,
+
+A TABLE for the Line of Met ah. Atfoertifment.
+
+That of all the fix Metals which has the leaf! Weight, which is Tin, is marked at the End of each Leg (as A G) at a Distance from the Center, equal to the Length of the Scale of 1000 Parts -, and the other Metals niglier the said Center (each according to the Numbers which correfpond with them), taken upon the fame Scale.
+
+Because mod of the aforementioned Lines, marked on the Sector, are divided by means of the Scale of 1000 equal Parts, it is requifite that they be exactly equal between themfelves and to the said Scale ; therefore, because they all center in one Point (which is the Center of the Joint), they must all be terminated at the other End by an Arc, made upon the Sur- face of each of the Legs.
+
+It is not always necclTary to divide the Sector by the Methods we have given ; for, to make them fooner, prepare a Ruler of the fame Length, Breadth, and Thicknefs as the Sector, and draw upon it the fame Lines we have already prefcribed : then with a Beam- Compass transfer the fame Divisions upon the Sector, having first drawn upon it the Lines vj contain them.
+
+SECTION VII.
+
+Containing the Proofs of the Six Lines commonly put upon the Sec~fcr.
+
+The Proof of the Line of equal Parts.
+
+The Division of this Line is so eafy, that there is no need of any other Proof, but to examine, with your CompalTes, whether the two correfpondent Lines, drawn upon the Legs of the Sector, are very equal, and equally divided ; which may be known by taking be- tween your Compaifts (whose Points let be very fharp) any Number at pleafure of those equal Parts, beginning any where : for if the Line of equal Parts be well divided, by carrying that fame Opening of your CompaiTes on the said Line, the two Points will always contain be- tween them the fame Number of equal Parts upon either of the Legs, reckoning from the Center, or from any other Point of Division.
+
+The Proof of the Line of Chords.
+
+The Method before explained will not ferve to know whether the Line of Chords be well divided, because the Divisions are not equal : the Chord of 10 Degrees, for Example, is greater than half that of 20 ; likewise the Chord of 20 Degrees is greater than the hall of that of 40 Degrees, and so on : so that the Divisions are greater towards the Center of the Sector, than towards the Ends of it's Legs, as is manifelt from the Nature of the Circle. But because we have given two Methods for dividing the Line of Chords, one by help of Numbers, and the other by means of the Chords of Arcs, one of these Methods will lerve to prove the other.
+
+But there is ftiil another Method, which is this : Take at pleafure, on the Line of Chords, two Numbers equally distant from 120 Degrees •, as for Example, no and 130, which are each 10 Degrees distant from it; the first in Defect, and the last in Excefs : Then take in your CompaiTes the Distance of the two Numbers 1 10 and 130, which must be equal to the Chord of 10 Degrees, or to the Distance of the Point 10, upon the Line of Chords, from the Center of the Sector.
+
+You will find, by the fame Means, that the Distance between 100 and 140 Degrees, is equal to the Chord of 20 Degrees ; as likewise Che Distance between 90 and 150 is equal to the Chord of 30 Degrees, which is the Number by which 120 exceeds 90, and by which 150 exceeds 120, and so of others, as may eafily be noted by the aforegoing Table of Chords, where you may fee (for Example) the Number 44, which is the Chord of 5 Degrees, is the Difference between 843, which is the Chord of 115 Degrees -, and 887, which is the Chord of 125 •, as likewise 87, the Chord of 10 Degrees, is the Difference between the Chord of 1 10 Degrees and 130, &c. which are equally distant from 120 Degrees.
+
+Proof of the Line of Polygons.
+
+You may know whether this Line be well divided, by help of the Line of Chords, in the following manner.
+
+Take in your CompaiTes, upon the Line of Polygons, the Distance of the Number 6, de- noting a Hexagon, from the Center of the Joint ; then carry this Distance upon the Line of Chords, putting each Point of your Compallls upon the correfpondent Points, from 60 to 60, denoting the Angle of the Center of an Hexagon.
+
+The Seftor bcin* thus opened, take upon each Line of Chords the Distance of the two Points marked 72 from the Center, and lay it off upon the Line of Polygons, placing one Foot in the Center of the Joint ; then the other loot must reach to the Point 5, which ap- pertains to a Pentagon, whose Angle at the Center is 72 Degrees.
+
+Likewise in taking upon the Line of Chords the Distance of the two Points, denoting go 4 and laying it off upon the Line of Polygons, the Foot of your Compasses must meet the Point 4, appertaining to a Square, whose Angle of the Center is 90 Deg. and so of others.
+
+Proof of the Line of Planes.
+
+Because we have given two Methods for dividing the Line of Planes, one may ferve to prove the other; but (fill you may eafier know whether the Divisions be well made, in the following manner : Take between your Compasses the Distance of any Point upon this Line from the°Ccnter of the Joint, and lay it off from the fame Point on the other Side of the fame Line of Planes ; then the Foot of your Compasses will fall upon the Number of a Plane four times greater than that which was taken towards the Center : and if again your Compasses thus ouened mould be once more turned over, towards the End of the laid Line, the Point would'fall upon the Number of a Plane nine times greater. As, for Example-, if you take the Distance from the Center to the Plane 2, in placing one Point of your Compasses on 2* the other ought to fall upon 8 ; and by turning the Compasses once more, one of it's Points must fall upon 18, which contains 9 times 2. Moreover, in turning the Compasses once more over, the other Point ought to fall upon the Number 32, containing 2, 16 times. If, lastly, you turn over the Compasses again, it must fall upon 50, and so of other similar' Planes/ because they are to each other as the Squares of their homologous Sides. It is this that facilitates the Division of the Line of Planes ; for having the first, these are likewise had, viz. the 4th,- the 9th, the 16th, the 20th, the 25th, the 36th, .the 49th, and the 64th. Having found the 2d, the 8th, the 18th •, the 32d, and the 50th will be had : likewise hav- ing found tfie 3d, the 12th, the 27th, and the 48th will be had-, and so of others.
+
+Proof of the Line of Solids.
+
+You may know whether this Line be well divided, in the following manner : Take be- tween your Compasses the Distance of some Point on this Line from the Center of the Joint j then place one of it's Points, thus opened, upon this Point of Division, and turn the other Point over towards the End of the Line. Now this Point must fall upon the Number of a Solid 8 times greater than that which was taken. Again, if the Compasses be once more turned over, it will fall upon a Solid 27 times greater than that which was first taken. As, for Example ; the F)iftance of the first Solid from the Center-, will be equal to the Diftancfc from 8 to 27, and from 27 to 64. Likewise, twice the Distance from the Center to 3, will be equal to the Distance from 3 to 24. By the 4th Solid, the 32d will be had. Moreover the 5th Solid will give the 40th ; by the 6th the 48th Solid will be had ; and, in a word, by help of the 7th, the 56th Solid will be had -, because similar Solids are to each other, as the Cubes of their homologous Sides, which facilitates the Division of the Line of Solids^
+
+Proof of the Line of Metals.
+
+We have already mentioned, that the Division of this Line is founded upon Experiments made of the different Weights of a Cubic Foot of each of the fix Metals, as they are here denoted.
+
+Metals. Weights of a Cubic Foot.
+
+From these different Weights of the fix Metals the beforementioned Table was calculated by means of which the Line of Metals was divided.
+
+Now because Tin is the lighted of the Laid fix Metals, it* is fnanifeft that if, for Example, a Ball of Tin is to be made of the fame Weight as a Ball of Iron, or Brass, the Ball of Tin must be greater than either of them -, as also the Ball of Iron ought to be greater than that of Brais, and so on to that which will be the lead. Therefore supposing the Diameter of a Ball of Tin to be 1000, the Queftion is to find the Lengths of the Diameters of Iron and Brass- Balls, that may be of the fame Weight as the Ball of Tin.
+
+Now to do this, you must make a Rule of Three, whose first Term let always be the heavieft of the two Metals to be compared ; the second Term must be the Weight of the Tin, and the third must be the Number 64, which is the greateft Solid of the Table of So- lids, to which the Number 1000 anfwers. As, for Example -, to compare Iron, a Cubic Foot of which weighs 558 Pounds, with Tin, a Cubic Foot of which weighs 516 Pounds, 2
+
+Ounces : Having reduced them all into Ounces, the 558 Pounds make 8928 Ounces ; and the 516 Pounds, 2 Ounces, make 8258 Ounces: then lay, if 8928 gives 8258, What will 64 give ? The Rule being finifhed, the fourth Term will be 59 and a small Remainder -, then look for the Number 59 in the Table of Solids, and the Number anfvvering thereto is 973 - 3 inftead of which take 974, because of the remaining Fraction : therefore, I fay, that the Diameter of the Ball of Iron must be 974. In the fame manner, by making four other Rules of Proportion, you may know whether the Numbers, marked against the four other Metals, are well calculated, and confequently, whether the Line of Metals be well divided.
+
+TH E Uses we mail here lay down, are only those that most appertain to the Sector, and which by it can be better performed, than by any other Inflrument.
+
+SECTION I.
+
+Of the U S E of the Lint of equal Parts.
+
+U S E I. To divide a given Line into any Number of equal Parts ; for Example, into seven.
+
+Plate 7. TAKE between your CompafTes the propefed Line, as A B, and carry it, upon the Line
+
+Fig. 1. of equal Parts, to a Number on both Sides, that may eafily be divided by 7, as 70, whose 7th
+
+Part is 10; or else the Number 140, whose 7th Part is 20. Then keeping the Sector thus opened, fhut the Feet of your CompafTes, so that they may fall on the Numbers 10 on each Leg of the Sector, if the Number 70 be used •, or upon the Numbers 20, if 140 be taken for the Length of the proposed Line ; and this opening of your CompafTes will be the 7th Part of the proposed Line.
+
+Note, If the Line to be divided be too long to be applied to the Legs of the Sector, only- divide one half, or one fourth of it by 7, and the double, or quadruple, of this 7th Part* will be the 7th Part of the whole Line.
+
+USE II. Several right Lines, conftituting the Perimeter of a Polygon, being given, one of which is supposed to contain any Number of equal Parts : to find how many of these Parts are contained in each of the other Lines.
+
+Take that Line's Length, whose Meafure is known, bctwetn your CompafTes, and fet it 6Ver, upon the Line of equal Parts, to the Number on each Side, expreffing it's Length. The Sector remaining thus opened, carry upon it the Lengths of each of the other Lines, pa- rallel to the beforementioned Line, and the Numbers that each of them falls on will fhew their different Lengths: But if any one of the said Lines doth not exactly fall upon the fame Number of the Lines of equal Parts, upon both Legs of the Sector; bat, for Inftance, one of the Points of the CompafTes falls upon 29, and the other upon 30 ; the Length of the said Line will be 29 and a half.
+
+USE III. A right Line being given, and the Number of equal Parts it contains \ to take from it a leffer Line, containing any Number of it's Parts.
+
+Let, for Example, the proposed Line be 120 equal Parts, from which it is required to take a Line of 25. First take the proposed Line between your CompafTes, and then open the Sector, so that the Feet of your CompafTes may fall upon 120, on the Line of equal Parts,. upon each Leg of the Sector : The Sector remaining thus opened, take the Distance from 25 to 25, and that will give the Line defired. It is manifest, from the three aforementioned Uses, that the Line of equal Parts* upon the Legs of the Sector, may very fitly Terve as a Scale for all kinds of plane Figures, provided that one of their Sides be known ; and that., by means of this Line, they may be augmented or diminished.
+
+USE IV. Two right Lines being given, to find a third Proportional: and three being
+
+given, to find a fourth.
+
+If there be but two Lines proposed, then take the Length of the first between your Com- pafTes, and lay it off upon the Line of equal Parts from the Center, in order to know the Number whereon it terminates; then open the Sector, so that the Length of the second Line may be terminated by the Length of the first. The Sector remaining thus opened, lay off the Length of the second Line upon one of the Legs from the Center-, and, Note, the Num- ber whereon it terminates, and the Distance between that Number, on both Legs of the Sector, will give the third Proportional required,
+
+Let,
+
+
+
+Chap. z. of the Se&or. 55
+
+Let, for Example, the first Line proposed be A B, 40 equal Parts ; and the second C D, 20. First take the Length of 20 between your Compasses, and opening the Sector, fet over Fig. 3. this Distance upon 40, and 40 on each Leg of the Sector. TheSector remaining thus opened, take the Distance from 20 to 20, which will be the Length of the third Proportional fought; which being mcafured, on the Line of equal Parts, from the Center, you will find it 10 ; for As 40 is to 20, So is 20 to 10.
+
+But if three Lines be given, and a fourth Proportional to them be required ; take the second Line between your Com passes, and, opening the Sector, apply this Extent to the Ends of the first, laid off from the Center, on both Legs of the Sector. The Sector being thus opened^ lay off the third Line from the Center, and the Extent between the Number, whereon it ter- minates on both Legs of the Sector, will be the fourth Proportional required.
+
+Let the first of the three Lines be 60, the second 30, and the third 50 •, carry the Length of 30 to the Extent from 60 to 60 ; and the Sector remaining thus opened, take the Distance from 50 to 50, which is 25, and this will be the fourth Proportional fought: for 60 Is to 30! As 50 to 25.
+
+U S E V. To divide a Line into any given Proportion.
+
+As for Example •, to divide a Line into two Parts, which may be to each other as 40 is to 70: First add the two Numbers together, and their Sum will be no; then take between your Compasses the Length of the Line proposed* which suppose 165, and carry this Length to the Distance, from 110 to 110, on both Legs of the Sector. The Sector remaining thus opened, take the Extent from 40 to 40, and also from 70 tO 70 ; the first of the two will give 60, and the latter 105, which will be the Parts of the Line proposed ; for 40 Is to 70, As 60 is to 105.
+
+USE VI. To open the Setter, so that the two Lines of equal Parts may make a right Angle.
+
+Find three Numbers, that may exprefs the Sides of a right-angled Triangle, as 3, 4, or 5* or their Equimultiples ; but since it is better to have greater Numbers, let us take 60, 80, and 100. Now having taken, between your Compasses, the Distance from the Center of the Sector to 100, open the Sector, so that one Point of your Compasses, fet upon 80 on oneLeg* may fall upon 60, of the Line of equal Parts, upon the other Leg; and then the Sector will be so opened, that the two Lines of equal Parts make a right Angle.
+
+USE VII. To find a right Line equal to the Circumference of a given Circle.
+
+The Diameter of a Circle is to the Circumference almost as 50 to 157 ; therefore take* between your Compasses, the Diameter of the Circle, and fet it over, upon the Legs of the Sector, from 50 to 50, on both Lines of equal Parts. The Sector remaining thus opened, take the Distance from 157 to 157, between your Compasses, and that will be almost equal to the Circumference of the proposed Circle ; I fay almost, for the exact Proportion of the Diameter of a Circle to it's Circumference hath not yet been Geometrically found *.
+
+SECTION II.
+
+Of the U S E of the Line of Planes.
+
+U S E I. To augment or diminijh any Plane Figures in a given Ratio.
+
+LET, for Example, tiie Triangle A B C be given, and it is required to make another Tri- Fig. 4. angle similar, and triple to it.
+
+Take the Length of the Side A B between your Compasses, and open the Sector, so that the Points of your Compasses fail upon 1 and 1, on each Linecf Planes ; the Sector remain- ing thus opened, take the Distance from the third Plane to the third, on each Leg of the Sector, which will be the Length of the homologous Side to the Side A B. After the fame manner may the homologous Sides to the other two Sides of the given Triangle be found* and of these three Sides may be formed a Triangle triple to the proposed one. Note, If the proposed Plane Figure hath more than three Sides, it must be reduced into Triangles, by drawing of Diagonals.
+
+If a Circle is to be augmented or diminished, you must proceed in the fame manner with it s Diameter.
+
+U S E II. Two similar Plane Figures being given ; to find the Ratio between them. Take either of the Sides of one of the Figures, and open the Setter, so that it may Fall upon the fame Number or Division, on the Line of Planes, on both Legs of the Sector. Then take the homologous Side of the other Figure, and apply that to some Number or Di- vifion on both Legs of the Sector ; and then the two Numbers, on which the homologous Sides fall, will exprefs the Ratio of the two Figures. As suppose the Side a b, of the lefter Fig. 5. figure, falls upon the fourth Plane; and the homologous Side A B, of the greater, falls upon the fixth Plane, the two Planes are to each other as 4 to 6. But if the Side of a Figure is ap- plied to the Extent of some Plane, on both Legs of the Sector, and the homologous Side can-
+
+^6 ihe Conjlruciion ana Uses Book II.
+
+not be adjufted parallel to it, so as it may fall on a whole Number on both Legs of the Sec- tor ; then you mult place the Side of the first Figure upon some other Number, on each Leg* 'till a whole Number is found on both Legs of the Sector, whose Extent is equal to the Length of the homologous Side of the other Figure, to avoid Fractions.
+
+If the proposed Figures are so great, that their Sides cannot bo applied to the Opening of the Legs of the Sector, take the half, third, or fourth Parts of any of the two homologous Sides of the find Figures, and compare them together, as before, and you will have the Pro- portion of the laid Figures.
+
+USE III. To open the Seclcr, so that the two Lines of Planes may make a right Angle. Take between your Compaflls the Extent of any Piane from the Centrr of the Sector ; a?, for Example, the 40th : then apply this opening of your Compasses, upon the Line of Planes, on both Sides, to a Number equal to half the precedent one, which, in this Example, is 20-, then the two Lines of Planes will be at right Angles: because, by the Conftruction of the Line of Planes, the Number 40, which may repiefent the longtft Side of a Triangle, signifies a Plane equal to two other similar Planes, denoted by the Number 20 upon the Legs of the Sector: Whence, from Prop. 48. lib. i. Eucl. the aforenamed Angle is aright one.
+
+USE IV. To make a plane Figure similar and equal to two other given similar plane Figures.
+
+Open the Sector (by the precedent Use) so that the Lines of Planes be at right Angles, and carry any two homologous Sides, of the two proposed Figures, upon the Line of Plants, from the Center, the one upon one Leg, and the other upon the other Leg ; and then theDi- ftance of the two Numbers found will give the homologous Side of a plane Figure similar and equal to the two given ones.
+
+As, for Example, the Side of the leftfer Figure being laid off from the Center, will reach to the fourth Plane ; and the homologous Side of the greater Figure, likewise laid off upon the other Leg, will extend to the ninth Piane : then the Distance from 4 to 9 is the homo- logous Side of a Figure equal to the two propofecf ones, by means of which it will be eafy to make a Figure similar to them.
+
+By means of this Use may be added together any Number of similar plane Figures, viz. in adding together the two first, and then adding their Sum to the third, and so on.
+
+USE V. Two similar unequal plane Figures being given ; to find a third equal to their
+
+Difference..
+
+Open the Sector, so that the*two Lines of Planes may make a right Angle ; then lay oft- one Side of the lefler Figure from the Center of the Sector. This being done, take the ho- mologous Side of the greater Figure, and fet one Foot of your Companies upon the Number whereon the first Side terminates, and the other Point will fall on the other Leg, upon the Number required.
+
+As, for Example ; having laid off the Side of the leiTer Figure from the Center, which falls upon the Number 9, take the Length of the homologous Side of the greater Figure, and fet- ting one Foot of your Compasses upon the Number 9, the other will fall on the Number 4 of the other Leg; therefore taking the Distance of the Number 4 from the Center of the: Sector, that will be the homologous Side of a Figure similar and equal to the Difference of the two given Figures, whose Ratio is as 9 to 13.
+
+USE VI. To find a mean Proportional between two given Lines.
+
+Lay off both the given Lines upon the Line of equal Parts, in order to have their Lengths expreffed in Numbers; the lefler of which suppose 20, and the greater 45 : Then open the Sector, so that the Distance from 45 to 45, of the Lines of Planes, be equal in Length to the greater Line. The Sector remaining thus opened, take the Distance from 20 to 20 of the Line of Planes, which will be the mean Proportional fought •, and having measured it upon the Line of equal Parts from the Center, you will find it to be 30: for As 20 is to 30, So is 30 to 45.
+
+But because the greateft Number on the Line of Planes is 64, if any one of the Lines pro- pofed be greater than 64, the Operation must be made with their half, third, or fourth Parts, in the following manner: Suppose the leiTer Number be 32, and the greater 72 ; open the Sector, so that half of the greater Number, viz. 36, may be equal to the Distance from 36 to 36, of the Line of Planes, upon both Legs of the Sector-, and then the Distance from 16 to 16 doubled, will be the mean Proportional fought.
+
+SECTION III.
+
+Of the U S E S of the Line of Polygons.
+
+USE I. To infer ibe a regular Polygon in a given Circle.
+
+Fig. 6. TA KE the Semidiameter A C, of the given Circle, between your Compasses, and adjuft it
+
+to the Number 6\ upon the Line of Polygons, on each Leg of the Sector •, and the Sector remaining thus opened, take the Distance of the two eciual Numbers, cxDreffing the Num- ber
+
+
+
+Chap. 2. of the Sector. 57
+
+her of Sides the Polygon is to have : for Example ; take the Distance From 5 to 5, to in- fcribr a Pentagon ; from 7 to 7 for a Heptagon, and so of others : either of these Distances, c-ncd about the Circumference of the Circle, will divide it into so many equal Parts. And thus you may cafily defcribe any regular Polygon, from the equilateral Triangle to the Do- decagon.
+
+USE II. To defcribe a regular Polygon upon a given right Line.
+
+If for Example, the Pentagon of Fig. 6. is to be defcribed upon the Line AB: Take the Fig. $. Length of the Paid Line between your Compafles, and appiy it to the Extent of the Numbers r ,- & o'i the Line of Polygons : The Sector remaining thus opened, take* upon the fame Lines the Extent from 6 to 6, which will be the Semidiameter of the Circle the Polygon is to be 'inferibed in ; therefore if, with this Distance, you defcribe, from the Ends of the given L he A B, two .Arcs of a Circle, their Interferon will be the Center of the Circle.
+
+' If an Heptagon was proposed, apply the Length of the given Line to the Extent of the Numbers 7 and 7, on both Legs of the Sector, and always take the Extent from 6 to 6, to find the Center of the Circle ; in which it will be eafy to inferibe an Heptagon, each Side of which will be equal to the given Line.
+
+USE III. To cut a given Line, as DE, into extreme and mean Proportion.
+
+Apply the Length of the given Line to the Extent of the Numbers 6 and 6, on both Fig. 7. Sides, liuon the Line of Polygons ; and the Sector remaining thus opened, take the Extent of the Numbers 10 and 10, on both Legs of the Sector, which are those for a Decagon. This Extent will give D F* the greateft Segment of the proposed Line, because the greateft: Segment of the Radius of a Circle, cut into mean and extreme Proportion, is the Chord of 26 Decrees, which is the 10th Part of the Circumference.
+
+If the greater Segment is added to the Radius of the Circle, so as to make but one Line* the Radius will be the greater Segment* and the Chord of 36 Degrees will be the lefler Seg- ment.
+
+USE IV. Upon a given Line D F, to defcribe an Jfofceles Triangle, having the Angles
+
+at the Base double to that at the Vertex.
+
+Open the Sector, so that the Ends of the given Line may fall upon 10 and 10, of the Fig. 8. Line of Polygons, upon each Leg of the Sector. The Sector remaining thus opened, take the Distance from 6 to 6, and this will be the Length of the two equal Sides of the Triangle to be made.
+
+It is manifest that the Angle, at the Vertex of this Triangle, is 36 Degrees, and that each of the Angles at the Base is 72 Degrees ; but the Angle of 36 Degrees, is the Angle of the Center of a Decagon.
+
+U S E V. To open the Seclor fo, that the two Lines of Polygons may make a right Angle
+
+Take between your Compasses the Distance of the Number 5, from the Center, on the Line of Polygons •, then open the Sector, so that this Distance may be applied to the Number 6 on one Side, and to the Number 10 on the other, and then the two Lines of Polygons will make a right Anglo ; because the Square of the Side of a Pentagon is equal to the Square of the Side of a Htxagon, together with the Square of the Side of a Decagon.
+
+SECTION IV.
+
+Of the USES of the Line of Chords.
+
+USE I. To open the Seclor, so that the two Lines of Chords may make an Angle of any
+
+Number of Degrees.
+
+FIRST take the Distance, upon the Line of Chords, from the Center of the Joint, to the Number of Degrees proposed ; then open the Sector, so that the Distance, from 60 to 60 on each Leg, be equal to the aforsaid Distance, and then the Lines of Chords will make the Angle required.
+
+As to make an Angle of 40 Degrees ; take the Distance of the Number 40 from the Fig. 9; Center, then open the Sector, 'till the Distance from 60 to 60, be equal to the said Distance of 40 Degrees. If a right Angle be required, take the Distance of 90 Degrees from the Cen- ter, and then let the Distance from 60 to 60 be equal to that, and so of others.
+
+USE II. The Seclor being opened, to find the Degrees of it's Opening.
+
+Take the Extent from 60 Degrees to 60 Degrees, and lay it off upon the Line of Chords from the Center ; then the Number, whereon it terminates, fheweth the Degrees of it's Opening.
+
+Sights are fometimes placed upon the Line of Chords, by means of which Angles are taken, in adding to the Sector a Ball and Socket, and placing it upon a Foot, to elevate it to the Height of the Eye : but these Operations are better performed with other Instruments.
+
+USE IH. To make a right-lined Angle, upon a given Line, of any Number of Degrees.
+
+Defcribe, upon the given Line, a circular Arc, whose Center Jet be the Point whereof the Angle is to be made ; then lit off the Radius, from 60 to 60, on the Lines of Chore's, The Sector remaining thus opened, take the Distance of the two Numbers upon each Leg, exprefiing the proposed Degrees, and lay it from the Line upon the Arc defcribed. Laftly, draw a right Line from the Center, through the End of the Arc, and it will make the Angle proposed.
+
+Suppose, for Example, an Angle of 40 Degrees be to be made at the End B, of the Line AB; having defcribed any Arc about the Point B, always lay off the said Radius from 60 to 60 on the Line of Chords (because the Radius of a Circle is always equal to the Chord of 60 Degrees), and lay off the Distance of 40 Deg. and 40 Dtg. from C to D. Laftly, draw- ing a Line through the Points B and D, the Angle of 40 Degrees will be had. Vid. Fig. 10.
+
+By this Use a Figure, whole Sides and Angles are known, may be drawn.
+
+USE IV. A right-lined Angle being given -, to find the Number of Degrees it contains.
+
+About the Vertex of the given Angle defcribe the Arc of a Circle, and open the Sector, so that the Distance from 60 to 60, on each Leg, be equal to the Radius of the Circle. Then take the Chord of the Arc between your Compasses, and carrying it upon the Legs of the Sector, fee what equal Number, on each Leg, the Points of your Compasses fall on, and that will be the Quantity of Degrees the given Angle contains.
+
+U S E V. To take the Quantity of an Arc, of any Number of Degrees, upon the Cir- cumference of a given Circle.
+
+Open the Sector, so that the Distance from 60 to 60, on each Line of Chords, be equal to the Radius of the given Circle. The Sector remaining thus opened, take the Extent of the Chord of the Number of Degrees upon each Leg of the Sector, and lay it off upon the Cir- cumference of the given Circle.
+
+By this Use may any regular Polygon be inferibed in a given Circle, as well as by the 1 ine of Polygons, viz. in knowing the Angle of the Center, by the Method and Table before expreffed, in the Conftruction of the Line of Polygons.
+
+For Example; to make a Pentagon by means of the Line of Chords : Having found the Angle of the Center, which is 72 Degrees, open the Sector, so that the Distance from 60 to 60, on each Leg of the Sector, be equal to the Radius of the given Circle ; and then take the Extent from 72 to 72, on each Leg, between your Compasses, which carried round the Cir- cumference, will divide it into five equal Parts, and the live Chords being drawn, the Poly- gon will be made.
+
+USE VI. To defcribe a regular Polygon upon the gh en right Line F G.
+
+As, for Example, to make a Pentagon, whose Angle of the Center is 72 Degrees ; open the Sector, so that the Distance from 72 Degrees to 72 Degrees, on each Line of Polygons, be equal to the Length of the given Line. The Sector remaining thus opened, take the Distance from 60 to 60, on each Leg, between your Compasses ; with this Distance, about the Ends of the given Line, as Centers, defcribe two Arcs interfering each other in D ; and this D will be the Center of a Circle, whose Circumference will be divided, by the given Line, into five equal Parts.
+
+SECTION V.
+
+Of the U S E S of the Line of Solids.
+
+USE I. To augment or diminish any Jimilar Solids in a given Ratio.
+
+Fig 12. LET, for Example, a Cube be given, and it is required to make another double to it.
+
+Carry the Side of the given Cube to the Distance of some equal Number, on both Lines of Solids, at pleafure ; as, for Example, to 20 and 20. The Sector being thus opened, take the Extent, on both Legs of the Sector, of a Number double to it, that is, of 40 and 40 j and this is the Side of a Cube double the proposed one.
+
+If a Ball or Globe be proposed, and it be required to make another thrice as big ; carry the Diameter of the Ball to the Distance of some equal Number, on both Lines of Solids, at pleafure, as to 20 and 20 ; then take the Distance from 60 to 60 (because 60 is thrice 20), and that will be the Diameter of a Ball three times greater than the proposed one, because Balls are to each other as the Cubes of their Diameters.
+
+If, again, a Cheft, in figure of a right-angled Parallelepipedon, contains three Meafu res of Grain, and it be required to make another similar Cheft to contain five Meafures •, open the Sector, so that the Distance from 30 to 30, on each Line of Solids, be equal to the Length of the Base of the Cheft ; then the Distance from 50 to 50, on each Leg, will be the homologous Side of that Solid to be made. Again, apply the Breadth of the Base to the Di- ftance of the said Numbers 30 and 30, and then the Distance from 50 to 50 will be the ho- mologous mologous Side to the said Breadth. Now having made a Parallelogram with these two Lengths, your next thing will be to find the Depth : To do which, open the Sector, so that the Distance from 30 to 30 be equal to the Depth of the given Cheft; then the Distance from 50 to 50 will be the Depth of the Cheft to be made. This being done, it will be eafy to make the Parallelepipedon, containing the five proposed Meafures.
+
+If the Lines are so long, that they cannot be applied to the Legs of the Sector, take any of their Parts, and with them proceed as before ; then the refpective Parts of the required Dimenfions will be had.
+
+USE II. Two similar Bodies being given ; to find their Ratio.
+
+Take either of the Sides of one of the proposed Bodies between your CompafTes, and having carried it to the Distance of some equal Number, on each Line of Solids, take the homologous Side of the other Solid, and note the Number on each Leg it falls upon ; and then the said Numbers will fbew the Ratio. of the two similar Solids.
+
+But if the Side of the fiift Solid be so applied to some Number on each Leg of the Sector, that the homologous Side of the other cannot be applied to the Extent of some Number on each Leq; •, then you must apply the Side of the first Solid to such a Number on each Line, that the Length of the Side of the second Solid may fail upon some whole Number on each Line of Solids, to avoid Fractions.
+
+USE III. To conjlruff and divide a Line, whoseUse is to find the Diameters of Cannon- Balls.
+
+It is found, by Experience, that an Iron Ball, three Inches in Diameter, weighs 40 Pounds % whence it will be eafy to find the Diameters of other Balls of different Weights, and the fame Metal, in the following manner: Open the Sector, so that the Eiftance from the 4th Solid to the 4th Solid, on each Line of Solids, be equal to three Inches The Sector re- maining thus opened, take upon the Lines of Solids the Distances of all the Numbers, from 1 to 64, on one Leg, to the fame Numbers on the other Leg •, then lay off all these Lengths upon a right Line drawn on a Ruler, or upon one of the Legs of the Sector, and where the Diameters terminate, denote the Weights of the Balls.
+
+But now to mark the Fractions of a Pound, as 4» -■* t» open the Sector, so that the Di- ftance of the 4th Solids on each Leg of the Sector, be equal to the Diameter of a iJall of one Pound. The Sector remaining thus opened, the Distance from the ift Solid to the ift on each Leg of the Sector, will give the Diameter for * of a Pound ; from the 2d to the 2d, for ; of a Pound ■, ard from the 3d to the 3d, for 1 of a Pound, and so of others. When the Diameters of Balls are known, the Diameters or Bores of Cannon, to which they are proper, will likewifc be known : but there are commonly two or three Lines given for the Vent of great Balls, and for leffer ones in proportion. The Diameters of Balls are measured with lphcrick CompafTes, as will be more fully explained among the Instruments for Artillery.
+
+USE IV. To make a Solid similar and equal to the Sum of any Number of similar given
+
+Solids.
+
+Open the Sector, and apply either of the Sides of either of the Bodies to the fame Num- ber on each Line of Solids ; then note on v/hat equal Numbers, on both Legs of the Sector, the homologous Sides of the other Solids fall. This being done, add together the said Numbers, and take the Extent, on both Lines of Solids, of the Number arifing from that Addition •, and this Extent will be the homologous Side of a Body, equal and similar to the Sum of the'given Bodies.
+
+Example •, Suppose the Side chosen of the first Solid be applied to the fifth Solid, on each Leg of the Sector, and the homologous Sides of the others fall, the one on the 7th, and the other on the 8th Solid, on each Line of Solids ; add the three Numbers 5, 7, and 8 together, and their Sum is 20 •, therefore the Distance from 20 to 20, on each Line of Solids, will be the homologous Side of a Body, equal and similar to the three others.
+
+USE V. Two similar and unequal Bodies being given ; to find a third similar and equal
+
+to their Difference.
+
+Open the Sector, and apply either of the Sides of either of the Bodies to some equal Number on each Leg of the Sector, and fee what equal Numbers, on both Legs, the homologous Sides of the other Solids fall upon •, then fubftract the leffer Number from the greater, and take the Distance from the remaining Number, on one Line of Solids, to the fame on the other ; and this will be the homologous Side of a Body, equal to the Difference of the two given ones.
+
+As, for Example ; the Side of the greateft being fet over, upon the Line of Solids, from 15 to 15, the homologous Side of the leffer will be equal to the Distance from 9 to 9-, then taking 9 from 15, there remains 6 : therefore the Distance from 6 to 6 will be the homolo- gous Side of the Solid fought.
+
+USE VI. To find two mean Proportionals between two given Lines. For Example-, suppose there are two Lines, one of which is 54, and the other 16: open the Sector, so that the Distance from 54 to 54, on each Leg of the Sector, be equal to the Length cf the longeft Line. The Sector remaining thus opened, the Distance from 16 td 1 6, on each Leg, will be equal to the greater or' the mean Proportionals, and will be found to be 36. Again, fhutting the Legs of the Sector clofer, 'till the Distance between 54 and 54, on each Leg, be equal to 36 ; then the Distance from 16 to 16 will be the lelTer of the mean Proportionals, and will be found to be 24: AVhence these four Lines will be in conti- nual Proportion, 54, 36, 24, 16.
+
+If the Lines be too Jong, or the Numbers of their equal Parts too great* you muff, takes their half's, thirds, or fourths, &c. and proceed as before. For Example •, to find two mean Proportionals between two Lines, one of which is 32, and the other 256, take the fourth Parts of both the Lines, which are 8 and 64. This being done, open the Sector, so that the Distance from 8 to 8, on each Line of Solids, be equal to 8 ; then take the Dillance from 64- to 64, and that gives 16, for ~ of the first of the two mean Proportionals. Again, open the Sector, so that the Distance from 8 to 8 be equal to 16 ; the Sector being thus opened, the Distance from 64 to 64 will give 16, for 4 of the second of the mean Proportionals fought: whence the mean Proportionals are 64 and 1283 for 32, 64, 128, 256, are proportional.
+
+USE VII. To find the Side of a Cube equal to the Side of a given Parallelepipedon.
+
+First, find a mean Proportional between the two Sides of the Base of the Parallelepipedon 5 then between the Number found, and the Height of the Parallelepipedon, find the first of two mean Proportionals, which will be the Side or the Cube fought.
+
+For Example, let the two Sides of the Parallelepipedon be 24 and 54, and it's Height 63 5 the Side of a Cube equal to it is fought.
+
+Open the Sector, so that the Distance between 54 and 54, on the Line of Planes, be equal to the Side of 54 •, then take the Distance from 24 to 24 on the fame Line, which, measured upon the Line of equal Parts, will give 36 for a mean Proportional. This being done, take 36 between your Cornpasses, and open the Sector, so that the Points of the Compasses may fall upon 36 and 06, on each Line of Solids ; then take the Distance from 63 to 63 on the Lines of Solids, which will be lound almost 44 ;, for the Side of a Cube equal to the given Parallelepipedon.
+
+USE VIII. To cov.flruft mid divide a Gauging-Rod to meafurt Cajks, and other the like
+
+Vessels, proper to hold Liquors.
+
+j:'g, 1 3 The Gauging-Rod, of which we are now going to fpeak, is a Ruler made of Metal, divid-
+
+ed into certain Parts, whereby the Number of Pints contained in a VelTel may be found, in putting it in at the Bung-hole, 'till it's End touches the Angle, made by the Bottom, with that part of the Side opposite to the Bung- hole, as the Line A C diagonally fituated.
+
+The Gauging-Rod being thus pofited, the Division, anfwering to the middle of the Eung- hole, fhews the Quantity of Liquor, or Number of Pints the Veifel, when full, holds.
+
+But it is neceffary to change the Pofition of the aforsaid Rod, so that it's End C may touch the Angle of the other Bottom B, in order to fee whether the middle of the Bung- hole be in the middle of the VelTel ; for if there is any Difference, half of it mult be taken.
+
+The \J{c of this Gauging-Rod is very eafy : for, without any Calculation by it, the Dimen- fions of Cafks may immediately be taken ; all the Difficulty confift only in well dividing it.
+
+Now, in order to divide it, a little Calk, holding a Septier, or Gallon, mult be made fimi- lar to the Vessels that are commonly ulld ; for this Rod will not exactly give the Dimenfions of difiimilar Vessels, that is, such that have the Diameters of the Pleads, those of the Bungs, and the Lengths not proportional to the Diameters of the Head, Bung, and Length of that which the Divisions of the Rod are made by.
+
+Now suppose the Diameter, at the Head of a Calk, be 20 Inches, the Diameter of the Bung 22, and the interior Length 30 Inches •, this VelTel will hold 27 Septiers of Paris Mea- fure, and it's Diagonal Length, anfwering to the middle of the Bung-hole, will be 25 Inches, 9 Lines and a half, as is eafy to find by Calculation : because in the right-angled Triangle ADC, the Side CD being 15 Inches, and DA 21, by adding their Squares together, you will have (per Prop. 47. lib. 1. End.) the Square of the Hypothenufe A C ; and by extract- ing the Square Root, A C will be had.
+
+According to the fame Proportions a Cafk, whose Dimenfions are one Third of the former ones, will contain one Septier, or eight Pints ; that is, if the Diameter of the Plead be 6 In- ches, and 8 Lines ; that of the Bung 7 Inches, 8 Lines ; the Length 8 Inches, 8 Lines j and it's Diagonal 8 Inches, 7 Lines.
+
+Another Cafk, whose Dimenfions are half of that before-mentioned, will contain one Pint ; that is, if the Diameter of the Head be 3 Inches, 4 Lines ; that of the Bung 3 Inches, 8 Lines •, the interior Length of the Cafk 5 Inches ; and the Diagonal, anfwering to the middle of the Bung-hole, 4 Inches, 3 Lines and a half.
+
+Now take a Rod about 3 or 4 Feet long, and chufe either of the three Meafures, which you judge mult proper : As, for Example ; if you will make Divisions for Septiers upon the Rod, make a Point, in the middle of it's Breadth, distant from one of it's Ends, 8 Inches, 7 Lines, and there make the Division for one Septier upon it •, double that Extent, and there make a Mark for 8 Sept'urs &gt; triple the fame Extent, and there make a Mark for 27 Septiers -, quadruple it, and there make a Mark for 64 Septiers; because similar Solids are to each other, as the Cubes of their homologous Sides.
+
+Again, to make Divisions upon it for the other Septiers, take between your Compasses the Length or 8 Inches, 7 Lines ; let over this Distance, upon each Line of Solids of your Sec- tor horn the first Solid to the first. The Sector remaining thus opened, take the Distance from the second Solid to the second, which mark upon the Rod for the Division of two Sep-
+
+Acrain ; take the Distance from the third Solid to the third, which mark upon the Rod for the Lenoth of the Diagonal, agreeing to three Septiers, and so on ; by which means the Rod will be\hvided, for taking the Dimenfions of Vessels in Septiers. With the fame facility may the Divisions for Pints be made upon the Rod; for half of the Distance of the Division of two Septiers, will give the Division lor two Pints ; half of the Distance of the Division for three Septiers, will give the Division for three Pints ; half of the Distance of the Division for four Septiers, will give the Division for four Pints, and so on.
+
+If the Sector be not long enough to take the Diagonal Lengtli anfwerable to one Septier, from the first Solid to the first, take the Diagonal Length anfwerable to one Pint •, and having divided the Rod for any Number of Pints, the Diagonal Lengths of the fame Number of Septiers, may be had, by doubling the Diagonal Lengths of the Pints. As, for Example; if the Diagonal Length for 6 Pints be doubled, that Distance will be the Diagonal Length of a Vessel holding 6 Septiers : Also if the Diagonal Length of 7 Pints be doubled, the Length of the Diagonal of a Vessel, holding 7 Septiers, will be had ; and so of other Diagonal Lengths.
+
+If the Diagonal Length is yet too long to be applied to the Distance of the Division for the first Solid, on each Leg of the Sector, it's half must be applied to the fame ; and the Sector remaining thus opened, take the Distance of the Divisions for the second Solid on both Lines oi Solids, and double it ; then you will have the Diagonal Length of a Vessel holding two pints. Having again taken the Distance of the Division for the third Solid upon each Leg of the Sector, which Distance being double, the Diagonal Length of a Vefle 1 holding three Pints will be had, and may be marked upon your Rod; and so of others.
+
+The Divisions for Septiers go acrofs the whole Breadth of the Rod, upon which are their refpective Numbers graved ; and the Divisions for Pints are fhorter than the others, for their better Diftinftion.
+
+In order for this Gauging-Rod to ferve to take the Quantity of Liquor contained in diffe- rent difsimilar Vessels, other Divisions may be made upon it's Faces, according to the diffe- rent Proportions of their Lengths and Diameters, and at the bottom of the faces must be writ the Diameters and Lengths by which the Divisions were made: For Example ; at the bot- tom of the Face, upon which the precedent Divisions were made, there is wrote, the Diame- ter of the Head 20, the Diameter of the Bung 22, and the Length 30.
+
+If, for dividing another Face, you use a Vessel, whose Diameter of the Head is 21 Inches, that of the Bung 23, and the interior Length 27 ' Inches ; this Vessel is fhorter than that before-named, but contains almost the fame Quantity of Liquor, when full, viz. 27 Sep- tiers, and the Length of it's Diagonal will be 26 Inches.
+
+If another Vessel hath all it's Dimenfions ' of the precedent ones, this Vessel will hold one Septier, and it's Diagonal AC will be 8 Inches and 8 Lines in Length. Now by means of this Vessel, and it's Diagonal Length, you may divide the aforsaid Face in the Manner di- rected for dividing the first Face, and at the Bottom of this Face you must write, Diameter reduced 22, Length 17 \.
+
+If the four Faces of the Rod are divided, as before-named, you will have four different Gauges for gauging four different kinds of Vessels ; and by examining the Proportions of the ■Diameters of the Heads and Lengths, you must make use of such a Face accordingly.
+
+Inftead of using the Sector in dividing the before-mentioned Gauging-Rod, it is better using the Table of Solids.
+
+For having found, by Calculation, that the Length of the Diagonal of a Vessel, holding 27 Septiers, is 6 Inches, it will be eafy to find the Diagonals of Vessels of any proposed Big- neffes, having the fame Proportions to the Diameters reduced, as 22 to 27 f, or as 4 to 5.
+
+As, for Example ; it is required to find the Diameter of a Quarteau, or Firkin, which holds 9 Septiers ; feek, in the Table of Solids, the Number anfwering to the 9th Solid, which will be found 520 ; at the fame time find the correfpondent Number to the 27th Solid, which will be found 750 : then ftate a Rule of Three, in the following manner ; 750 : 520 : : 26 : 18 ; whence 18 Inches will be the Length of the Diagonal of a Vessel holding 9 Septiers. The Coopers about Paris make their Vessels almost in the Proportion of 4 to 5 ; as is, for Example, a half Muid, having 19 Inches 2 Lines in Diameter reduced, and 24 Inches in Length ; in which Cafe the Diagonal will be 22 Inches, 8 f Lines, as you will eafily find by Calculation.
+
+But, in general, as foon as the Proportions used in making Vessels are known, the Diago- nal of some one of those Vessels, holding a known quantity of Septiers being first found (per Prop. 47. lib. 3. Eucl.) you may afterwards find the Lengths of the Diagonals of all Vessels made in the fame proportion, by means of the aforsaid Table of Solids.
+
+SECTION VI.
+
+Of the ConflruBion and Use of other kinds of Gauging- Rods.
+
+THE Gauging-Rod, of which we have already fpoken, ferves only to find the Quantity of Liquor contained in similar Vtifels •, but that which we are now going to mention, may be used in taking the Dimenfions of difiimilar VefTels.
+
+In order to conftruct the first Gauge of this kind, the Meafure which you use mud be de- termined, by comparing it with some regular Vessel, as a Concave Cylinder, in which a Quart or a Gallon of Water being poured, you must exactly note the Depth occupied by the Water.
+
+As, for Example, if a Gauge is to be made for Paris, where a Pint is 48 Cubic Inches, or 61 Cylindrick Inches, you will find, by Calculation, that a Concave Cylinder, 3 Inches, n 1 Lines in Diameter, and the like Number in Depth, contains one Pint of Paris ; and a Cylinder, whole Dimenfions are double the aforsaid ones, that is, 7 Inches, 10 I Lines, will hold one Septier : for similar Solids ate to each other, as the Cubes of their like Sides. £ig. ,4, This being supposed, lay off that Length of 3 Inches 11 4 Lines, upon one Face of the
+
+Rod, as often as the Length of the Rod will admit, and mark Points, whereon fet 1, 2, 3, 4, 5, &c. each of these Parts may be fubdivided into 4 or more. This Face, thus divided, is called the Face of equal Parts, and is used in measuring the Lengths of VefTels.
+
+You must likewise mark, upon another Face of the Rod, the Diameter of the Cylinder of 3 Inches, 11 I Lines, and then the Diameters of Circles double, triple, quadruple, &V. by any of the Methods before explained for dividing the Line of Planes on the Sector, the eafieifc v\„ , - and fhorteft of which is to make a right-angled Ifofceles Triangle ABC; each of the Legs
+
+about the right Angle of which being 3 Inches, 1 1 4 Lines, the Hypothenufe B C will be the Diameter of a Circle double to that, whose Diameter is 3 Inches, 1 1 4 Lines : therefore having produced one of the Legs AB towards D, lay off the said Hypothenufe from A- towards D, and at the Point whereon it terminates mark the Number 2 ; then take the Di- ftance C 2, and having laid it off upon the Line AD, mark the Number 3 at the Point whreon it terminates. Again, take the Distance C 3, and having laid it off upon the Line A D, there mark the Number 4, &c.
+
+Note, A 4, which is the Diameter of a Circle quadruple the first, is double A C, or A B ; because Circles are to each other as the Squares of their Diameters : whence since A B is 1, it's Square is also 1 ; and the Line A 4 being 2, it's Square must confequently be 4.
+
+To use this Gauge, you must first apply the Face of equal Parts to the exterior Length of the Vessel, from which you must take the Depth of the two Croes, that thereby the true in- terior Length may be had.
+
+This being done, apply the Face of Diameters to the Diameters of the Heads of the Vessel, and note the Number anfwering to them, and whether they are equal ; for if there be any Difference between the Diameters of the Heads, you must add them together, and take half their Sum for the mean Head-Diameter.
+
+Again •, put the Rod downright in at the Bung-hole, in order to have the Diameter of the Bung, which add to the Head-Diameter, and take half the Sum for an arithmetical Mean ; this being multiplied by the Length of the Vessel, will give the Number of Pints the Vef- fel holds.
+
+As suppose the interior Length of a Vessel is 4 1 of the equal Parts of the Rod, the Dia-, meter at the Head 15, and the Bung-Diameter 17 ; add 15 to 17, and their Sum is 32, half of which is 16 ; which multiplied by the Length 4 J, and the Product j6 will give the Number of Pints the Vessel holds.
+
+Now to conftruct the second kind of Rods, it is found, by Experience, that a Cylinder, whose Height and Diameter is 3 Foot, 3 Inches, and 6 Lines, holds 1000 Paris Pints.
+
+Then take upon a Ruler a Length of 3 Feet, 3 Inches, and 6 Lines, which divide into 10 Parts, each of which will be the Height and Diameter of a Cylinder holding one Pint, (because similar Cylinders are to each other as the Cubes of their Diameters). Again, divide each of these Parts into 10 more, which may eafily be done by help of the Line of Lines on the Sector; then each of these last Parts will be the Height and Diameter of a Cylinder holding the 1000th part of a Pint: Every five of these small Parts being numbered, your Fig. 16. Rod will be made. One of these Rods, of 4 or 5 Feet in Length, will ferve to gauge great
+
+VefTels, as Pipes, csV.
+
+To use this Rod, you must note how many of the small Divisions of the Rod the Diame- ters of the Head and Bung, as also the Length, contains.
+
+But, Note, by the Length of a Vessel is underftood the interior Length, which is the Di- ftance between the Plead and the Bottom ; and by the Diameters is underftood the interior Diameters included between the Staves.
+
+Note, also, If the Diameters at Top and Bottom are unequal, compare one of them with the Bung-Diameter, and the middle between these two is called the mean Diameter of the Vessel,
+
+But if the Diameters at Top and Bottom are unequal, add them together, and take half of their Sum, which is called the mean Diameter of the Head and Bottom •, then compare this mean Diameter with the Diameter at the Bung, add them together, and take half their Sum for the mean Diameter of the Vessel.
+
+Then fquarc the mean Diameter of the Veffcl, and multiply the said Square by the Length of the Veffcl; then the Product will give you the Quantity of Liquor in ioooth Parts the Vessel holds-, 'and by cafting away the last three Figures, you will have the Number of Pints contained in 'the Veffcl, when full. .
+
+Let, for Example, the Diameter at the Head be 58 Parts of the Guaging-Rod, and the Buna-Diameter 62; add these two Numbers together, and their Sum will be 120, whose half 60 is the mean Diameter of the Vessel : then the Square of this mean Diameter will be 2600 ; and if this Square be multiplied by the Length of the Vessel, which suppose 80, the Product will be 288000 •, and by taking away the three last Figures* the Number of Paris Pints the Vessel holds will be 288.
+
+This way of Gauging is exact enough for Practice, when there is but a small Difference between the Bung and Head-Diameters, as are the Diameters of Paris-Muids ; but when the Difference between the Bung and Head-Diameters is confiderable, as in the Pipes of Anjou&gt; whofr- uno-Diameters are much greater than the Head-Diameters, Dimenfions taken in the beioi -directed manner will not give the Quantity of Liquor exact enough : But to render the ethod more exact, divide the Difference of the Bung and Head-Diameters into 7 Parts* anc idci 4 of them to the Head-Diameter, and that will give you the mean Diameter : for Example ■, if the Diameter of the Head is 50, and the Bung-Diameter 57, the mean Dia- met. r of the Veffcl will be 54; with which mean Diameter proceed as before.
+
+Having found by the Rod how many Paris Pints a Vessel holds, you may find how many other Mealur. s the fame Vessel holds, in the following manner :
+
+A Paris Pint of frefh Water weighs 1 Pound, 15 Ounces ; therefore you need but weigh the fought Mcafure full of Water, and by the Rule of Three you may have your Defire.
+
+As, lor Example ■, a certain Meafure of Water weighs 50 Ounces, and it is required to find how many of the fame Meafures is contained in a Paris-Muid, which holds 288 Pints : Say, by the Rule of Three, As 50 is to 31, So is 288 Pints to a fourth Number, which will be 178 4 of the said Meafures.
+
+There may be marked Feet and Inches upon the vacant Faces of the aforsaid Gauging-^ Rod, each of which Inches may be fubdivided into four equal r'arts, which Will be a second means to gauge Veffcls ; the Feet are marked with Roman Characters, and the Inches with others.
+
+We have already said, that a Paris Pint contains 61 Cylindrick Inches; therefore having the Solidity of a Vessel in Cylindrick Inches, it mull be divided by 61, to have the Number of Pints the Vessel holds. An Example or two will make this manifest.
+
+Let the Length of a Vessel be 36 Inches, the Head-Diameter 23, and the Bung-Diameter 25 ; add the two Diameters together, and their Sum will be 48, half of which is 24 for the mean Diameter. This Number 24 being squared, will be $j6 ; and this Square being mul- tiplied by the Length 36, gives 20736 Cylindrick Inches : which being divided by 61, the Quotient will give 339 Pints, and about 5.
+
+If the Diameters and Lengths of Vessels are taken in fourth Parts of Inches, the last Product: mud be divided by 3904, to have the Number of Pints contained in a Vessel, when full.
+
+Let, for Example, the Length of a Vessel be o,S i Inches, the Head-Diameter 23 Inches* and the Diameter at the Bung 25 ' Inches ; add the two Diameters together, and their Sum will be 48 , half of which will be 24 -i ; which, for eafe of Calculation, reduce to 4ths i 97 is the Number to be squared, which will be 9409 ; which multiply by 141, and that Product again by 35 ', reduced to 4ths of Inches, will give this Product 1326669 ; which being divided by 3904, the Quotient will (as before) be 339 Pints, and about ■£•
+
+The Conjlruftion and USE of a new Gauging-Rod.
+
+Mr Sauveur, of the Academy of Sciences, has communicated to us a new Gauging-Rod of his Invention, by means of which may be found, by Addition only, the Quantity of Li- quor that any Vessel holds, when full ; whereas hitherto Multiplication and Division has been used in Gauging.
+
+To make this Gauging-Rod, you must first chufe a Piece of very dry Wood, as Sorbaple Fig. 17. or Pear-tree, without Knots, about 5 Foot long, in Figure of a Parallelepipedon, and 6 or 7 Lints in Breadth; Fig. 17. fhews it's four Faces.
+
+Now upon the first of the four Faces are made Divisions for taking the Diameters of Vessels.
+
+The Divisions of the second Face ferves to measure the Lengths of the Diameters.
+
+The Divisions upon the third Face are for finding the Contents of Vessels.
+
+And, Laftly, upon the fourth Face, the Numbers of Septiers and Pints, which the Vessel holds, are marked.
+
+The aforsaid Divisions are made in the following manner :
+
+First, divide the fourth Face into Inches, and each Inch into 10 equal Faits y those Di- vifions denote Pints, and are numbered 1, 2, 3, 4, 5, 6, &c. every 8 being Septiers, becauic 1 Septier is 8 Pints : On the End of this fourth Face is written Pints and Septiers-.
+
+The Divisions of the Other three Faces are made by help of Logarithms, in manner following.
+
+Note&gt; The Divisions of the fourth Face ferve as a Scale to the third, and ought no be contiguous to it.
+
+To divide the third Face of the Red.
+
+If you have a mind to place any Number upon the third Face of you:; Rod ; for Example, 240: feek- in the Table of Logarithms for 240, or the nigheft Number to it, which will be found against 251- in your Table •, then place 240- upon the third Face, over against 252 Pints on the fourth Face,- and, proceeding in this manner, you may divide the third Face.
+
+But because, in the Table of Logarithms, 24.0 doth not (land against 251, but inftead thereof there (lands 2.39996, which nighly approaches it-, therefore to make the Divisions a.% exact as pofiible, you mult add 1 to r.he first Number of the Logarithm 2.40, and then feek for 3.40, over against which ftands 2512 •, which (hews, that the Logar. 240 mult be placed not over against 251 of the Divisions of Pints, but against 251 and two Parts of the Divisions of a Pint, supposed to be divided into 10 Parts more. You muff write Contents at one End of this third Face.
+
+The Manner of dividing the second Face.
+
+A Cylindrical VeSfel, whose Length and Diameter is 3 Inches, 1 1 * Lines, holds one. Paris Pint •, therefore the first part of the second Face, which is without Divisions, mufl be of that Length. This said Length mud be laid off ten times, and more, if poflibie, upon the said Face, upon which make occult Marks •, then one of these Part's must be divided into 100 more, upon a feparate Ruler, ferving as a Scale.
+
+This being done, suppose any Number is to be placed upon' the second Face ; as, for Ex- ample, 60: Seek in the Table of Logarithms for 60, which will be found against 39 and 40, or ratheir against 3981, without having regard to the Numbers 1, 2, 3, that precede it, and which are called Characterifticks : therefore I take 98, or 981, by efteeming one Pare divided into 10, upon the small Scale divided into 100, and I place this Distance next to the third occult Point, which denotes three Centefms, or three Thousandths. You must thus mark Divisions from 5 to 5, and every of these 5ths must again be fubdivided into 5 equal Parts. Finally, upon the End of this Face, you must write Lengths.
+
+The Manner of dividing the first Face.
+
+The first Part of this Face, which is not divided, reprefents the Diameter of a Cylindrical Vessel holding one Paris Pint - y therefore it's Length must be 3 Inches, 114 Lines.
+
+And for dividing this Face, lay ofTupon it the Divisions of the second Face ; but inftead of writing 5, 10, 15, 20, 25, &c. write their Doubles 10, 20, 30, 40, 50, &c. and fubdl- Vide the Intervals into 10 Parts, and at the End of this Face write Diameters.
+
+The U S E of the New Ganging-Rod.
+
+Meafure the Length of the mean Diameter of the VefTel with the Face of Diameters of
+
+your Rod, which suppose to be 153.00. Likewise take the Length of the VefTel
+
+153.00 with the second Face of your Rod, which suppose to be 92 85 ; add these two
+
+92.85 Numbers together, then feek their Sum 245.85 upon the third Face, and over
+
+. against it, on the fourth Face, you will have 36 Septiers, or 288 Pints.
+
+245.85 But to make the Use of this Rod general ; suppose the Weight of a Pint of frefh Water of some Country be 50 Ounces Avoirdupoife-, then feek 31, the Number of Ounces Avoirdupoife a Paris Pint of frefh Water weighs, upon the fourth Face of Septiers of the Rod, which will be found against 239.4 on the third Face. Likewise, against 50 on the fourth Face, anfwers 260.2 on the third Face.
+
+Then from 260.2! f Again from 245.85 before found
+
+Take 239 / \ Take 20.80 And there remains 20.8 j (And there remains 225.05 Now against this Number 225.05, on the third Face, you will find, on the fourth Face, 22 Septiers 2 Pints, or 178 Pints, which is the Number of Pints of that Country a VefTel of the aforsaid Dimenfions holds.
+
+SECTION VII.
+
+Of the USE of the Line of Metals.
+
+USE I. The Diameter of a Ball, of any one of the fix Metals, being given ; to find the Diameter of another Ball of any one of them, which fh all have the fame Weight.
+
+OPEN the Sector, and taking the given Diameter of the Ball between your CompaiTes, apply it's Extremes to the Characters upon each Line of Metals, expreffing the Metal the Ball
+
+Chap. 2. of the Seftor. 65
+
+is made of. The Sector remaining' thus opened, take the Diflance of the Characters of the Metal the fought Diameter is to be of, upon each Line of Metals, and this will be the Dia- meter 'fought. As, for Example, let A B be the Diameter of a Ball of Lead, and it be re- Fig. i8, ouired to find the Diameter of a Ball of Iron, having the fame Weight. Open the Sector, so that the Distance between the Points h and h be equal to the Line A B: The Sector re- maining thus opened, take the Distance of the Points of S on each Line of Metals, and that will "ive CD, the Length of the Diameter fought. If, inftead of Balls, similar Solids of several Sides had been proposed, make the fame Operation, as before, for finding each of their homologous Sides, in order to have the Lengths, Breadths, and ThicknelTes of the Bo- dies to be made.
+
+USE II. To find the Proportion that each of (he fix Metals have to one another, as to their Weight.
+
+For Example ; It is required to find what Proportion two similar and equal Bodies, but of different Weights, have to one another.
+
+Having taken the Distance from the Center of the Joint of your Sector, to the Point of the Character of that Metal of the two proposed Bodies which is lead (and which is always more distant from the Center), apply the said Distance acrofs to any two equal Divisions on both the Lines of Solids. The Sector remaining thus opened, take the Distance on the Line of Metals, from the Center of the Joint to the Point, denoting the other Metal : and apply- in°- it to both Lines of Solids, fee if it will fall upon some equal Number on each Line; if it wUI, that Number, and the other before, will, by permuting them, fhew the Proportions of the Metals proposed.
+
+As, for Example : To find the Proportion of the Weight of a Wedge of Gold, to the Weight of a similar and equal Wedge of Silver.
+
+Ivow because Silver weighs less than Gold, open the Sector, and having taken the Distance from the Center of the Joint to the Point 5, apply it to the Numbers 50 and 50 on each Line of Solids. The Sector remaining thus opened, take the Distance from the Center to the Point O, and applying it on each Line of Solids, and you will find it to fall nearly upon the 27th Solid on each Line. Whence I conclude, the Weight of the Gold to the Weight of the Silver, Is as 50 to 27 4-, or as 100 to 54 4 ; that is, if the Wedge of Gold weighs 100 Pounds, the Wedge of Silver will weigh 54 f Pounds, and so of other Metals, whose Proportions are more exactly laid down by the Numbers of Pounds and Ounces that a cubick Foot of each of the Metals weighs, as is expreffed in the Table adjoining to the Proof of the Line of Metals. If" nevertheless their Proportions are required in lefTer Numbers, you will find, that if a Weclge of Gold weighs 100 Marks, a Wedge of Lead, of the fame Bignefs, will weigh about 60 f » one of Silver 54 7, one of Brass 47 ^, one of Iron 42 T - , and one of Tin 39 Marks.
+
+USE III. Any Body of one of the fix Metals being given ; to find the Weight of any one of the five others, which is to be made similar and equal to the proposed one.
+
+For Example ; Let a Ciftern of Tin be proposed, and it is required to make another of Sil- ver equal and similar to it. First weigh the Tin-Ciftern, which suppose 36 Pounds. This being done, optn the Sector, and having taken the Distance from the Center of the Sector to the Point ]) (which is the Metal the new Ciftern is to be made of), apply that Distance to 36 and 36 on each Line of Solids. Then take the Distance, upon the Line of Metals, of the Point n, from the Center; and applying that Distance crofs-wife on each of the Lines of Solids, you will find it nearly fall upon 50 and 50 on each Line: Whence the Weight of a Silver Ciftern must be 50 '- Pounds, to be equal in Bignefs to the Tin-Ciftern. The Proof of this Operation may be had by Calculation, viz. in multiplying the different Weights reci- procally by those of a Cubic Foot of each of the Metals. As, in this Example ; multiplying 720 lib. 12 Ounces, which is the Weight of a Cubick Foot of Silver, by 36 lib. which is the Weight of the Tin- Ciftern; and again, multiplying 516 lib. 2 Ounces, which is the Weight of a Cubick Foot of Tin, by 50 -■ Pounds, which is the Weight of the Silver Ciftern, the two Products ought to be equal.
+
+USE IV. The Diameters, or Sides, of two similar Bodies of different Metals, being given ; to find the Ratio of their Weights.
+
+Let, for Example, the Diameter of a Ball of Tin be the right Line EF, and the Line Fig. 19. G H the Diameter of a Ball of Silver ; it is required to find the Ratio of the Weights of these two Balls. Open the Sector, and taking the Diameter E F between your CompafTes, apply it to the Points U on each Line of Metals. The Sector remaining thus opened, take tne Distance of the Points » on each Leg of the Sector ; which compare with the Diameter G H, in order to fee whether it is equal to it : for if it be, the two Balls must be of the fame Weight. But if the Diameter of the Ball of Silver be lefTer than the Distance of the Points D, on each Leg of the Sector, as here K L is, it is manifest that the Ball of Silver weighs less than the Ball of Tin ; and to know how much, the Diameters GHandGL must be compared together. Wherefore apply the Distance of the Points D , which is G H,
+
+on each Leg of the Sector, to some equal Number on both the Lines of Solids ; as, for Exam- ple, to the Numbers 60 and 60 •■&gt; then note upon what equal Number, on both Lines of So- lids, the Diameter K L falls, which suppose 20 : whence the Ball of Silver, whose Diameter is K L, weighs but -J of the Weight of the Ball of Tin, whose Diameter is EF.
+
+USE V. The Weight and Diameter of a Ball, or the Side of any other Body, of one of the fix Metals, heing given : to find the Diameter or homologous Side of another similar Body of one of the other five Metals, which Jhall have a given Weight.
+
+Fig. 20. Let, for Example, the right Line M N be the Diameter of a Ball of Brass, weighing 10
+
+Pounds •, and the Diameter of a Ball of Gold is required weighing 15 Pounds. You must first find the Diameter of a Ball of Gold, weighing as much as that of Silver, and then aug- ment it by means of the Line of Solids. To do which, open the Sector, so that the Distance between the Points ?, on each Line of Metals, be equal to MN. The Sector remaining thus opened, take the Distance of the Points O and G on each Line of Metals, which fup- pofe to be the Diameter of the Ball of Gold O P; then open the Sector again, and apply this Distance to 10 and 10 of the Line of Solids, on each Leg of the Sector : The Sector remain- ing thus opened, take the Distance from 15 to 15, on each Line of Solids, and this last Ex- tent QJt will be the Diameter of a Ball of Gold weighing 15 Pounds.
+
+Of the Conftru&ion and Uses of the English SECTOR.
+
+TH E principal Lines that are now generally put upon this Instrument, to be used Sector-wife, are the Line of Equal Parts, the Line of Chords, the Line of Sines, the Line of Tangents, the Line of Secants, and the Line of Polygons. Plate 6. The Line of equal Parts, called also the Line of Lines, is a Line divided into 100 equal
+
+Parts ; and if the Length of the Legs of the Sector is fufficient, it is again fubdivided into Halfs and Quarters : they are placed on each Leg of the Sector, on the fame Side, and are numbered by 1, 2, 3, &c. to 10, which is very near the End of each Leg. Thefe Lines are denoted by the Letter L ; it is divided into the fame Number of equal Parts, as the fame Line on the Sector defcribed by our Author. And here note, that this 1 may be taken for 10, or for 100, 1000, 1 0000, &c. as Occafion requires ; and then 2 will fignify 20, 200, 2000, 20000, &c. and so of the Rest.
+
+The Line of Chords is a Line divided after the usual way of the Line of Chords, From a Circle, whose Radius is nearly equal in Length to the Legs of the Sector, beginning at the Center, and running towards the End thereof. It is numbered with 10, 20, &c. to 60, and to this Line, on each Leg, is placed the Letter C.
+
+The Line of Sines is a Line of natural Sines, divided from a Circle of the fame Radius, as the Line of Chords on the Sector was ; these are also placed upon each Leg of the Sector, and numbered with the Figures 10, 20, 30, &c. to 90 ; at the End of which, on each Leg, is fet the Letter S.
+
+The Line of Tangents, is a Line of natural Tangents, divided from a Circle, and is placed upon each Leg of the Sector, and runs to 45 Degrees. It has the Numbers 10, 20, &V. to 45 placed upon it, with the Letter T for Tangent.
+
+There is likewise another small Line of Tangents, divided from a Radius, of about two Inches, and is placed upon each Leg of the Sector ; it begins at 45, which ftands at the Length of the Radius from the Center, and runs to about 75 Degrees or farther, having the Numbers 45, 50, &c. to 75, with the Letter t fet thereto. The Use of this Line (as here- after shall be fhewn) is to fupply the Defect in the great Line.
+
+The Line of Secants is only a Line of natural Secants, divided from a Circle of about two Inches Radius. Thefe are placed upon each Leg of the Sector, beginning, not from the Center, but at two Inches Distance therefrom, and run to 75 Degrees. To these are fet the Numbers 10, 20, &c. to J$, with the Letter S at the End thereof for Secants.
+
+Finally, the Line of Polygons, denoted by the Letter P on each Leg of the Sector, is di- vided in the fame manner as the Line of Polygons on the French Sector ; only there the Num- ber 3, for an equilateral Triangle, is the first Polygon, and here the Number 4 for a Square.
+
+Thefe are the principal Lines that are now put upon this Sector, to be used Sector-wife.
+
+The other Lines, that are placed near and parallel to the outward Edges of the Sector, on both Faces thereof, and which are to be used, as on Gunter's Scale, are,
+
+1/?, The Line of artificial Sines, numbered (as per Fig.) with 1, 2, 3, 4, 5, on one of the Legs, and with 6, 7, 8, &c. to 90, on the other Leg •, which last Numbers, as they appear in the Figure, must be fet backwards •, to the End, that when the Sector is quite opened, they may become forwards. This Line is denoted bv the Letter S, fignifying Sines.
+2&lt;#y, The Line of artificial Tangents, placed next below the Line of artificial Siries is numbered, on one Leg, i, 2, 3, 4, 5, and on the other 6, 7, 8, &?c. to 45. which last are likewise fet backwards ; but the Numbers 80, yo&gt; 60, 50, placed at theDivisions 10, 20, 30* 40, which fignify their Complements, are fet forwards.
+
+Sdfyy Near the Edges, on the other Face of the Sector, is a Foot divided into 12 Inches* numbered 1, 2, 3, &c. and each Inch into 20 equal Parts. There is fet to it In. fignifying Inches.
+
+4 //;/y, and Laftfy, Next to that is placed Gunter's Line of Numbers, denoted by the Lettef N, as per Figure.
+
+There are alio some other Lines placed fometimes upon the vacant Spaces of the Sector* as the Lines of Hours, Latitudes, and Inclinations of Meridians ; which are no otherwise used than if they were placed upon common Scales.
+
+All the aforsaid Lines, except the small Lines of Tangents, Secants, and the Line of Po- lygons, are furnifhed with Parallels, and the Divisions marked by unequal Lines, that the Lye may the better diflinguifh them.
+
+SECTION I.
+
+Of the general USE and Foundation of the Sector.
+
+The Excellency of this Instrument above the common Scales, or Rules, is, that it may be made to fit all Scales and Radius's ; for by the Sector you may divide a Line, not exceeding it's L&lt; ngth when quite opened, into any Number of equal Parts ; also from the Line of Chords, Sines, i angents, &c. placed on the Sector, as before directed, you may have a Line cf Chords, Sines, Tangents, tic. to any Radius, betwixt the Breadth and Length of the Sector when opened •, by which Contrivance a Sector is made almost an univerfal Instrument. The Inven- ts 1 and Contrivance of this Instrument arofe from a premeditate Confideration of Prop. IV. Lib. 6. Eucl. where it is demonftrated that similar Triangles have their homologous Sides proportional.
+
+For let the Lines A B, A C, reprefent the Legs of the Sector; and AD, AE, two equal Plate 1 Sedtions from the Center : then, I fay, if the Points C, B, also D, E, are joined, the Lines C B, F ie z\ DE, per Prop. II. Lib. 6. Eucl. will be parallel ; therefore because the Lines D E, CB, are parallel, the Triangles A D E, A C B, per Scbol Prop. IV. Lib. 6. Eucl. will be similar; and confequently from the fa.d Prop. IV. the Sides A D, D E, A B, B C, are proportional : that is, As D A S v° °,^ S °/ S ,^ B t0 BC ' whence if A D be the half, or a third part of the Side AB, D E will be a half, or a third part of the Parallel CB; the like Reason holds of all other Sect.ons : whence you fee that if A D be the Chord, Sine, or Tangent of any Number of Degrees, to the Radius AB, DE will be the Chord, Sine, or Tangent of the fame Num* ber ot Degrees to the Radius B C.
+
+Now the Lines found out by the Sector, are of two Sorts, viz. Lateral, or Parallel : Lateral are such as are found upon the Sides of the Sector, as A B, A C : Parallel are the Lines that run from one Leg of the Sector to the other, in equal Divisions from the Center, as D E, C B. _ And here note, that the innerrnoft of the Parallels, is the true divided Line, and therefore in using the CompafTcs, you must fet them upon the innerrnoft Line, both in lateral and pa- rallel Lntrance. r
+
+And further note, that the Lines are placed upon this Sector, different from those that are placed upon Sectors formerly made; for inftead of putting the fame Lines at equal Distances from the mward Edges of both the Legs of the Sector, they are put at unequal Distances, as may be fee n m theLigure: where, upon one Leg the Line of Chords is innerrnoft, upon the other the Line of Tangents is innerrnoft; that is, the innerrnoft Line of Chords and Tangents
+
+nrnr qU l^h r a "VT t\ r"^ Edge ' and f ° are the outermost Line of Chords and Tan- gents The Benefit of the Contrivance is this, When you have fet the Sector to a Radius for
+
+tw x?6c &gt; and \ flu r°K f ° r , the S ' neS f nd T / ngentS With0ut ftirrin S " I ^ the Parallel be- 1 eoual X\& ? f r hc £ ho r rd \ 9° and 1 90 of the Sines, also 45 and* 45 of the Tangents, are all equal, which is the Reason that the Chords run but to 60 Degrees/
+
+SECTION II.
+
+Of the general USE./ the Lines of Chords, Sines, Tangents, and Secants,
+
+on the Se5ior.
+
+toZvfrilSt P !h C l ng th K efe - Lines ; as b f fore ^eded, on this Instrument, we have Scales the Sector ,£„' , aUS ' hav,r !g aLen gth, or Radius given (not exceeding the Length of
+
+Prop ny This InT^n, } ' ^ T V* *?? fi " d the Chord &gt; ®°* &lt;*■ the ' et0 » for ^hich luperry, tnis lnitrument is often of great Use
+
+Inches HL SU1 ^ fe f e ? 0rd r' Sine&gt; or ' Tan g c " of 10 Degrees, to a Radius of three mcues, be uquiitd : take that three Inches, and make it a Parallel between 60 and 60 on the
+
+Line
+
+
+
+6 8 The Conflruclion and Uses B o o k 1 1 .
+
+Line of Chords, then, as I have already said, the fame Extent will reach from 45 to 45, on the Line of Tangents ; also on the other Side of the Sector, the fame Distance of three Inches, •will reach from 90 to 90 on the Line of Sines : so that if the Lines of Chords be fet to any Radius, the Lines of Sines and Tangents are also fet to the fame. Now the Sector being thus opened, if you take the parallel Distance between 10 and 10 on the Line of Chords, it ■will give the Chord of 10 Degrees. Also if you take the parallel Distance on the Line of Sines between 10 and 10, you will have the Sine of 10 Degrees. Laftly, if you take the parallel Extent on the Line of Tangents, between 10 and 10, it will give you the Tangent of 10 Degrees.
+
+If the Chord, or Tangent of 70 Degrees, had been required ; then for the Chord you must take the parallel Distance of half the Arc proposed, that is, the Chord of 35 Degrees, and repeat that Distance twice on the Arc you lay it down on, and you will have the Chord of 70 Degrees ; and for finding the Tangent of 70 Degrees to the aforsaid Radius, you must make ufe of the small Line of Tangents : for the great one running but to 45 Degrees, the Parallel of 70 cannot be taken on that, therefore take the Radius of three Inches, and make it a Pa- rallel between 45 and 45 on the small Line of Tangents •, and then the parallel Extent of 70 Degrees on the said Line, is the 7'angent of 70 Degrees to 3 Inches Radius.
+
+If you would have the Secant of any Arc, then take the given Radius, and make it a Pa- rallel between the Beginning of the Line of Secants, that is o and o ; so the parallel Distance between 10 and 10, or 70 and 70, on the said fecantLine, will give you the Secant of 10, or 70 Degrees, to the Radius of three Inches.
+
+After this manner may the Chord, Sine, or Tangent of any Arc be found, provided the Radius can be made a Parallel between 60 and 60 on the Line of Chords, or between the small Tangent of 45, or Secant of o Degrees. But if the Radius be so large, that it cannot be made a Parallel between 45 and 45 on the small Line of Tangents, then there cannot be found a Tangent of any Arc above 45 Degrees, nor the Secant of no Arc at all to such a Radius, because all Secants are greater than the Radius, or Semi-diameter of a Circle.
+
+If the Converfe of any of these things be required •, that is, if the Radius be fought, to which a given Line is the Chord, Sine, Tangent, or Secant of any Arc, suppose of 10 De- grees ; then it is but making that Line (if it be a Chord) a Parallel on the Line of Chords between 10 and 10, and the Sector will ftand at the Radius required j that is, the parallel Extent between 60 and 60, on the said Chord-Line, is the Radius.
+
+And so if it be a Sine, Tangent, or Secant, it is but making it a Parallel between the Sine, Tangent, or Secant of 10 Degrees, according as it is given ; then will the Distance of 90 and 90 on the Sines, if it be a Tangent, the Extent from 45 to 45 on the Tangents, and if it be a Secant, the Extent or Distance between o and o, be the Radius.
+
+Hence, you fee, it is very eafy to find the Chord, Sine, Tangent, or Secant to any Radius.
+
+SECTION in.
+
+Of the U S E of the Sefior in Trigonometry.
+
+USE I. The Base AC of the right-lined right-angled Triangle ABC being given 40 Miles 1 and the Perpendicular A B 30: to find the Hypothenufe B C.
+
+Fig. 22. Open the Sector, so that the two Lines of Lines may make a right Angle (by Use VI. of
+
+our Author's) then take, for the Base, A C, 40 equal Parts upon the Line of Lines on one Leg of the Sector ; and for the Perpendicular A B, 30 equal Parts on the Line of Lines upon the other Leg of the Sector. Then the Extent from 40 on one Line, to 30 on the other, taken with your CompafTes, will be the Length of the Hypothenufe B C ; and applying it on the Line of Lines, you will find it to be 50 Miles.
+
+USE II. The Perpendicular A B of the right-angled Triangle ABC being given 30 Mile s, and the Angle B C A 3 7 Degrees ; to find the Hypothenufe B C.
+
+Fig. zz. Take the given Side A B, and fet it over, as a Parallel, on the Sine of the given Angle
+
+A C B ; then the parallel Radius will be the Length of the Hypothenufe B C, which will be found 50 Miles, by applying it on the Line of Lines.
+
+USE III. The Hypothenufe B C being given, and the Base A C ; to find the Perpen- dicular A B.
+
+Fig. zt. Open the Sector, so that the two Lines of Lines may be at right Angles ; then lay off the
+
+given Base AC on one of these Lines from the Center; take the Hypothenufe BC in y`our CompafTes, and fetting one Foot in the Term of the given Base A C, caufe the othe`r to fall on the Line of Lines on the other Leg of the Sector, and the Distance from the Ce`nter to where the Point of the CompafTes falls, will be the Length of the Perpendicular A` B.
+
+USE IV. The Hypothenufe B C being given, and the Angle ACB; to find the Perpendicular AB.
+
+Take the given Hypothenufe B C, and make it a parallel Radius, and the parallel Sine of the Angle A C B will be the Length of the Side A B.
+
+Lf S E V. The Base A C, and Perpendicular A B being given, to find the Angle B C A* Lay off the' Eafe A C on both Sides of the Seder from the Center, and note it's Extent j then take the Perpendicular A B, and to it open the Seta in the Terms of the Base A C : so the Parallel Radius will be the Tangent of B C A&gt;
+
+U S E VI In any right4ined Triangle, as ABC, the Sides A C, and B C, being given, one 20 Miles, and the other 30, and the included Angle ACB 110 Degrees, to find the Base AH. Open the Sector, so that the two Lines of Lines may make an Angle equal to the given An- Fig. z 3 . ale A C B of 1 10 Degrees •, then take out the Sides AC, C B, of the Triangle, and lay them off from the Center of the Sedor on each of the Lines of Lines, and take in your Compasses the Extent between their Terms, or Ends, and that will be the Length of the fought Side AB, which will be found 41 i Miles.
+
+USE VII. The Angles CAB, and AC B, being given, and the Side C B : to find the Base AB. Take the given Side CB, and turn it into the parallel Sine of it's opposite Angle C AB» Fig. 23. and the parallel Sine of the Angle ACB, will be the Length of the Base A B.
+
+USE VIII. The three Angles of a Triangle, as A B C, being given, to find the Pro- portion of the Sides A B, AC, B C. Take the lateral Sines of the Angles ACB, C B A, CAB, and measure them in theLine Fig. t%. of Lines, for the Numbers belonging to those Lines Will give the Proportions of the Sides.
+
+USE IX. The three Sides AC, A B, C B, being given, to find the Angle ACB. Lay the Sides AC, C B&gt; on the Lines of Lines of the Sector from the Center, and let the Fig. 23. Side A B be fitted over in their Terms ; so shall the Sector be opened in those Lines, to the Quantity of the Angle ACB.
+
+USE X. The Hypothenufe AC, of the right-angled Spherical Triangle ABC, being given, suppose 43 Degrees, and the Angle CAB, 20 Degrees, to find the Side C B.
+
+As Radius is to the Sine of the given Hypothenufe 43 Degrees, So is the Sine of the given Fig. t£ Angle C AB 20 Degrees, to the Sine of the Perpendicular C B.
+
+Take either the lateral Sine of the given Angle CAB, 20 Degrees, and make it a parallel Radius ; that is, take 20 Degrees from the Center on the Line of Sines, in your Compasses, and fet that Extent from 90 * o 90 ; then the parallel Sine of 43 Degrees, the given Hypo* thenufe, will, when measured from the Center on the Line of Sines, give 13 Deg. 30 Min. Or take the Sine of the given Hypothenufe A C, 43 Degrees, and make it a parallel Radius j and the parallel Sine of the given Angle CAB, taken and measured laterally on theLine of Sines, will give the Length of the Perpendicular C B, 13 Deg. 30 Min. as before.
+
+USE XI. The Perpendicular B C given, and the Hypothenufe AC, to find the Base A B.
+
+As the Sine Complement of the Perpendicular B C, is to Radius, So is the Sine Comple- j- x „ t .3 ment of the Hypothenufe AC, to the Sine Complement of the Base required.
+
+Make the Radius a parallel Sine of the given Perpendicular B C, viz. 76 Deg. 30 Min* and then the parallel Sine of the Complement of the given Hypothenufe, viz. 47 Degrees, measured laterally on the Line of Sines, will be found 49 Degrees, 25 Minutes : therefore the Complement of the required Base, will be 49 Degrees, 25 Minutes j and confequently the Base will be 40 Degrees, 35 Minutes.
+
+The Use of the Sector in the Solution of the before- mentioned Cafes of Trigonometry, being underftood, it's Use in folving the other Cafes, which I have omitted, will not be difficult.
+
+Note, The several Uses of the Line of Lines, and Line of Polygons, on this Sector, are the fame as the Uses of these Lines upon the French Sector, which fee.
+
+I now proceed to give some of the particular Uses of the Sector in Geometry, Projection of the Sphere, and Dialling.
+
+SECTION IV.
+
+USE I. To make any regular Polygon, whose Area shall be of a given Magnitude. LET it be required to find the Length of one of the Sides of a regular Pentagon, whose fuperficial Area shall be 125 Feet, and from thence to make the Polygon.
+
+Having extracted the square Root of 4. Part of 125 (because the Figure is to have 5 Sides) which Root will be 5 •, make the Square A B, whose Side let be 5 Feet : then by means of the Line of Polygons (as directed by our Author in USE I. of the Line of Polygons) upon any Fi . ,-• right Line, as CD, make the Ifofceles Triangle CGD fo, that CG, being the Semi-diame- 8 * *' ter of a Circle, C D may be the Side of a regular Pentagon inferibed in it, and let fall the
+
+T Perpendicular
+
+
+
+70 ^fhe Conflrucfion and Uses Book II.
+
+Perpendicular G E. Now continuing the Lines E G, and E C, make E F equal to the Side of the Square AB ; and from the Point F, draw the right Line F H parallel to G C ; then a mean Proportional between G E, and EF, will be equal to half the Side of the Polygon fought, which doubled, will give the whole Side. Now having found the Length of the whole Side, you must, upon the Line exprefling it's Length, make a Pentagon (as directed by our Author in USE II. of the Line of Polygons), which will have the required Magnitude.
+
+U S E II. A Circle being given., to find the Side of a Square equal to it.
+
+Fig. 26. Let E F be the Diameter of t' e given Circle, which divide into 14 equal Parts, by means of
+
+the Line of Lines (as directed by our Author in the Uk of the Line of equal Parts), then EP, which is 12.4 of those Parts, will be the Side of the Square fought. Note, 12.4 is the square Root of 1 1 x 14.
+
+USE III. A Square being given, to find the Diameter of a Circle equal to it.
+
+Fig. 27. Let A B be one Side of the given Square, which divide into 1 1 equal Parts, by means of
+
+the Line of Lines on the Sector; then continue the said Side, so that AG may be 12.4; that is, 1.4 of those Parts more, and the Line A G, will be the Diameter of a Circle, equal to the Square whose Side is A B.
+
+USE IV. 'The tranfverfe and conjugate Diameters of an Ellipfis being given, to find the
+
+Side of a Square equal to it.
+
+Fig. 28. Let AB, and CD, be the tranfverfe and conjugate Diameters of an Ellipfis: first, find a
+
+mean Proportional between the tranfverfe and conjugate Diameters, which let be the Line EF; then divide the said Line EF, into 14 equal Parts, 12 and T \- of which, will be E G, the Side of the Square equal to the aforsaid Ellipfis.
+
+U S E V. 'To find the Magnitude of tzvo right Lines which fimll be in a given Ratio ; about which, an Ellipfis being defcribed, in taking them for the tranfverfe and conjugate Diameters, the Area of the said Ellipfis, may be equal to a given Square.
+
+Fig. 29. Let the given Proportion that the tranfverfe and conjugate Diameters are to have, be as
+
+2 to 1 ; then divide the Side A B of the given Square, into 1 1 equal Parts. Now as 2 is to 1 (the Terms of the given Proportion), So is 1 1 x 14 = 154 to a fourth Number ; the square Root of which being extracted, will be a Number to which, if the Line AG is taken equal (supposing one of those 1 1 Parts the Side of the Square is divided into, to be Unity), the said Line A G, will be the conjugate Diameter fought. Then to find the tranfverfe Diameter, fay, As i is to 2, So is the conjugate Diameter AG, to the tranfverfe Diameter fought. To work the first of the said Proportions by the Line of Lines on the Sector, fet 1 over as a Parallel on 2 ; then the parallel Extent of 154 taken, and laterally measured on the Line of Lines, will give 77, the fourth Proportional fought. In the fame manner may the latter Proportion be worked.
+
+USE VI. To defcribe an Ellipfis, by having the tranfverfe and conjugate Diameters given.
+
+Fig. 30. Let A B, and E D, be the given Diameters : take the Extent AC, or C B, between your
+
+CompafTes, and to that Extent, open the Legs of the Sector fo, that the Distance between 90 and 90 of the Line of Sines, may be equal to it : then may the Line A C be divided into a Line of Sines, by taking the parallel Extents of the Sine of each Degree, on the Legs of the Sector, between your CompafTes, and laying them off" from the Center C ; the Line A C be- ing divided into a Line of Sines (I have only divided it into the Sine of every 10 Degrees) from every of them raife Perpendiculars both ways. Now to find Points in the said Perpen- diculars, through which the Ellipfis must pass, take the Extent of the femi- conjugate Diameter C E, between your CompafTes; and then open the Sector fo, that the Points of 90 and 90, on the Lines of Sines of the Sector, may be at that Distance from each other. This being done, take the parallel Sines of each Degree, of the Lines of Sines of the Sector, and lay them off, on those Perpendiculars drawn thro' their Complements, in the Line of Sines A C, both ways from the said Line A C, and you will have two Points in each of the Perpendicu- lars thro' which the Ellipfis must pass.
+
+As for Example, the Sector always remaining at the fame Opening, take the Distance from 80 to 80, on the Line of Sines, between your CompafTes, and letting one'Foot in the Point 10, on the Line AC ; with the other make the Points a and b, in the Perpendicular patting thro' that Point: then the Points a and b, will be the two Points in the said Perpendicular, thro' which the Ellipfis must pass. All the other Points, in this manner, being found, if they are joined by an even Hand, there will be defcribed the Semi Ellipfis DAE. In the fame manner may the other half of the Ellipfis be defcribed.
+
+Fig. 31. USE VII. The Bearings of three Towers, fianding at ABC, to each other Icing given, that
+
+is, the Angles ABC, B C A, and CAB; and also the Distances of each of them /rem a fourth Tower fianding between them, as at D, being given -, that is, B D, D C, and A D bang
+
+f .v.«. • to find the Distances of the Towers at A B C from each other ; that is, to find the
+
+Lengths of the Sides AB, BC, AC, of the Triangle ABC.
+
+1 laving drawn the Triangle EFG similar to A B C, divide the Side E G in the Point H; Fig. 3 a. Co th it EH may be to H G, as A D is to D C; which may be done by taking the Sum of the l'iivs A I) and DC between your CompafTes, and fetting that Extent over as a Parallel on the I ine of Lines of the Sector, upon the Side EG of the Triangle, laterally taken ori the Line of Lines ; for then the parallel Extent of A D will give the Length of E H, and ronlVquently the Point H will be had. ,..,,,.., , t^ t l tt?
+
+Jn like manner must the Side EF (or F G) be divided so in I, that E I may be to I F, as A J) is to D B (or FG must be so divided, that the Segments must be as B D to DC).
+
+Aeain, having continued out the Sides EG, E F, fay, As E H — H G is to H G, So is EH° II G toGK; and as EI — IF is to IF, So let E I ^-1 F be to F M, which Proportions may cafily be worked by the Line of Lines on the Sector. This being done, bi- iect H K and I M, in the Points L N ; and about the said Points, as Centers, and with the Defiances L H arid IN defcribe two Circles interfering each other in the Point O •, to which, from the Angles EFG, draw the right Lines E O, F O, and O G, which will have the lame Proportion to each, other, as the Lines AD, B D, DC. Now if the Lines EO, h (), and G O are equal to the given Lines AD, BD, DC, the Distances E F, FG, and Eg! will be the Distances of the Towers fought. But if E O, OF, OG are lefTer than A D, D B, D C, continue them out fo, that P O, OR, and O O be equal to them ; then the Points P, Q^, R being joined, the Distances PR, R Cv, and P Q^will be the Distances of the Towers fought. Laftly, If the Lines E O, OF, O G, are greater than AD, D B, D C, cut off from them Lines equal to A D, BD, D C, and join the Points of Section by three right Lines ; then the Distances of the said three right Lines, will be the fought Di- ftances of the three Towers.
+
+Note, If E H be equal to H G, or E I to I F, the Centers L and N, of the Circles, will be infinitely distant from II and I ; that is, in the Points H and I there must be two Perpen- diculars raifed to the Sides E F, EG, inftead of two Circles, 'till they interfect each other : But if E II be lefTer than H G, the Center L will fall on the other Side of the Base EG continued •, underftand the fame of" EI, IF.
+
+USE VIII. To projeil the Sphere Orthographic ally upon the Plane of the Meridian. Let the Radius of the Meridian Circle, upon which the Sphere is to be projected, be A E i Plate %'* then divide the Circumference of the said Circle into four equal Parts in E, P, JE, S, and F - u draw the Diameters E^i, PS; the former of which will reprefent the Equator, and the lat- ter PS, the Hour-Circle of 6, as also the Axis of the World ; P being the North-Pole, and S the South-Pole. Then must each Quarter of the Meridian be divided into 90 Degrees, by making the Extent from 60 to 60 of the Line of Chords, on the Sector, equal to the Ra- dius of the Meridian Circle •, and taking the parallel Extent of every Degree, and laying them off from the Equator towards the Poles ; in which if 23 Deg. 30 Min. be numbered, (viz. the Sun's greateft Declination) from E to 2b Northwards, and from JE to Yf South- wards, the Line drawn from 25 to Yf will be the Ecliptick, and f he Lines drawn Parallel to the Equator, through 2* and Yf t will be the Tropicks.
+
+Now if each Semidiameter of the Ecliptick be divided into Lines of Sines (by making the Distance of the Points of 90 and 90, on the Line of Sines of the Sector, equal to either of theSemidiamcters, and taking out the parallel Extent of each Degree, and laying them off both ways from the Center A), the first 30 Degrees, from A towards 25, will ftand for the Sign Aries ; the 30 Degrees next following for Taurus ; the Rest for n, ss, Sl,'&c. in their Order.
+
+If, again, A P, AS, are divided into Lines of Sines, and have the Numbers 10, 20, 30, Isc. to 90 fet to them, the Lines drawn thro' each of these Degrees, parallel to the Equator, will reprefent the Parallels of Latitude, and fhew the Sun's Declination.
+
+If, moreover, A E, A JE are divided into Lines of Sines, and also the Parallels, and then there is a Line carefully drawn thro' each 15 Degrees; the Lines so drawn will be Elliptical, and will reprefent the Hour-Circles ; the Meridian P E S the Hour of 12 at Noon ; that next to it, drawn thro' y$ Degrees from the Center, the Hours of 1 1 and 1 -, that which is drawn thro' 60 Degrees from the Center, the Hours of 10 and 2, &V.
+
+Then with refptct to the Latitude, you may number it from E, Northwards, towards Z, and there place the Zenith (that is, make the Arc EZ 51 Deg. 32 Min. for London) ; thro' which, and the Center, the Line Z A N being drawn, will reprefent the vertical Circle paf- fing thro' the Zenith and Nadir East and West ; and the Line M A H, crofting it at righr Angles, will reprefent th*e Horizon. Thefe two being divided, like the Ecliptick and Equa- tor, the Lines drawn thro' each Degree of the Radius A Z, parallel to the Horizon, will re- prefent the Circles of Altitude, and the Divisions in the Horizon, and it's Parallels will give the Azimuths, which will be Ellipfes.
+
+Laftly, If thro' 18 Degrees in A N, be drawn a right Line I K, parallel to the Horizon, it will fhow the Time of Day-breaking, and the End of Twilight. For an Example of this Projection, let the Place of the Sun be the last Degree of « , the Parallel passtng thro' this Place is L D, and therefore the Meridian Altitude will be M L ; the Depreffion below the Horizon at Midnight H D •, the femidiurnal Arc L C; the feminocturnal Arc CD •, the De- clination Ab ; the afcenfional Difference b C ; the Amplitude of Afcenfion A C: The Dif- ference between the End of Twilight, and the Break of Day, is very small •, for the Sun's Parallel hardly croffes the Line ot Twilight.
+
+If the Sun's Altitude be given, let a Line be drawn for it parallel to the Horizon ; so ic shall crofs the Parallel of the Sun, and there fhew both the Azimuth and the Hour of the Day. As suppose the Place of the Sun being given, as before, the Altitude in the Morning was found, 20 Degrees, the Line F G, drawn parallel to the Horizon thro' 20 Degrees in AZ, would crofs the Parallel of the Sun in O ; wherefore F O fhews the Azimuth, and L O the Quantity of the Hour from the Meridian, which is about half an Hour pad 6 in the Morn- ing, and about half a Point from the East. The Distance of two Places may be also fhewn by this Projection, in having their Latitudes and Difference of Longitude given.
+
+For suppose a Place in the East of Arabia hath 20 Degrees of North Latitude, whose Dif- ference of Longitude from London, by an Eclipfe, is found to be five Hours and an half: Let Z be the Zenith of London, and the Parallel of Latitude for that other Place be L D, in which the Difference of Longitude isLO; wherefore O reprefenting the Pofition of that Place, draw thro' O a Parallel to the Horizon M H, croffig the vertical A Z about 70 Degrees from the Zenith ; which multiplied by 69, the Number of Miles in a Degree, gives 4830 Miles, the Distance of that Place from London.
+
+USE IX. To projeel the Sphere Stereograpbically upon the Plane of the Horizon ; suppose 1 for the Latitude of 5 1 Degrees, 3 2 Minutes.
+
+jr,-g z Draw a Circle of any Magnitude at pleafure, as N E, S W, reprefenting the Horizon •, in
+
+which draw the two Diameters, WE, N S, eroding one another at right Angles, which will be the Reprefentations of two great Circles of the Sphere crolTing each other at right Angles in the Zenith. Let N reprefent the North, E the East, S the South, and W the West Part of the Horizon.
+
+Note, In all these Projections, the Eye is commonly supposed to be in the Under-pole of the primitive Circle, projecting that Hemifphere which is oppofed to the Eye, which will all fall within the primitive Circle-, but that Hemifphere in which the Eye is, will all fall without the primitive Circle, and will run out in an infinite annular Plane, in the Plane of the Pro- jection, and confequently cannot all of it be projected by Scale and Compass.
+
+I. But now let us begin with projecting the Equinoctial. And here we mult first deter- mine the Line of Meafures, in which the Center of this Circle will be ; and this will be done by determining in what Points a Plane, perpendicular to the primitive Circle, will cut the Horizon, whether in the North and South, East and West, or in what other intermediate Points such a Plane shall cut it. The Pole of the World, in this Projection, is elevated 51 Deg. 32 Min. and confequently the Equinoctial, on the Northern Part of the Horizon, will fall below the Horizon, and it is the Southern Part which here mult be projected, or which will fall within the primitive Circle ; that Plane, whose Interfection with the Horizon shall produce the Line of Meafures, will be the Plane of a Meridian palling thro' the North and South Parts of the Horizon : "wherefore N S will be the Line of Meafures, in which the Center of the projected Equinoctial mult fall •, and since it is the Southern Part of the Equinoctial which we are to project, it's Center will be towards the North.
+
+To find whereabouts in the Line of Meafures the said Center will fall, you must first open the Legs of the Sector, so that the Distance from 45 Degrees to 45 Degrees, on the Lines of Tangents, is equal to the Radius of the primitive Circle ; then take the parallel Extent of the Tangents of 38 Deg. 28 Min. the Height of the Equinoctial above the Plane of the Ho- rizon, and lay it off from Z to n, and ;/ will be the Center of the projected Equinoctial ; and the Secant of the fame, 38 Deg. 30 Min. will give it's Radius, with which the Circle WQJS must be defcribed, which is the Reprefentation of that part of the Equinoctial which is above our Horizon, for the Latitude of 51 Deg. 32 Min.
+
+II. We will next project the Ecliptick, which being a great Circle of the Sphere, must cut the Equinoctial at a Diameter's Distance ; that is, in E, W, the East and West Points of the Horizon, and confequently will have the fame Line of Meafures with that of the Equinoctial, viz. N S. Now let us confider whether the Center of the Ecliptick falls towards the North, or towards the South of the Horizon ; and this will eafily be determined, by confidering that the Equinoctial is elevated above the Southern Part of the Horizon 38 Deg. 28 Min. and the Northern Part of the Ecliptick, or the Northern Signs, are elevated above the Equinoc- tial 23 Deg. 30 Min. which in all, make 62 Degrees, which is leffer than 90 Deg. So that it must fall towards the South, and confequently the Center must be Northwards, and will be found (the Sector remaining open as before), by fetting off the Tangent of 62 Deg. from z to b, and the Secant of 62 Deg. will give it's Radius ; with which the Circle W C E, the Reprefentation of the Northern half of the Ecliptick, must be defcribed.
+
+The Southern Part of the Ecliptick is likewise, for the most part, projected on the hori- zontal Projection, and made to fall within the primitive Circle ; but this cannot be, the Globe remaining fixed: for that part of the Ecliptick, which is below the Horizon, will be thrown out of the primitive Circle •, so that it cannot be projected, unlefs the Globe be supposed to of the Englifh SecStor. j*
+
+be turned round, and by that means the Southern Part of the Ecliptick to be brought above the Horizon •, but such a Revolution of the Sphere, where it makes any Alteration, is fcarce allowable: however, I mail (hew how it is uibally projected.
+
+The fame Line of Meafures N S remains ftill, and the Circle must fall to the South, and confcquently it's Center to the North of the Horizon ; therefore nothing remains but to find it's Elevation above the Horizon. The Northern Part of the Ecliptick falls 23 Deg. 30 Min. nearer the Zenith than the Equinoctial does ; therefore the Southern Part, being brought a- bove the Horizon, must be 23 Deg. 30 Min. nearer the Horizon than the Equinoctial : So that 23 Deg. ^o Min. being taken from 38 Deg. 28 Min. there remains 15 Deg. for the Di franco of that part of the Ecliptick above the Horizon. It will be reprefented by W e E, which is defcribed by fetting off the Tangent of 15 Degrees for the Center, and taking the Secant of the fame for the Radius.
+
+III. NS produced will alfb be the Line of Meafures for all Parallels of Declination, and Parallels of Latitude : for the Poles of leiTer Circles being the fame as those of the great Cir- cles, to which they are parallel, it is manifest that the lame Plane, which is at right Angles to the Equinoctial and Horizon, will also be at right Angles to all leiTer Circles parallel to the Equinoctial, and the fame will hold as to Circles parallel to the Ecliptick : But N S is the Line of Meafures of the Equinoctial and Ecliptick, and confequently must be the Line of Meafures of all Circles parallel to either of them; therefore the Centers of such leiTer Circles will be in N S produced, if there be Occafion. Now to project them, for Inftance, the Tropick of Cancer ; confider, in this Pofition of the Sphere, what will be it's neaRest and greateft Distance from the Zenith, or the Pole of the primitive Circle, which you will find to be 28 Degrees ; for the Equinoctial being elevated 38 Deg. 28 Min. above the Horizon, and the Tropick of Cancer being 23 Deg. 30 Min. from the Equinodial, which, being added together, gives 62 Deg. which fubftracted from 90 Deg. leaves 28 Deg. it'sDistance from the Zenith on the South-side of the Horizon •, therefore the Half- Tangent of 28 Deg. or the Tan- gent of i4Deg. fet from Z to C, will give one Extremity of it's°projected Diameter: Then the Distance from the Zenith to the Pole, being 38 Deg. 28 Min. and from the Pole to the Tropick of Cancer 66 Deg. 30 Min. the Sum of these, viz. 104 Deg. 58 Min. will be it's grcateft 1 hftance from the Zenith •, the Half- Tangent of which, fet from Z to a, will give the other Extremity of it's projected Diameter : therefore having got C a the Diameter, bifect it, and defenbe the Circle « C 2?.
+
+The Tropick of Capricorn may be defcribed in the fame manner : for the Distance of the Equinoctial and the Zenith being 51 Deg. 32 Min. if to this be added 23 Deg. 30 Min. you will have 55 Deg. 2 Min. equal to the neaRest Distance of the Tropick of Capricorn, on the South-lice of the Horizon ; the Half- Tangent of which being fet from Z to*, will give one Extremity of it s Diameter. Then the D.ftance between the Zenith and the Pole, viz. 38 Deg. 28 Mm and the Distance between the Pole and the Equinoctial, which is 00 Deg. and the D.ftance between the Equinoctial and the Tropick of Capricorn^ which is 23 Deg. 30 Mm. being all added together, will give the greateft Distance of the Tropick of Capricorn, Irani the Zenith, viz 152 Deg. 2 M.n. the Semi-tangent of which being fet from Z towards the North will give the other Extremity of the Diameter. Bifed the Diameter found in e&lt; and defenbe the Circle * C tf, which is the Reprefentation of so much of the Tropick of Capricorn, as talis within the primitive Circle. Ji^ f°' a , r Circle is a 3 Deg. 30 Min. from the Pole-, but the Pole being elevated,
+
+£ N( 7 h " fu l e the H ™™&gt; 5i Deg. 32 Min. and 51 Deg. 32 Min. added t°o 23 Deg 30 Mm. whose Sum is 75 Deg. 2 Min. is leiTer than 9 o Deg. Vthat it does not pass be- yond the Zenith •, therefore 75 Deg. 2 Min. taken from 9 o Deg. leaves 15 Deg. which is the neaRest D.ftance of the Polar Circle from the Zenith : And the^Half-Tangent^f 15 Dei fet fron Z to., will give one Extremity of it's projected Diameter , and then , 5 Deg' addtd to nfwh g H «Tl W r^ ml ± b£ U S greateft D,ftance from the Ze nith: the Half-Tangent tr o tlS V n n' ' fr ° m Z l°- P ' , Wll) give the 0ther Extremit y of ^'s projected Diame- fcribed sDlameter *P b ^B found, it is but bifecting it/and the Circle may be de-
+
+must be deterZed^ *T 1° ?'%* ^ ? our - Circl «- And, First, a Line of Meafures
+
+l t he Horizon and for^P. f^ '° fcrVC them aH : f ° r thc 7 ^ ^^ ' nclined
+
+zon and a the' r?ir ? f ? 0n l great Cirde Can be at "ght Angles to (he Hori-
+
+Horizon n I on^o f Thrn V^V 1 * P ^e of a great Circl? at right Angles to the
+
+all S Ancls to rh p pI" ^[°^ d: . which is P offible &gt; because the Hour-Cirdes being
+
+ce* but the Pole, f Plane °^ Equinoctial, their Poles will be all found in this C\r-
+
+Qrcle of 2 and rhe H ^F 1 ^^ 9° Degrees distant from their Planes, the Hour^
+
+fowilbcAr\thr ^^° Ur " CirCle0f L 6 ' must ^ neceffity pass thro' each other's Poles, and
+
+he Horizon lnl£ t g rV°- ^^V ? Ut the Hour-Circle of 12 is at right Angles to
+
+n which the CV„ f^ "i? N S J theref ° re the Line N S w &gt;» be the Line'of Me?fures,
+
+Soul Par -of 2 H Hour- Circle of 6 will be, and it's Center will be towards the"
+
+wTras tl Nor SepT' ^ ? ^ Hour " Ci ^ pass thro' the Pole which falls to-
+
+tne Noith, the Elevation of this Circle above the Horizon being the fame with that oF the Pole, viz. 51 Deg. 32 Min. then take the Tangent of 51 Deg. 32 Min. and fet it from Z to K •, and upon the Center K, and with the Secant of" the fame Elevation, defcribe WPE, which is the Circle required.
+
+The Point P, where N S, WE, interfect one another, is the Reprefentation of the Pole of the World •, forNS being the Reprefentation of the Hour-Circle of 12, the projected Pole must be fomewhere in this Line -, but it mult be some where in W E, which is likewise the Projection of an Hour-Circle : therefore it must be in that Point where these two pro- jected Circles interfect one another, that is, in the Point P -, P is the Point thro' which all the Hour-Circles must pass in the Projection.
+
+In order to draw the Rest of the Hour-Circles, we must have recourfe to a Secondary Line oF Meafures, which may thus be determined : To P K, at the Point K, erect D B at right Angles, and produce the Circle WPE, 'till it meet the Line DB, in the Points D and 13 ; and the Line D B will be the secondary Line of Meafures in which the Centers of all the Hour-Circles will be found-, for let the Hour-Circle of 6, D PB, be confidered as the pri- mitive Circle, in whose Under-Pole (which will be in the Equinoctial) K, let the Eye be placed ; then DB will be the Reprefentation of the Equinoctial, for it palTing thro' the Eye will be projected into a right Line : but the Equinoctial is at right Angles to the Hour-Circles, both the primitive and all the Rest-, therefore it will be the secondary Line of Meafures, upon this Suppofition, upon which will be all their Centers. In order to find which, fet the Sector to the Radius P K, then take off parallel-wife the Tangents of 1 5 Deg. 30 Deg. 45 Deg. the Elevations of the Hour-Circles above the Hour-Circle at 6, and fet them both ways, from K to r, from K to/, from K to r, &c. then upon those Centers, and with the Secants of the fame Elevations, defcribe the Circles P P, PQ^, and P T, which will be the Hour-Circles ; for they are all great Circles of the Sphere, passing thro' the Pole P, and make Angles with one another of 15 Deg. or are 15 Deg. distant from each other: and the Portions of those Cir- cles which fall within the primitive Circle NESW, as HPi&gt;, are the Reprefentations of those Halves of the Hour-Circle, which are above our Horizon in our Latitude.
+
+VI. In like manner the Circles of Longitude may be drawn, by determining the secondary Line of Meafures R S, in which all their Centers will be; and this Line will be determined after the fame manner with D B above, and the Circles of Longitude drawn as before the Meridians were drawn : for the Line N S will be the Line of Meafures, with refpect to one of them palling thro' E and W, the East and West Points of the Horizon. In order to draw this Circle, confider it's Elevation above the Horizon, which will be found by confidering the Distance of the Pole of the Ecliptick, from the Pole of the World, which will be 28 Deg. 2 Min. the Elevation of this Circle above the Horizon. Set the Tangent of 28 Deg. 2 Min. from Z to Q, and with the Secant of the fame Distance, defcribe the Circle W p E -, to p Ck, at the Point Q, erect R S at right Angles, which will be the secondary Line of Mea- fures. In this Line from Q^ (the Sector being fet to p Q_), fet off the Tangents of 24 Deg. 40 Deg. according to the Number of Circles you have a Defire to draw, from Qjo x, from Q^to_v, &c. and with the Secants of 20 Deg. 40 Deg. &c. defcribe the Circles of Longitude, MPm, &c.
+
+VII. The Reprefentations of Azimuths, in this Projection, will be all right Lines, and any Number of them may be drawn, making any afllgned Angles with one another, if the Limb be divided into it's Degrees by help of the Sector, and thro' these Degrees be drawn Diame- ters to the primitive Circle.
+
+VIII. All Parallels of Altitude, in this Projection, will be Circles parallel to the primitive Circle, and may be eafily drawn, by dividing a Radius of the primitive Circle, into Half- Tangents, and defcribing upon the Center Z, thro' the Points of Division, concentrick Cir-? cles. I shall omit drawing of them, left the Scheme be too much perplexed.
+
+USE X. l io projeel the Sphere Stereographically upon the Plane of the Solflitial Colure
+
+for the Horizon of 51 Deg. 32 Min.
+
+fig. 3&gt; Draw the Circle HBOC, reprefenting the primitive Circle; and the Diameter H O,
+
+reprefenting the Horizon: Set off the Chord of 51 Deg. 32 Min. from O to P, having first fet the Sector to the Radius of the Circle, which will give the Polar Point, and draw the Diameter Pp, reprefenting the Hour-Circle of 6.
+
+I. The Equinoctial may be reprefented, by drawing the Diameter E Q^at right Angles to the Diameter Pp.
+
+II. Set off 23 Deg. 30 Min. from the Chords, from E to 20, and from Qjo kf, which will reprefent the Ecliptick.
+
+III. The Tropicks of Cancer and Capricorn may be drawn thus : Take the Secant of 66 Deg. 30 Min. the Distance of each of them from their refpedtive Poles, and fet it both ways, from the Center A in P p produced, which will give the two Points e e the Centers of the two Cir- cles, and their Radii will be the Tangents of the fame 66 Deg. 30 Min.
+
+IV. The Polar Circles, as also all other Parallels of Declination, may be drawn in the fame manner.
+
+V. The Line of Meafures for the Azimuths will be H O, and the Line of Meafures for the Almacanters will be B C.
+
+VI. sf • V, or the Ecliptick, will be the Line of Meafures for the Circles of Longitude, and the Line 'of Meafures for the Circles of Latitude will be N S, all of which may be eafily drawn from what is said in the precedent Use.
+
+VII. The Ecliptick may be divided into it's proper Signs in this Projection, by fetting off the Tangents of 15 Deg. 30 Deg. 45 D eg- both ways from A.
+
+USE XI. To draw the Hour -Lines upon an erett diRest South Plane, as also on an
+
+Horizontal Plane.
+
+First, draw the indefinite right Line C C, for the Horizon and Equator, and crofs it at Fig. 4. right Angles in the Point A, about the middle of the Line, with the indefinite right Line A B, ferving for the Meridian, and the Hour Line of 12. then take out 15 Deg. from the Line of Tangents, on the Sector (the Sector being fet to a parallel Radius leffer than the Extent from 4- Deg. to 45 Deg. of the leffer Lines of Tangents, when the Sector is quite opened), and lay them off in the Equator on both Sides from A, and one Point will ferve for the Hour of 1 j, and the other tor the Hour of 1. Again, Take out the Tangent of 30 Deg. (the Sector beino- opened to the fame Radius), and lay it off on both Sides the Point A in the Equator, and one of these Points will ferve one for the Hour of 10, and the other for the Hour of 2. In the fame manner, lay off the Tangent of 45 Deg. for the Hours of 9 and 3, the Tangent of 60 Deg. for the Hours of 8 and 4, and the Tangent of J5 Deg. for the Hours of 7 and 5; But note, because the greater Tangents on the Sector run but to 45 Deg. therefore you must fct the parallel Radius of the leffer Tangents, when you come above 45 Deg. to the Extent of the Radii of the greater Tangents.
+
+Now if you have a mind to fet down the Parts of an Hour, you must allow 7 Deg. 30 Min. for every half Hour, and 3 Deg. 45 Min. for one quarter. This done, you must confider the Latitude of the Place in which the Plane is, which suppose 5 1 Deg. 30 Min. then if you take the Secant of 5 1 Deg. 32 Min. off from the Sector, it remaining opened to the parallel Radius of the leffer Tangents, and fet it off from A to V, this Point V will be the Center of the Plane •, and if you draw from V, right Lines to 1 1, 10, 9, &c. and the Rest of the Hour Points, they will be the required Hour Lines.
+
+But if it happen, that some of these Hour Points fall out of the Plane, you may thus remedy yourfelf, by means of the larger Tangents.
+
+At the Hour Points of 3 and 9, draw occult Lines parallel to the Meridian ; then the Di- ftances D C, between the Hour Line of 6, and the Hour Points of 3 and 9, will be equal to the Semi-diameter A V; and if they be divided in the fame manner as the Line AC is di- vided, you will have the Points of 4, 5, 7, and 8, with their Halves and Quarters.
+
+For\take out the Semi-diameter A V, and make it a parallel Radius, by fitting it over in the Tangents of 45 and 45 ; then take the parallel Tangent of 15 Deg. and it will give the Distance from 6 to 5, and from 6 to 7. The Sector remaining thus opened, take out the parallel Tangent of 30 Deg. and it will give the Distance from 6 to 4, and from 6 to 8 : the like may be done for Halves and Quarters of Hours.
+
+The Hour Points may be otherwise denoted thus: Having drawn a right Line for the Equator, as before, and a (Turned the Point A for the Hour of 12, cut off two equal Lines A 10, and A 2, then upon the Distance between 10 and 2, make an equilateral Triangle* and you will have B for the Center of the Equator, and the Line A B, will give the Distance from A to 9, and from A to 3. This done, take out the Distance between 9 and 3, and this will give the Distance from B to 8, and from 8 to 7, and from 8 to 1 : and again, from B to 4, and from 4 to 5, and from 4 to 1 1 ; so have you the Hour Points : and if you take out the Distances B 1, B 3, B 5, fc&gt;V. the Points may be found not only for the Half-Hours, but for the Quarters.
+
+In the fame manner are the Hour Lines drawn on a Horizontal Plane, only with this Dif- ference, that A H is the Secant of the Complement of the Latitude, and the Hour Lines of 4&gt; 5&gt; 7&gt; 8, are continued thro' the Center.
+
+USE XII. To draw the Hour Lines upon a Polar Plane, as also on a Meridional Plant*
+
+In a Polar Plane, the Equator may be also the fame with the Horizontal Plane, and the Hour Fig. 5. Points may be denoted as before, in the last Use : but the Hour Lines must be drawn parallel to the Meridian. r
+
+In a Meridional Plane, the Equator will make an Angle with the Horizontal Line, equal to the Complement of the Latitude of the Place; then may you affume the Point A, and t^ere crofs the Equator with a right Line, which will ferve for the Hour Line of 6: then the langent ot 15 Deg. be.ng laid off in the Equator on both Sides from 6, will gl*e the Hour Points ot 5 and 7 ; and the Tangent of 30 Deg. the Hour Points of 8 and 4 ; the Tangent of 45 ai&\ the u H ~ UrPomtsof 3 and 9&gt; the Tangent of 60 Deg. the Hour Points of 2 and 10: and laltly the Tangent of 75 Deg. will give the Hour Points of 1 and 1 1 ; and if right Lines are drawn thro these Hour Points, croffing the Equator at right Angles, these (hall be the Hour Lines required. © 1 & &
+
+USE XIII. to draw the Hour Lines upon a vertical declining Plane.
+
+Fig. 6. First draw A V the Meridian, and A E the Horizontal Line, crofting one another in the
+
+Point A ; then take out A V, the Secant of the Latitude of the Place, which fuppoie 5 1 Deg. 32 Min. and prick it down on the Meridian from A to V. Now because the Plane declines, which suppose 40 Deg. Eastward, you must make an Angle of the Declination upon the Cen- ter A, below the Horizontal Line, on the left Side of the Meridian, because the Plane declines Eastwards ; for if it had declined Westward, the said Angle must have been made on the right Side of the Meridian. This being done, take AH, the fecant Complement of the Latitude, out of the Sector, and prick it down in the Line of Declination from A to H, as was done for the Semi-diameter in the Horizontal Plane : then draw an indefinite right Line thro' the Point A, perpendicular to A H, which will make an Angle, with the Horizontal Line, equal to the Plane's Declination, and will be as the Equator in the Horizontal Plane. Again, take the Hour Points out of the Tangents, as in the last Problem, and prick them down in this Equator on both Sides, from the Hour of 12 at A ; then lay your Ruler, and draw right Lines thro' the Center H, and each of these Hour Points, and you will have all the p]our Lines of an Horizontal Plane, except the Hour of 6", which is drawn thro' H perpendicular to H A. Laftly, you must note the Interferons that these Hour Lines make with AE, the Ho- rizontal Line of the Plane, and then if right Lines are drawn thro' the Center V, and each of these Interferons, they will be the Hour Lines required.
+
+The Hour Points may be pricked down otherwise, thus : Take out the Secant of the Plane's Declination, and prick it down in the Horizontal Line from A to E, and thro' E draw rio-ht Lines parallel to the Meridian, which will cut the former Hour Lines of 3 or 9, in the Point C ; then take out the Semi-diameter A V, and prick it down in those Parallels from C to D, and draw right Lines from A to C, and from V to D ; ■ the Line V D will be the Hour of 6: and if you divide those Lines AC, DC, in the fame manner as D C is divided in the Horizontal Plane, the Hour Points required will be had.
+
+Or you may find the Point D, in the Hour of 6, without knowing either HorC; for hav- ing pricked down A V in the Meridian Line, and A E in the Horizontal Line, and drawn Parallels to the Meridian thro' the Points at E, take the Tangent of the Latitude out of the Sector, and fit it over in the Sines of 90 Deg. and 90 Deg. and the parallel Sine of the Plane's Declination, measured in the fame Tangent Line, will there mew the Complement of the Angle D V A, which the Hour Line of 6 makes with the Meridian : then having the Point D, take out the Semi-diameter V A, and prick it down in those Parallels from DtoC; so (hall you have the Lines DC, AC, to be divided, as before.
+
+Thus have you the Use of the Sector applied in refolving several useful Problems. I might have laid down many more Problems in all the practical Parts of Mathematicks, wherein this Instrument is useful •, but what I, and our Author have said of this Instrument, will, I believe, be fuffkient to fhew Perfons fkilled in the several practical Parts of Mathematicks, the Man- ner of using this Instrument therein.
+
+For the Uses of the Lines of Numbers, Artificial Sines, and Tangents •, as also the Lines of Latitude, Hours, and Inclination of Meridians ; See U S E S of Gunter's Scale.

@@ -1,0 +1,1626 @@
+
+
+O/* //&£ ConflruSiion and Use of Mathematical Inftru-
+ments $ containing the common Instruments, as Com-
+pares, the Ruler, the Drawing-Pen, the Porte-Craion
+or Pencil-Holder, the Square, and the Protractor.
+
+
+
+
+
+
+
+CHAP. I.
+
+Of the Conflru&ion and Use of the CompafTes, the Ruler, the Drawing-
+Pen, and the Porte-Craion or Pencil-holder.
+
+HERE are several Sorts of Compafles, of which we shall fpeak more fully hereafter ; but that whose Uses we intend to lay down in this Chap- ter, is the common Pair of Compafifes. Of these Compafles there are two kinds, viz. Simple Ones, which have their Points fixed, and others whose Points may be taken off; both kinds being of different Bigneffes, but they are commonly in Length from three to fix Inches. To these Compafles, that fhift their Points, there belongs a Drawing- Pen-Point, a Pencil-Point, and fometimes a Dotting- Wheel, to make dotted Lines. The Goodnefs of Compafles confifts chiefly in this, That the Motion of their Head be very equable, that so they may not leap in opening and fliutting i that the Joints be well fitted ; that they are well filed and polifhed -, and, lastly, that the Steel-Points are well joined and equal. The Figure A fheweth these kinds of Compafles, whose Conftruction we Fig. A. Ihall give in the third Book.
+
+Rulers, which are of Brass, or Wood, ought to be very flrait every way ; they are made Fig B. ftrait with Files and a Planner, whose Bottom is Steel ; as also by rubbing them and another very ftrait Ruler together : one Side of these Rulers is floped, to keep the Ink from blot- ting the Paper.
+
+When Lines are drawn with Ink, they ought to be very fine.
+
+To know whether a Ruler be very ftrait or not, draw a right Line upon a Plane ; then turn the Ruler about, and apply the fame Edge to the Line ; and if the Edge of the Ruler cxaclly agrees with the right Line, it is a Sign the Ruler is very ftrait.
+
+The Drawing-Pen is made of two Steel Blades joined together, and fattened to a little Pillar, at the other End of which is a Porte-Craion •, there is a Cavity between the aforsaid Fig. C. Blades, in which Ink is put with a Pen : also the Blades must join each other in Points that be very equal. There is likewise a small Screw, ferving more or less to open the Blades, that so Lines may be drawn fine or coarfe, according to neceflity.
+
+The Porte-Craion ought to be of equal Bignefs every where, and very ftraitly flit down the middle with a fine Saw ; also the Porte-Craion is bent towards the- end, in order to fallen a Pencil in it, by means of a little Ring.
+
+C USE
+
+
+
+6 Of the Confiruciion and Use Book I.
+
+USE I. To divide a right Line into two equal Parts.
+
+pr , J .a the given Line be A B, which is to be divided into two equal Parts: About the
+
+Point A, as a Center, or one of the Ends of the Line, defcribe the circular Arc C D, with
+
+' Z ' your Compasses opened to any Distance, but neverthelefs greater than one half of A B. Like
+
+wife about the other end B, as a Center, defcribe, with the fame Opening of your Com-
+pares, the circular Arc E F, cutting the former Arc in the Points G H ; then place a Ruler
+upon these two Interferons, and draw the Line G H, which will divide the Line AB into
+two equal Parts.
+
+Note, The two Arcs will not interfeft each other, if the Opening of the Compasses be not
+greater than half of the given Line.
+
+USE II. Upon a right Line, and from a Point give in it, to raife a Perpendicular.
+
+Pj z Let the given right Line be A B, and the Point given in it C, upon which it is required
+
+to raife a Perpendicular.
+
+From the given Point C, mark both ways with your Compasses, on the given Line, the
+equal Distances C A, CB; then about the Points A 13, as Centers, and with any opening of
+your Compaifes' (greater than half the given Line) defcribe the Arcs D E, FG, interacting
+each other in the Point H, and draw the Line HC, which will be perpendicular to A B.
+
+i'ig. 3. If the given Point C be at the End of the Line, defcribe about the Point C, as a Centre,
+
+any Arc of a Circle-, on which take twice the fame opening of your Compafles, viz. from
+B to D, and from D to E : then about the Points D, E, defcribe two Arcs, interfering one
+another in the Point F •, lay a Ruler upon the Points F and C, and draw the Line F C,
+which will be a Perpendicular upon the End of the Line CB.
+
+If there is not room to take the Length of D E, divide the Arc B D in two equal Parts
+in the Point G, and make D H equal toDG; then the Line FI C will be a Perpendicular.
+
+;..-j„ 4. Or otherwise, having drawn the indefinite Line B D F, through the Points D, F, and
+
+made D F equal to B D •, F C will be a Perpendicular.
+
+Flcy Or again in this Manner : having taken the Point P at pleafure above the given Line,
+
+about the said Point, as a Center •, and with the Interval P C, defcribe the Arc BCD, then
+draw the Line BP, and produce it 'till it cuts the aforsaid'Arc in the Point D, and from
+the Point D to the Point C, draw the Perpendicular D C.
+
+USE III. From a Point given without a Line, to let fall a Perpendicular to the /aid Line.
+
+Let the given Point be C, from which, to the given Line A B, it is required to draw a
+Perpendicular.
+Fig. 6. About the Point C, as a Center, defcribe an Arc of a Circle cutting the Line A B in the
+
+two Points D E ; then from the Points D E, make the Interferon F •, lay a Ruler upon the
+Points C and F, and draw the Perpendicular C G.
+
+Note, The Interferon F may be made above or below the given Line ; but it is bed to
+have it below it ; because when the Points C F are at a good Distance, the Perpendicular
+may be drawn truer than when they are nigh.
+
+When the Portion of the Circle defenbed about the Point C, does not cut the Line A B in two Points, the Line must be continued if it can ; if it cannot, Recourfe must be had to the Method of Fig. 5. for raifing a Perpendicular on the End of a Line : as suppose a Perpen- dicular is to be let fall from the Point D, on the Line CD, draw, at pleafure, the Line D B, which bifect in the Point P ; then about this Point, as a Centre,- and with the Distance PD, defcribe the Arc DCB, cutting the Line AB in the Point C. Laftly, lay a Ruler upon the Points C and D, and draw the Line C D, which will be the Perpendicular required. Fig. 7. Otherwife, let A B be the given Line, and C the Point without it \ take two Points 1
+
+and 2 at pleafure, on the the said Line A B •, then about the Points 1 and 2, and with the Distances 1 C, 2 C, defcribe Arcs of Circles, interfering each other in two Points, as in C and D ; then lay a Ruler on the two Interferons, and draw a Line, which will be the Perpendicular required.
+
+USE IV. To cut a right-lined Angle into two equal Parts.
+
+Let A C B be the Angle to be cut into two equal Parts.
+p,„ g About the Point C, as a Center, defcribe the Arc DE at pleafure; then about the Points
+
+D and E, defcribe two other Arcs, cutting each other in the Point F, and draw the Line F C
+through the Points F, C, which will cut the given Angle into two equal Parts.
+
+If it be required to divide the Angle A CB into three equal Parts, the Arc D E must ten-
+tatively be divided by your Compasses into three equal Parts* ; because the Triferion of an
+Angle by right Lines, hath not yet been geometrically found.
+
+USE
+
+
+
+* Our Author fhould have said here, because the Trifeclion of an Angle cannot be geometrically performed by
+right Lines or Circles either. See more particularly how to do thi-j in the Appendix.
+
+
+
+Chap. i. of the Compasses , the Ruler , &c. 7
+
+U S E V. To raife a right Line on a given Line, that may incline no more on
+
+one Side than the other.
+
+Make the fame Operation as before, and produce the Line F C G. Fig. 8.
+
+USE VI. Upon a given right Line, and from a Point given in it, to make
+
+an Angle equal to a given Angle.
+
+Let A B be the given Line, and A the given Point upon which it is required to make an
+Angle equal to the given Angle E F G.
+
+About the Point F, as a Center, defcribe the Portion of a Circle; and with the fame Fig 9,
+opening of your Compasses, defcribe about the Point A another Portion ; then take the Big-
+ntfs of the Arc E G between your Compasses, which Distance lay off on the Arc B C : now
+through the Points A, C, draw the Line A C, and the Angle B A C will be equal to the Angle
+EFG.
+
+USE VII. To draw a Line from a given Point, parallel to a given Line.
+
+Let A B be the given Line, and C the Point through which it is required to draw a Line
+parallel to A B.
+
+About the Point C, as a Center, and with any opening of your Compasses, taken at plea-
+fure, defcribe the Arc D B cutting the given Line in the Point B : also about the fame Pojnt Fig- i°.
+B, as a Center, and with the fame opening of your Compasses, defcribe the Arc C A •, then
+take the Distance of the Points C, A, and lay it off from B to D, and through the Points
+C and D, draw the Line CD, which Will be parallel to A B.
+
+Otherwife, about the Point C, as a Center, defcribe an Arc touching the given Line •,
+and about another Point, taken at pleafure in the Line A B, defcribe, with the fame opening Fig. 11.
+of your Compasses, the Arc D : then through the Point C, draw a Line touching the Arc D,
+and the Line C D will be parallel to A B.
+
+But as it is difficult to find whereabouts the Point of Contact will be, there is another way
+which is better, and is thus : ■»
+
+About the Point C, as a Center, and with any Distance, defcribe an Arc cutting the Line Fig 12.
+A Bin A.
+
+And about another Point in the fame Line, as B, defcribe another Arc, with the fame
+opening of your Compasses ; then open the Compasses to the Distance A B, and about the
+Point C, as a Center, defcribe an Arc cutting the former one in the Point D •, and through
+the Points C and D draw a Line, which will be parallel to A B.
+
+USE VIII. To divide a given Line into any number of equal Parts.
+
+Let the Line given be A B, which is required to be divided into eight equal Parts : firfl, Fig. J 3- draw the Line B C, at pleafure, making any Angle with the Line A B. Likewise draw the Line A D parallel toBC; then divide B C into eight equal Parts, taken at pleafure, and make the fame Parts on the Line A D, and through the Divisions of them, draw Lines, which will divide the Line A B into eight equal Parts.
+
+Or otherwise, draw the Line a b parallel to A B, which is proposed to be divided; then Fig. 14. take 8 equal Parts on the Line ab. Now through the Ends of the two Parallels draw two Lines, which form Triangles with the Parallels, and interfect each other in the Point C ; then from the Point C, draw Lines to the Divisions made on the Line a b, which will cut the Line AB in the Number of equal Parts required.
+
+This Division of Lines ferves to make Diagonal Scales •, as suppose the Line A B is to make a Scale of eighty Parts, or eighty Fathom ; each Part of this Line, divided into eight, Fig. ;;, contains ten Fathom: but since it is difficult to divide each of the aforsaid Parts into ten others, you must raife from the Ends of the Line A B, the Perpendiculars AD and B C, on which take ten Parts at pleafure ; from every of which, you must draw Parallels to the Line A B ; then the fame Divisions must be made on the Line DC, as on A B ; and the tranf- verfal Lines A E, 10 F, 20 G, &c. must be drawn.
+
+Now it is eafy to take off any Number of Fathoms from this Scale: as, for Example, to take off 23 Fathoms •, Take the Concourfe of the Tranfverfal 20 G, with the Parallel 3, that is at the Point Z, and Z 3 will be 23 Fathom. Moreover, if 58 Fathom is required, take the Concourfe of the Tranfverfal 50 H, with the Parallel 8, which is Y, and Y 8 will repre- ftnt 58 Fathom, and so of others. Feet might be put upon this Scale, by making a greater Distance between the Parallels; and by fub-dividing them into 12 equal Parts, there would be obtained Inches.
+
+But now to divide a very fhort Line into a great Number of equal Parts, as into 100 or 1000: For Example; Suppose the Line A D is to be divided into 1000 equal Parts ; first, Fig. 16. from the Ends A D, raife the Perpendiculars A B, DC, and divide each of these Perpendi- culars into 10 equal Parts, and draw through the Divisions the like Number of Parallels to A D; then divide e?.ch of the Lines A D, BC, into 10 equal Parts, which join by the like Num- ber of Perpendiculars. Again, fubdivide the first Space A E, and it's Parallel, into 10 more Parts, which join by transversal or oblique Lines, as the Line E 1, &c.
+
+By
+
+
+
+8 Of the ConjlruEiion and Use Book I.
+
+By this Means the first Interval AE, will be divided into 100 equal Parts ;, for which Rea-
+fon, the Numbers 200, 300, 400, 500, &c. to 1000, are placed on this Scale, as may be
+ken in Fig. 16.
+
+The Manner of taking off any Number of equal Parts from the aforsaid Scale, is the fame as that which hath been already fhewn in the precedent Figure. We mall again men- tion this Scale in the Chapter of the Sector. There are also Sines, Tangents, and Secants, projected upon Scales, in the following Manner: If from each Degree of the Quadrant I F, beo-innin^ from the Point I, Perpendiculars are let fall to the Radius A I, these will be the Sines of each Degree, the greateft of which is the Radius of the Circle, or Sinus Totus A F 5 and the Lengths of all these Sines may be projected upon the Radius, in order to make a Scale, beginning from the Point A-, as the Sine DK is laid off from A towards G, csV.
+
+And if the Tangent I E, be indefinitely produced towards E, and from the Center A, Fig. 1 7. Lines, as A E, be drawn through each Degree of the Quadrant, to the Tangent I E produced,
+
+these will be the Secants of each Degree of the Quadrant. Whence it is manifelf, that any one of the Secants is greater than the Radius A I. It is likewise plain, that every Tangent I E, is terminated by it's Secant A E, in the Line I E, which will be a Scale of Tangents : and it is in this manner, that the fimple Scales of Sines, Tangents, and Secants, are made in takino- between your Compasses each of those Distances, and laying them off upon a Ruler. The Tables of Sines, Tangents, and Secants, are likewise made on this Principle : for the Radius of a Circle, or Sine of a right Angle, is supposed to be divided into 10000, and then there is found how many of these Parts every right Sine contains ; as also the Tangents and Secants from one Minute to 90 Degrees ; which, when put in order, are called the Tables of Sines, Tangents, and Secants.
+
+Logarithms are Numbers in an Arithmetical Progreffion, to which anfwer other Numbers in a Geometrical Progreffion, as the two following Progreffions.
+
+Prog. Geom. Numb. 1, 2, 4, 8, 16, 32, 64, 128, 256, &c.
+
+Prog. Arith. Log. o, 1, 2, 3, 4, 5, 6, 7, 8, &c. Logarithms were invented to perform Multiplication by only the help of Addition, and Division by Subtraction •, by which Operations are infinitely fhortened, and so they are of excellent Use in Agronomical Calculations.
+
+Note., The Use of these Tables is explained in Books of the Tables of Sines, Tangents, and Secants.
+
+USE IX. To cut off from a given Line any Part ajfgned.
+
+Let the Line A B be the given Line from which it is required to cut off the fourth Part.
+Fig. 18. Draw the indefinite Line AC, making any Angle with the Line A B, which divide into
+
+four equal Parts at pleafure •, then from the Jaft Division, draw the Line B 4, and afterwards
+the Line D I, parallel to B 4, which will be a fourth Part of A B.
+
+U S E X. To draw a right Line through a given Point, that Jhall touch a Circle.
+
+If the given Point be in the Circumference, draw the Radius A B, and on the Point B raife the Perpendicular B C, which will be a Tangent in the Point B. But if the given /'ig. 19.&20. Point B be without the Circle, draw a right Line from the Center A, to the PoinfB, which bifect in the Point D : then about the said Point D, as a Center, and with the Distance B D, defcribe a Semi-Circle cutting the Circle in the Point E, and draw B E, which will be a Tangent.
+
+If a Circle be given with it's Tangent, and the Point of Contact be required, let fall the Perpendicular A B from the Center of the Circle, and the Interferon of the Tangent with the said Perpendicular, will be in the Point of Contract.
+
+USE XI. Upon a given Line to defcribe a Spiral, making any Number of Revolutions.
+
+Let the given Line be A B, upon which it is required to defcribe a Spiral of 3 Revolutions. First, bifect that Line in the Point C, about which Point, as a Center, defcribe a Semi- Circle, whose Diameter may be equal to the given Line A B; then trifect the Semi-Diame- Fig. zi, ter A C in the Points DE, and about the fame Center defcribe, on the fame Side the Line
+
+A B, two other Semi-Circles passing through the Points D E : again, fubdivide the Space C E, into two equal Parts in the Point F ; about which, as a Center, defcribe on the other Side of the given Line, three other Semi-Circles, and a Spiral of three Revolutions will be had. If the Spiral is required to make four Revolutions, you must divide the Semi-Diameter A C into 4 equal Parts *.
+
+USE XII. Num. I. Upon a given right Line, to defcribe an equilateral Triangle.
+
+Let A B be the given Line on which it is required to defcribe an equilateral Triangle. Fig. 22. About the Point A, and with the Distance A B, defcribe an Arc of a Circle; and about the Point B, as a Center, with the Distance B A, defcribe another Arc cutting the precedent one in the Point C ; then draw the Lines C A, C B ; and the Triangle ABC, will be an equilateral Triangle.
+
+USE
+
+* Although this is called a Spiral, yet in reality, it is only fever a I unequal Semi-Circles ; of no manner of use ist
+mnj geometrical Ejftfiion, a Spiral being vajily different. See the Appendix.
+
+
+
+Chap, i- of the Compasses ^ the Ruler , Sec. 9
+
+USE XII. Num. II. Upon a given right Line AB to defcribe an Ifofcelle a Triangle, one of
+
+wbofe equal Legs is given.
+
+.About the Point A, as a Center, with your Compares opened to that given Distance, Fig, 23- ckfcribe a small Arc of a Circle, and about the Point B with the fame Opening, defcribe another small Arc cutting the former one in the Point C. Draw AC and B C, then will die Triangle ABC be an lib feel les Triangle, defcribed upon the given Base A B, and having either of its equal Legs AC, B C of a given Length.
+
+USE XIII. Upon a given right Line, to make a Triangle equal and fimiiar to a given one. Let the given Triangle be A B C, to which it is required to make another fimiiar, as Fig. 24. D E F. and 2 5 # Make the Line D E equal to AE; then about the Point D, as a Center, and with the Radius AC defcribe an Arc -, also about the Point E, as a Center, and with the Radius BC defcribe another Arc, cutting the former one in the Point F; then draw the Lines D F, EF, and there will be a Triangle made equal and fimiiar to the given one.
+
+USE XIV. Upon a given right Line to make a Triangle fimiiar to a given one. Let the given Line be HI, upon which it is required to make a Triangle fimiiar (but Fig. 26.
+nor. equal) to the Triangle A B C. and 2 ?'
+
+IVhke the ngle ii equal to the Angle B, and the A,ngle I equal to the Angle A •, then
+
+draw th ■ Lines H G, I G, 'till they meet each other, and the Triangle H IG will be that
+
+required.
+
+USE XV. To make a Triangle of three right Lines given j but any two of them mufi be
+
+longer than lbs third.
+
+Let the three given Lines be A, B, C •, first make the Line D E equal to the Line A, and Fig. 2E, about the Point E as a Center, with an Interval, equal to the Line B, defcribe thf- Portion of a Circle; also about D, as a Center, with an Interval equal to C, defcribe another Por- tion of a Circle, cutting rhe former one in the Point E j then draw the right Lines FD, F E, and the Triangle U F E will be that required.
+
+USE XVI. Upon a given right Line to make a Square.
+
+Let the given Line be A B, on which it is required to defcribe a Square, whose Side Fig. 29, may be equal to the given Line, first about the Point A, as a Center ; and with the Distance A B, defcribe the Arc BD, and about the Point B the Arc A E, interfering it in the Point C, and divide the Arc C A, or C B, into two equal Parts in the Point F: now make the Intervals C E, and C D, equal to C F, and draw the Lines A D, ^ E, D E, and the Square will be made.
+
+Or, otherwise, upon the End of the Line AT, raife the Perpendicular AD equal to A B, and about the Point D, as a Center, with the Distance A D, defcribe an Arc ; likewise, Fig. 30. with the fame Opening of your Compasses about the Point B, defcribe another Arc, and 31. cutting the fir ft in the Point E, and draw the Lines AD, D E, E B, and the Square will be made.
+
+I flial! fhew, in the Uses of the Protractor and Sector, how to make any regular Polygon upon a given Line ; but, by the way, I shall give one general Method for conftru&ing them, by means only of a Ruler and Compasses.
+
+USE XVII. To inferibe any regular Polygon in a Circle.
+
+Suppose, for Example, a Pentagon is to be made: Now if the Circle be given, divide it's Diameter into five equal Parts (by Use VIII.), but if it be not given, draw with your Pencil an indefinite Line for a Diameter-, which being divided into five equal Parts, open your Fig. 32. Compasses the whole Extent of the Diameter, and fetting one Foot of them upon the Ends of the Diameter, defcribe two Arcs interfering each other in the Point C, that thereby an equilateral Triangle may be formed ; then having drawn a Circle about the Diameter, lay a Ruler upon the laid Point C, and upon the second Division of the Diameter, and draw a Line, cutting the concave Part of the Circumference in the Point D •, then the Arc A D will be nighly a fifth Part of the Circumference : therefore the Extent A D will divide the Circle into five equal Parts, and drawing five Lines, the proposed Polygon will be made.
+
+This is a general Method to make all regular Polygons : As, to make a Heptagon, there is no more to do but divide the Diameter A B into ieven equal Parts (that is, into as many Parts as the Figure hath Sides), and always drawing a Line from the Point C, thro' the fe- Cor.d Division of the Diameter.
+
+The Conftruction of a Hexagon is fimpler •, because, without any Preparation, the Radius, or Semidiameter of the Circle, will divide the Circumference into fix equal Parts.
+
+And the Dodecagon is made in only bifecting each Arc of the Hexagon ; therefore to make a Decagon, every Arc of the Pentagon must be bifeded.
+
+This Problem is almost the fame as that defcribed in cap. 17. lib. 1. of the Chevalier de Pille's Fortification, except, that for dividing the Circle, he draws a Line from the exterior Angle of the equilateral Triangle, thro' the first Point of Division of the Diameter, and af-
+
+D terwards
+
+
+
+io Of the Conflruclion and Use Book I.
+
+terwards he doubles the Arc of the Circle ; but his Method is far from being exadt : for, inthe Defcription of a Pentagon, the Angle at the Center is too great by forty-four Minutes ;in the Heptagon, it is too great one Degree and five Minutes •, and so the Error will be aug-mented in Polygons of a greater number of Sides. But by making the Line pass thro' thesecond Point of Division of the Diameter, the Angle at the Center of the Pentagon will be bucabout fix Minutes too little, and in the Heptagon it is too great by about fix Minutes ; which are much less Errors, and almost infenfible in the Defcription of the Polygons.
+
+The Truth of the aforsaid Method of infcribing any regular Polygon in a Circle, which is mentioned in Sturmy'j- Mathefis Enucleata, may, by the help of "Trigonometry, be eaftly ex- amined. For, suppose A C G to be a Circle, D the Center, A C the Diameter, A B C an equilateral Triangle, E the second Point of Division of the Diameter divided into any Number cf equal Parts, B F drawn thro" the Points B, E, Fig. 33. D B perpendicular to A C, arid the Points D, F, joined: Now because the Semidiameter DC, and the whole Diameter BC are given, the Perpendicular DB (per Prop. 47. lib. 1. Eucl.) will be had.
+
+Again, because the Number of equal Parts the Diameter is divided into, is given, the Line C E, which is two of those equal Parts, will be given, and confequently the Part D E ; then in the right-angled Triangle B D E, the Sides B D, D E being given, the Angle D B E may be found, by faying, as D B is to D E, so is Radius to the Tangent of the Angle DBE.
+
+Moreover, because in the Triangle B D F, the Sides D B, and D F (equal to D C), are given, and the Angle F B D (which is now found), the Angle B F D may be fonnd, by faying^ as D F is to D B, so is the Sine of the Angle DBF, to the Sine of the Angle DFli: which being found, add it to the Angle DBF, and fubflracl the Sum from 180 Degrees ; then the Remainder will be the Angle B D F, from which take the right Angle B D C, and the Remainder will be the Angle F D C of the Center of the Polygon.
+
+I have calculated, according to the aforsaid Directions, the Quantity of the Angle F D C for a Pentagon, which I find to want about 14 Minutes of 72 Degrees, the Angle of the Center for a Pentagon (though our Author fays it wants but fix), likewise the Hexagon wants 1 2 Minutes of 60 Degrees, the Angle at the Center ; that of the Oblagon is one Degree too great, and that of the Dodecagon 29 Minutes too great : therefore this Method is very errone- ous, and not to be used ; it being only true for inferibing a Square.
+
+USE XVIII. To draw a Circle thro* three given Prints, provided they be not in a
+
+right Line.
+Fig, 34, Let the given Points be A, B, C: first draw a Line from the Point A to the Point B, and
+
+another from the Point B to the Point C-, both of which divide into two equal Parts by the
+Lines D E, F G, drawn at right Angles to them, and meeting each other in the Point H,
+which will be the Center of the Circle : Now about the Point H as a Center, and with the
+Distance HA, H B, or H C, defcribe a Circle, and what was required will be done.
+
+By this means the Circumference of a Circle begun, may be finifhed, in taking three Points
+in it, and proceeding as before.
+
+USE XIX. To find the Center of a Circle.
+Fig. 35. Let A B D be the given Circle, whose Center is required to be found ; draw the Line A B,
+
+which bifect by the Line C D at right Angles : likewise bifect the Line B D by the Line
+E F, cutting the Line C D in the Point G, which will be the Center of the Circle.
+
+USE XX. To draw a right Line equal to the Circumference of a Circle -, and, contrari-
+
+wife, to make the Circumference of a Circle equal to a given Line.
+
+Let the given Circle A B C D be that whose Circumference it is required to make a right
+
+Line equal to: First draw a right Line, and lay off upon it three times and 4 of the Dia-
+
+Pig 36. meter, as from G to H ; then this right Line G H will be almost equal to the Circumference
+
+of the Circle : I fay almost -, for if it could be exactly had equal to the Circumference, the
+
+Quadrature of the Circle would also be had *, which hath not yet been Geometrically found.
+
+USE XXI. To defcribe an Oval upon a given right Line.
+Let AB be the given Line, upon which it is required to defcribe an Oval; trifect it in
+the Points C and D •, then upon the Part C D defcribe two equilateral Triangles, whose Sides
+Fig. ,« produce-, and about the Points C, D, with the Distance C A, or D B, defcribe Portions of a
+
+Circle to the Sides of the Triangles, produced to the Points E, F, G, FI ; then about the
+Points I, K, as Centers, and with the Radius I E, or I G, defcribe the Arc E G on one Side,
+and the Arc F H en the other, and the Oval will be made. Note, This is not properly an
+Oval, but fomething like one.
+
+USE XXII. To defcribe an Ellipfis, having the two Axes given.
+Let the great Axis be AB, and the small one CD, interfecting each other at right Angles
+in the Point G.
+
+First
+
+* No, nor never v-itt, it being impojjil/le to be done,
+
+
+
+Chap. I. of the CoMpasses, the Ruler, &c. II
+
+First take with your Compafles, or a String, half the Length of the great Axis, that is* AG, or G B -, and with this Length fetting one foot of your Compafles in the Point C, de- Fig. 38 fcribe a Circle cutting the great Axis in the Points E, F, which will be the Foci of the Ellip- fis. This being done, place Pins in these Foci ; or, if the Ellipfis to be defcribed be re- quired large, and to be on the Ground, as ih a Garden, drive Pegs into them : Then take a Thread, or String, equal in Length to the great Axis A B, and after having doubled it, put it about the two Pins or Pegs placed in the Foci E, F ; so that the two Ends which you hold in your Hand may be in the End C of the small Axis : then holding a Pencil, or fome- thing else proper to make a Mark, in your Hand at C, move it round, keeping the String always tight, 'till it, together with the Ends of the Thread or String, comes again to the Point C, and the Ellipfis ADBC will % be defcribed by the Pencil.
+
+Note, This Method of defcribing an Ellipfis is the bed of any ; as also if the Thread, or String be in Length augmented or diminished, without changing the Distance of the Foci, there will be had Ellipfes of another kind. Moreover, if without changing the Length of the Thread, or String, the Distance of the Foci be diminished, there will ftill be had another Species of Ellipfes •, and when the Foci's Distance is infinitely diminished, a Circle will be defcribed : But if the Length of the great Axis be augmented or diminished, together with the String (which is equal to it), in the fame Proportion as the Distance of the Foci, all" the Ellipfes will be similar, but of different Magnitudes.
+
+'To draw an Eliipjis another way.
+
+The two Foci E, F, being found (as in the precedent Figure), any Number of Points, thro' which the Ellipfis mult pass, may in this manner be found. Open your Compafles at pleafure to any Distance greater than A F, as to the Distance A I ; then fet one of their Points in the Focus F, and with the other defcribe the Arc O R ; afterwards open the Com- Fig. 351* pafles the Distance I B, which is the remaining part of the great Axis, and fetting one of it's Points in the other Focus E, with the Distance I B defcribe the Arc S T, and the Point P of InterfecYion will be in the Periphery of the Ellipfis. In like manner, the Distances A L, L B, defcribed about the Foci, will interfedt each other in the Point hi : and, finally, by opening your Compafles to different Distances, any Number of Points may be found •, which being joined, an Ellipfis will be had.
+
+Note, Every Opening of your Compafles ferves to find four Points equally diltant from the
+Axes i as also if, from any Point taken at pleafure in the Periphery of an Ellipfis, two right
+Lines, as P F, P E, are drawn to the Focij these will be both together equal to the great Axis.
+
+USE XXIII. To make one Figure equal and similar to another Figure.
+
+Let the proposed Figure be A B C D E, to which another is to be made similar and equal.
+
+First divide it into Triangles by the Lines AC, AD; then draw the Line a b equal to
+A B ; and about the Point b, with the Distance B C, defcribe an Arc : also about the Point &lt;z, p^ 4 a.
+and with the Distance A C, defcribe another Arc, cutting the former one in the Point c, and
+draw the Line b c : In like manner proceed for the other Sides, and the Figure a b c de will
+be similar to the proposed Figure A B C D E.
+
+USE XXIV. To reduce great Figures to lejfer ones, and contrariwise.
+
+Because the Reduction of Figures is useful, there is here three ways given to reduce them.
+
+First, a Figure may be reduced in taking a Point within it, and drawing of Lines to all the Fig. 41* Angles : for Example, let the Figure A B C D E be proposed to be reduced to a lefler.
+
+Take the Point F, about the middle of the Figure, and draw Lines to all the Angles ABCDE; then draw the Line a b parallel to the Line A B, the Line b c parallel to B C, &c and the Figure a b c d e will be similar to the Figure ABCDE.
+
+If a greater figure be required, there is no more to do but produce the Lines drawn from the Center of the Figure, and then drawing Parallels to it's Sides.
+
+To reduce a Figure by the Scale.
+
+Meafure all the Sides of the proposed Figure ABCDE, with the Scale G H $ then take
+another lefler Scale K L, containing as many equal Parts as the greater. Now make the Side Fig. 42.
+a b as many Parts of the lefler Scale, as the Side A B contains of the greater one's Parts $
+also make b c as many Parts as B C, and a c as many as A C, &c. by which means the Fi-
+gure will be reduced to a lefler one.
+
+To reduce a lefler Figure to a greater one, a greater Scale must be had, and proceed as
+before.
+
+To reduce Figures by the Angle of Proportion.
+
+Let the proposed Figure A B C D E be that which is to be diminished in the proportion
+of the Line A B, to the Line a b.
+
+First draw the indefinite Line G H, and take the Length A B, and lay off from GtoHj Fig. 43.
+then about the Point G, defcribe the Arc H I. Again, take the Length of the given Side
+abj as a Chord of the Arc H I, draw the Line G I, and the Angls I G H will give all the
+Sides of the Figure to. be reduced.
+
+
+
+12 Of the Construction and Use Book I.
+
+As to have the Point c, take the Interval B C, and about the Point G defcribe the Arc KL ;
+also about the Point b, with the Distance LK, defcribe a small Arc. Now take the Distance A C,
+and about the Point G defcribe the Arc M N ; likewise about the Point a, with the Distance
+MN, defcribe an Arc, cutting the precedent one in the Point c, which will be that which mud
+be had to draw the Side be: in like manner proceed for all the other Sides and Angels of the
+Figure.
+
+If by this means a small Figure is to be reduced to a greater, the fame manner of pro-
+ceeding will do it; but the Side of the Figure to be augmented must be leffer than double
+of that anfwering to it. As for Example -, to reduce the Figure a b c d e to a greater, the
+Side A B of the greater one, must be leffer than double the Side a b of the fmaller one:
+for if it was double, the two Fines forming the Angle I G FI, would directly meet each
+other, and make but one right Line.
+
+To reduce Figures by means of Squares.
+This way particularly ferves to copy, augment, or diminish a Map.
+Fig. \\. Let, for Example, the Map A B C D be proposed to be reduced to a leffer one. Fir ft, di-
+
+vide it into Squares, then make a leffer similar Figure a b c d, which likewise divide into the
+fame Number of Squares as you did A BCD. This being done, draw in every Square of
+the leffer Figure, what is contained in the correfpondent Square of the greater Figure, and
+there will be a leffer Map. Note., The greater the Number of Squares are, the jufter will the
+Figure be.
+
+
+
+
+
+
+CHAP. II.
+
+Of the Construction and Use of the Square,
+
+Square is an Instrument ferving to raife Perpendiculars, and to know whether one Line be perpendicular to another. It is made of two Rulers of Brass, or other Metal, joined Fig. D. in such manner as to make a right Angle with each other. There are some Squares, whole
+
+two Rulers, or Branches, are firmly fixed ; and others that open and fruit by help of a Joint, that ought to be well fitted to hinder the Square from fhaking •, and that it may preferve it's right Angle. To do which, there is adjufted in a small Gutter made at the Angle (which is 45 Degrees) of one of the Branches of the Square, three Knuckh's proportionable in Length and Breadth, to the Length and Breadth of the Square. Thefe Knuckles ought to be so far distant from each other, that they may exactly receive between them two other Knuckles, which are adjufted to the other Branch of the Square. The Knuckles being thus placed, are foldered to the Branches, and afterwards are united to one anochcr by means of a Pin, which must exactly fill the Cavity of the Knuckles, that thcr: by the Motion of the Branches may be fteady.
+
+Note. There are some Squares to which a Thread and Plummet is hung, which ferves for levelling ; that is, to make horizontal Planes: also upon one of the Sides of the Square are fometimes fundry Lines and Scales placed ; and upon the other, half a Foot divided into 6 Inches, every one of which is fubdivided into 12 Lines : moreover, there are fometime3 ad- ded to it other Country Meafures compared with the Paris Foot.
+
+USE I. To let fall from a given Point, a Perpendicular upon a given Line. Let the Line given be A B, and C the given Point, either in or without the Line. Fig. 45. Apply one °f tne Sides of the Square to the given Line, in such manner that the other
+
+Side touches the given Point •, then draw the lane C D, which will be a Perpendicular. Note, If the Square be turned about, and that Side which before was applied to the Line, is made to pass thro' the Point C, and, as before, another Line be drawn, as CD: by this means you may know whether the Square be true. For when it is true, the two Lines drawn thro' the Point C, will make but one Line.
+
+USE II. To know if one Line be perpendicular to another ; that is, whether they make
+
+right singles with each other.
+
+Apply one of the Sides of the Square to one of the Lines, and fee if the other Side exactly agrees with the other Line. All this is so extreme cafy, there needs but a few words to explain it.
+
+C H A P. III.
+
+Of the ConftruElion and Uses of the ProtraStor,
+
+T\ H E Protractor is a Semi-Circle divided into 180 Degrees, or half of 360, which every
+whole Circle is supposed to be divided into, as was laid in the Definitions. One Side
+r; 3 E. of this Instrument is filed flat, for better applying it on the Piper ; and the other Side is
+
+Hoped -,
+
+
+
+Chan. 3. of the Protra&or, &c. 13
+
+floncd ; that is, nude thin towards the Edge whereon the Divisions are : and for better di£
+covering the Points wherein Angles terminate, there is a small femicircular Notch made in the
+Center of the Instrument.
+
+How to divide the Limb of the "Protractor.
+
+Upon the Line A B, and about the Center O, defcribe a Semicircle ; then carry the Ra- dius A O round the Circumference, which will divide the Semicircle into three equal Parts, in the Points C, D, each of which is 60 Degrees. Again, divide the Arc B C into two equal Parts, in the Point E, and the Arc B E, will be 30 Degrees : then turning this Opening of your CompafTes round the Semicircle, it will divide it into fix equal Parts. Moreover, divide them apain into three equal Parts, and each will be 10 Degrees ; and dividing every one of these 10 Degrees into two equal Parts more, Arcs of 5 Degrees will be had. And lastly, in fubdividing each of these Arcs of 5 Degrees, into five equal Parts, Arcs of one Degree will be had.
+
+In the fame manner may a whole Circle be divided into 360 Degrees, which we (hall fpeak of hereafter.
+
+Note, Protractors are fometimes made of Horn, which, because they are tranfparent, are commodious enough ; but they ought to be kept in a Book when they are not using, because the Horn is apt to wrinkle.
+
+U S E I. To make an Angle of any Number of Degrees.
+
+For Example ; to make at the Point A, an Angle of 50 Degrees on the Line CAB, lay the Center of the Protractor, marked by a femicircular Cavity, upon the Point A, so that the Diameter of the Semicircle be upon the Line A B ; then make a Dot over against the 50th Fig. 45. Degree of the Limb of the Protractor, and thro' it draw a Line to the Point A, which will make an Angle of 50 Degrees with the Line A B.
+
+USE II. The Angle BAD being given, to find how many Degrees it contains. Lay the Center of the Protractor upon the Point A, and it's Diameter upon the Line BC; then fee what Degree the Line A B cuts the Limb of the Protractor in, which will be the Fig. 46. Angle BAD of 50 Degrees.
+
+U S E III. To infer -'the any regular Polygon in a Circle.
+
+To do this, you mud first know how many Degrees the Angle of the Center of each of the regular Polygons contains; which may be found in dividing 360 Degrees, by the Num- ber of Sides of a proposed Polygon: as, for Example, dividing 360 by 5, the Quotient 72, fheweth that the Angle of the Center of a Pentagon is 72 Degrees : again, in dividing 360 by 8, the Quotient 45, gives the Quantity of the Angle of the Center of an Octagon, and so for others.
+
+In knowing the Angle of the Center, the Angle formed by the Sides of the Polygon may likewise be known, in fubftracting the Angle of the Center of the Polygon from 180 Degrees; as taking 72 Degrees, the Angle of the Center of a Pentagon from 180 Degrees, there re- mains 108, the Angle of the Polygon. Moreover, taking from 180 Degrees, the Angle of the Center of an Octagon, which is 45 Degrees, there remains 135 Degrees, the Angle of the Octagon.
+
+Therefore to inferibe a Pentagon in a Circle, lay the Center of the Protractor upon the Fig. 47, Center of the Circle, and apply the Diameter of the Protractor, to the Diameter of the Circle ; then make a Dot against the 72 d Degree of the Limb of the Protractor ; and thro' this Dot, and the Center of the Circle, draw a Line cutting the Circumference of the Circle in the Point C. Now take between your CompafTes the Dittance of the Points B and C, which will divide the Circumference of the Circle into 5 equal Parts, and drawing 5 right Lines, the Polygon will be made.
+
+If a Heptagon is to be inferibed, divide 360 Degrees by 7, and the Quotient 51 | d fhew- eth, that the Angle of the Center is almofl 51 ^ d •, therefore having placed the Protractor, as before, Note, 51 ' Degrees on the Limb of the Protractor, thro' which draw a Line from the Center of the Circle, and you will have the Side of the Heptagon.
+
+Note, Upon some Protractors are placed the Numbers, denoting regular Polygons, to avoid the trouble of Division, in finding the Angles at the Center: as the Number 5, for a Penta- gon, is fet against 72 Degrees on the Limb of the Protractor •, the Number 6 for a Hexagon, is fet over-against 60 Degrees, the Number 7 against 51 i. d , CsrV.
+
+USE IV. To defcribe any regular Polygon upon a given Line.
+
+Let the given Line be CD, upon which it is required to defcribe a regular Pentagon.
+
+We have fhewn in the precedent Use, how to find the Angles of any regular Polygon ; and pjg. ^g;
+since the Angle made by the two Sides of the Polygon is 108 Degrees, 54 Degrees it's half
+will be the Semi- Angle of the Polygon ; by means of which, you may defcribe it in the fol-
+lowing manner :
+
+Apply the Diameter .of the Protractor to the Line C D, and it's Center to the End D \
+then make a Dot against the 54th Degree of the Limb, and draw the Line D F, making an
+
+E Angle
+
+
+
+j a Of the ConflruSiion and Uses Book L
+
+Angle of 54 11 with the Line C D. Moreover, remove the Center of the Protractor to the
+other End C, and there likewise make an Angle of 54 Degrees, by drawing the Line C F ;
+then about the Point of Concourfe F, defcribe a Circle with the Distance C F. Laftly, take
+the Length of the given Line C D, and carry it round the Circumference of the Circle, and
+drawing four right Lines, the Pentagon will be made.
+
+If an Octagon is to be defcribed upon a given right Line, take half the Angle of the
+Polygon, which is 6y 1 Degrees, and make an Angle of the like Number of Degrees upon
+each End of the given Line, by which an Ifofceles Triangle will be formed, whole Vertex
+will be the Center of a Circle, which will be divided into eight equal Parts, by carrying the
+CompafTes round it with the Extent of the given Line.
+
+There may be made many more Operations with the Instruments already fpoken of; but
+we mail content ourfelves with those already mentioned, as being the mod common, and
+useful.
+
+ADDITIONS of Englifli Instruments.
+
+Of the ConflruSiion and Uses of the Carpenter's Joint-Rule, the Four-
+foot Gauging-Rod ; EverarcTs Sliding-Rule ; Coggeshall\ Sliding-
+RuJe, the Plotting-Scale, an Improved Protractor, the Plain-Scale,
+and Gunter's Scale.
+
+
+
+CHAP. I. "
+
+Of the ConflruSiion and Uses- of the Carpenter's Joint- Rule, together
+with the Line of Numbers commonly placed thereon.
+
+Plate 3. t ft AHI S Rule is ufually made of Box, 24 Inches long, an Inch and a half, or an Inch Pig f&lt; ' and a quarter broad, and of a Thicknefs at pleafure; one Side of it is divided in-
+
+JL to 24 equal Inches, according to the Standard at Guildhall, London, and every one of these 24 Inches are divided into 8 equal Parts •, that is, into halfs, quarters, and half-quar- ters : The half-inches are distinguished from the quarters, and the quarters from the half- quarters, by Strokes of different Lengths, and at every whole Inch are fet Figures, pro- ceeding from 1 to 24.
+
+On the fame Side of this Rule, is commonly placed Giintcr 1 * Line of Numbers, of which
+more hereafter.
+Fig 2. The other Side of the Rule hath upon it the Lines of Timber and Board-Meafure, the
+
+Construction of which is as follows :
+
+The Line of Timber-Meafure begins at 8 and a half-, that is, when the Figures of the Timber-Line (land upright to you, it begins at the left End at 8 and a half, and proceeds to 36, within an Inch, and ~ of an Inch of the other End. It is made from a Consideration, that 1728 Inches make a solid Foot: for any Divifioiv, suppose 9, which signifies the Side of a Square is so placed against some one of the Divisions of Inches or Parts on the other Side, beginning from the right Hand, that it's Square, which is 81 Inches, multiplied by that Number of Inches and Parts, must make 1728 Inches, or a solid Foot ; which in dividing 1728 by 81, must be placed against 21 'Inches from the right Hand. In like manner the Division for the Number io, on the Line of Timber-Meafure, must be placed against \j T ~l- Inches on the other Side -, because 1728, divided by the Square of 10, which is 100, gives 1 7 riii and in like manner for all the other Divisions. But because a Square, whole Side is either 1,2, &c. to 8 Inches, requires more than 24 Inches in Length to multiply it by, in order to make a solid Foot, or 1728 Inches ; and since 24 Inches is the whole Length of the Rule, therefore there is a Table put upon the left end of the Rule, fupplying a greater Length.
+
+The upper Row of Figures, numbered 1, 2, 3, 4, 5, 6, 7, 8, are Inches, or the Lengths of the Sides of Squares •, and the second and third Rows are the correfpondent Feet and In- ches to make up a solid Foot. It is made by dividing 144 Inches by the Squares of 1, 2, 3, 4&gt; 5&gt; 6, 7, 8; as the Square of 1 Inch is 1, by which dividing 144, the Quotient will be 144 Feet for the first Number of the second Row of Figures, and in like manner for the Rest.
+
+Chap. i. of the Carpenter's Joint-Rule ', &C. I c-
+
+On, or next the other Edge of the Rule, you have the Line of Board-Meafure ; and when the Figures (land upright, you fee it numbered 7, 8, 9, &V. to 36. which is juft 4 Inches from the right Hand, it is thus divided ; suppose the Division 7 is to be marked divide 144, which is the Number of Inches in a square Foot, by 7, and the Quotient will be 20 ± In- ches ; whence the Division 7 must be against 20 £ Inches on the other Side of the Rule. ' A- gain, to mark the Division 8, divide 144 by 8, and the Quotient, which is 18 Inches,' mult be placed on the Line of Board-Meafure against 18 Inches on the other Side: proceed thus for the other Divisions of the said Line. But because the Side of" a long Square, that is ei- ther 1, 2, 3, 4, 5 Inches, requires the other Side to be more than 24 Inches, which is the whole. Length of the Rule ; therefore there is a Table placed at the other end of the Rule, made in dividing 144 Inches by each of the Numbers in the upper Row, and then each of the Quotients by 12, to bring them into Feet.
+
+U S E 0/ the Carpenter's Joint- Rule i The Inches on this Rule are to measure the Length or Breadth of any given Superficies of Solid, and the manner of doing it is fuperfluous to mention, it being not only eafy, but even natural to any Man ; for holding the Rule in the left Hand, and applying it to the Board, or any thing to be measured, you have your Defire. But now for the Use of the other Side, I mall fhew in two or three Examples in each Meafure, that is, Superficial and Solid.
+
+Example I. The Breadth of any Superficies ; as Board, Glass, or the like, being given : ttt
+find how much in Length makes a Square Foot.
+
+To do which, look for the Number of Inches your Superficies is broad, in the Line of Board Mt afore, and keep your Finger there-, and right against it, on the Inches Side, you have the Ntin.btr of Inches that makes up a Foot of Board, Glass, or any other Superficies Suppose you have a Piece 8 Inches broad, how many Inches make a Foot ? Look for 8 on the Board Meafure, and juft against your I inger (being fet to 8) on the Inch-Side, you will find 18, and 10 many Inches long, at that Breadth, goes to. make a fuperficial Foot.
+
+Again, suppose a Superficies is 18 Inches broad, then you will find that 8 Inches in
+Length will make a fuperficial Foot; and if a Superficies is 3 6 Inches broad, then 4 Inches
+in Ler.gch makes a Foot.
+
+Or you may do it more eafy thus : Take your Rule, holding it in your left Hand, and apply it to the Breadth of the Board or Glass, making the End, which is next 36, even with one F dge of the Board or Glass, and the other Edge of the Board will fhew how many Inches, or Quarters of an Inch, go to make a square Foot of Board or Glass. This is but the Con- verfe of the former, and needs no Example ; for laying the Rule to it, and looking on the board-lvkuiure, you have your Defire.
+
+Or else you may do it thus, in all narrow Pieces under 6 Inches broad : As suppose 3 « Inches, double 3 ', it makes 6 \ - 3 then twice the Length from 6 \ to the End of the Rule*" will make a fuperficial Foot, or so much in Length makes a Foot.
+
+Example II. A Superficies of any Length or Breadth being given, to find the Content. Flaving found the Breadth, and how much makes one Foot, turn that over as manv times as you can upon the Length of the Superficies, for so many Feet are in that Superficies • But it it is a great Breadth, you may turn it over two or three times, and then take that toee-
+
+tfthe Superficies. 2 ' ^ *' ** ^ ***' " 3 ' *' 9 ' ^ * 5 ' l8 ' "' '" JI y ° U COme t0 the *» d
+
+The USE of the Table at the End of the Board-Meafure.
+If a Superficies is 1 Inch broad, how many Inches in Length must there go to make a
+fuperficial Foot ? Look in the upper Row of Figures for 1 Inch, and under it, in the second
+
+^^.tpSi^ 1 whlch * ews that I2 Feet in Len ^ and ■ ^ - b3J
+
+Again a Superficies 5 Inches broad, will be found, in the said Table, to have 2 Feet and about 5 Inches in Length to make a fuperficial Foot ; and a Prece 8 Inches broad," wi have a Length of 1 Foot 6 Inches to make a fuperficial Foot.
+
+U SE of the Line of Timber- Meafure.
+
+is W^nd^nnVf mU ? r kC l x? fc T e r : f ° L r first y° u must learn how much y° u r P^ Lm t^ t I i°°&gt; f ? r L the J ame Number on the Line of Timber-Meafure, and the Space
+
+Timber the Rule ' iS the tFUe Length at that Sc l uarenefs t0 ™ ke a Fo0 ^ of
+
+mSS?*' wt ere L S a Piec V hat is 9 Inches f ^ uare ' Iook for 9 on the Line of Timber- ed Sir «f t V he Sp !f G fr ° m 9 \ t0 L thc End ofthe Rule &gt; is ?he true Lc^h to make a loiid foot of Timber, and it is 21 4 Inches.
+ a F^ V UPP ° fe -n 5? °J Ti ? b 5 r is 2 * Inches f 9 uare &gt; then 3 Inches in Length will make a Foot, for you will find three Inches on the other Side against 24 : But if it is small Tim- oer, as under 9 Inches square, you must feek the Square in the upper Rank in the Table,
+
+and
+
+
+
+1 6 Of the Conjlruclion and Uses B o o k I .
+
+and right under you have the Feet and Inches that go to make a fold Foot, as was in the Table of Board Meafure : As suppose a Piece of Timber is 7 Inches square, look in the Table for 7, in the upper Row of Numbers, and you will find directly under 2 Feet, 1 1 In- ches, which is the Length of the Piece of Timber that goes to make a solid Foot: But if a Piece be not exactly square, viz. is broader at one Side than the other, then the usual way is to add them both together, and take half the Sum for the Side of the Square ; but if they differ much, this way is very erroneous : for that half is always too great, which from hence will eafily be manifest.
+?ig 3. Let A C be the longeft Side, C D the fhorteft, and B D, or A B, half their Sum, which
+
+is taken for the Side of the Square, that is, for the Side of a Square whose Area is equal to the Product of the two Sides A C, and C D, into one another, or the Rectangle under them : Now with the Distance B D, and on the Center B, defcribe a Semicircle •, draw the Dia- meter E B, at right Angles, to A D, and from the Point C raife the Perpendicular F C ; then it is manifest, per Prop. 13. lib. 6. Eucl. that F C is a mean Proportional between the Sides AC, CD-, that is, FC is the true Side of the Square, which, per Prop. 15. lib. 3. Eucl. is much less than E B, or it's Equal A B, or B D.
+
+The usual way likewise for round Timber, is to take a String, and girt it about, and the fourth part of it is commonly allowed for the Side of the Square, that is, for the Side of a Square equal to the circular Base, and then you deal with it as if it was juft Square. But this way is also erroneous •, for by this Method you lofe above ~ of the true Solidity. But for maintaining this ill Cuftom, they plead, The Overplus Meafure may well be allowed, because the Chips cut off are of little Value, and will not near countervail the Labour of bringing the limber to a Square, to which Form it must be brought before it be fit to ufe.
+
+The Defcription of Gunter'j Line, or the Line of Numbers.
+
+The Line of Numbers is only the Logarithms transferred on a Ruler from the Tables, by means of a Scale divided into a great Number of equal Parts-, and whereas in the Loga- rithms, by adding or fubftracting them from one another, the Quafita is produced ; so here, by turning a Pair of CompafTes forwards or backwards, according to due Order on this Line, the ^u^efita will in like manner be produced. The Conftruction of this Line I shall give in fpeaking of Gunter's Scale.
+
+As to the Length of the Line of Numbers, the longer it is, the better it is •, whence it hath been contrived several ways: As first upon a Rule of two Foot, and a Rule of three Foot long, by Gunter, which (as I suppose) is the Reason why it is called Gunter's Line ; then that Line was doubled, or laid so together, that you might work either right on, or crofs from one to another, by Mr Windgate\ afterwards projected in a Circle, by Mr Ough- tred, and also to Aide one by another, by the the fame Author ; and last of all, projected into a kind of Spiral, off, 10, or 20 Turns, more or less, by Mr Brown, the Uses being in all of them in a manner the fame, only some with CompafTes, as Mr Gunter's and y\xWind- gate's -, and some with flat CompafTes, or an opening Index, as Mr Oughtred's and Mr Brown's ; and some without either, as the Sliding-Rules.
+
+The Order of the Divisions on this Line of Numbers, and commonly on most others, is thus -, it begins with 1, and so proceeds with 2, 3, 4, 5, 6, 7, 8, 9 -, and then 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, whose Order of Numeration is thus: The first 1 signifies one Tenth of any whole Number or Integer, and confequently the next 2 is two Tenths-, 3, three Tenths; and all the small intermediate Divisions are 100 Parts of an Integer, or a Tenth of one of* the former Tenths ; so that 1 in the middle is one whole Integer -, the next 2, two Integers ; and 10 at the end, 10 Integers : Thus the Line is in it's most proper Acceptation, or natural Division.
+
+But if you are to deal with a Number greater than 10, then 1 at the beginning must fignify 1 Integer, and 1 in the middle 10 Integers, and 10 at the end 100 Integers. But if you would have it to a Figure more, then the first 1 is 10, the second 100, and the last 10 a 1000. If you proceed further, then the first 1 is 100, the middle 1 a 1000, and the 10 at the end 10000, which is as great a Number as can well be difcovered, on this or most ordinary Lines of Numbers ; and so far, with convenient Care, you may refolve a Queftion tolerably exact.
+
+Numeration on the Line of Numbers.
+
+Any whole Number being given under four Figures, to find the Point on the Lint of Numbers that reprefents the fame. First look for the first Figure of your Number amongft the long Divisions that are figured, and that leads you to the first Figure of your Number -, then for the second Figure, count so many Tenths from that long Division forwards, as that second Figure amounts to ; then for the third Figure, count from the last Tenth so many Centefmes as the third Figure contains; and so for the fourth Figure, count, from the last Centefme, so many Millions as that fourth Figure has Units, or is in Value, and that will be the Point where the Number propounded is on the Line of Numbers. Two or three Examples will make this manifest.
+
+First, to find the Point upon the Line of Numbers reprefenting the Number 12. Now because the first Figure of this Number is 1, you must take the 1 in the middle for the first
+
+Figure 5
+
+Chap. i. of the Carpenter's yoint-Rule^ &c. 1 7
+
+Fio-ure ; then the next Figure being 2, count two Tenths from that 1, and there will be the Point reprefenting 12.
+
+S-condly, To rind the Point reprefenting 144, Fir It, as before, take for r the fir ft; Figure of the Number 144, the middle Figure 1 ; then for the second {viz. 4.) count four Tenths forwards •, lastly, for the other 4, count four Centefms further, and that is the Point for 144.
+
+Thirdly, To find the Point reprefenting 1728. First, as before, for 1000 take the middle I on the Line. Secondly, for 7 reckon seven Tenths forwards, and that is 700. Thirdly, for ?, reckon two Centefms, from that 7th Tenth, for 20. And, Laftly, for 8 you must reasonably eftimate that following Ccntefm to be divided into 10 Parts (if it be not expRested, which in Lines of ordinary Length cannot be done), and 8 of that supposed 10 Parts is the precife Point for 1728, the Number propounded to be found; and the like of any other
+
+Number.
+
+But if you was to find a Fraction, ycu must confider, that properly, or abfolutely, the Line only expRestes Decimal Fractions ; as thus, T V&gt; or ~ T , or - rt ~, and more near the Rule in common Acceptation cannot exprefs-, as one Inch, one Tenth, one Hundredth, or one Thoufandth Part of an Inch, it being capable to be applied to any thing in a decimal way : (But if you would use other Fractions, as Quarters, Half-Quarters, &rV. you must reasonably read them, or else reduce them into Decimals.)
+
+The fundamental Uses of the Line of Numbers.
+
+USE I. Two Numbers being given, to find a third Geometrically proportional to them, and to three a fourth, and to four a fifth, &c.
+
+Extend your CompafTes upon the Line of Numbers, from one Number to another ; which done, if that Extent is applied (upwards or downwards, as you would either increafe or di- minifh the Number), from either of the Numbers, the moveable Point will fall upon the third proportional Number required. Alio the fame Extent, applied the fame way from the third, will give you a fourth, and from the fourth a fifth, &c. For Example, let the Numbers 2 and 4 be proposed, to find a third Proportional, &c. to them : Extend the Com- pafTes upon the first Part of the Line of Numbers, from 2 to 4; which done, if the fame Extent is applied upwards from 4, the moveable Point will fall upon 8, the third Proportio- nal required ; and then from 8 it will reach to 16, the fourth Proportional ; and from 16 to 32 the fifth, &c. Contrariwife, if you would diminish, as from 4 to 2, the moveable Point will fall on 1, and from 1 to T 5 , or .5, and from .5 to .25, &c. as is manifest from the Na- ture of the Logarithms, and Prop. 20. lib. 7. Eucl.
+
+But generally in this, and most other Work, make use of the small Divisions in the middle of the Line, that you may the better eftimate the Fractions of the Numbers you make use of; for how much you mils in fetting the CompafTes to the first and second Term, so much the more you will err in the fourth ; therefore the middle Part will be most useful : As for Ex- ample, as 8 to 11, so is 12 to 16.50, if you imagine one Integer to be divided but into 10 Parts, as they are on the Line on a two-foot Rule.
+
+USE II. One Number being given to be multiplied by another given Number, to find the
+
+Produtl.
+
+Extend your CompafTes from 1 to the MultiplicUor, and the fame Extent, applied the fame way from the Multiplicand, will caufe the moveable Point to fall upon the Product ; as is manifest from the Nature of the Logarithms, and Defin. 15. lib. 7. Eucl.
+
+Example. Let 6 be given to be multiplied by 5 ; extend your CompafTes from 1 to 5, and the fame Extent will reach from 6 to 30, the Product fought. Again, suppose 125 is to be multiplied by 144-, extend you CompafTes from 1 to 125, and the moveable Point will fall from 144 on 18000 the Product.
+
+USE III. One Number being given to be divided by another, to find the Quotient.
+
+Extend your Compaflls from the Divisor to 1, and the fame Extent will reach from the Dividend to the Quotient ; or, extend the CompafTes from the Divisor to the Dividend, the fame Extent will reach the fame way from 1 to the Quotient, as is manifest from the Nature of the Logarithms, and this Property, that as the Divisor is to Unity, so is the Dividend to the Quotient.
+
+Example. Let 750 be a Number given, to be divided by 25 (the Divisor), extend your CompafTes downwards from 25 to 1 ; then applying that Extent the fame way from 750, and the other Point of the CompafTes will fall upon 30, the Quotient fought. Again, let 1728 be given to be divided by 12 ; extend your CompafTes from 12 to 1, and the fame Extent will reach the fame way from 1728 to 144.
+
+If the Number is a Decimal Fraction, then you must work as if it was an abfolute whole Number ; but if it is a whole Number joined to a decimal Fraction, it is worked here as properly as a whole Number : As suppose 1 11. 4 is to be divided by 1.728, extend your Com- pafTes from 1.728 to 1, the fame Extent, applied from 11 1.4, will reach to 64.5. So again, 56.4 being to be divided by 8.75, and the Quotient will be found to be 6.45.
+
+Now to know of how many Figures any Quotient ought to confift, it is necefTary to write down the Dividend, and the Divisor under it, and fee how often it may be written under
+
+F iti
+
+
+
+j § Of the Conjl ruction and Uses Bo o k I.
+
+it ; for so many Figures must there be in the Quotient : As in dividing this Number 12231 by 27, according to the Rules of Division, 27 may be written 3 times under the Dividend •, therefore there must be 3 Figures in the Quotient: for if you extend the Compasses from 27 to 1, it will reach from 122 31 to 453, the Quotient fought.
+
+Note, That in this Use, or any other, it is beft to order it fo, that your Compasses may be at the clofeft Extent ; for you may take a clofe Extent more eafy and exact than a large Extent, as by Experience you will find.
+
+USE IV. Three Numbers being given, to find a fourth in a diretl Proportion.
+
+Extend your Compasses from the first Number to the second; that done, the fame Extent applied the fame v/ay from the third, will reach to the fourth Proportional fought, as is manifest from the Nature of the Logarithms, and Prop. 19. lib. 7. Eucl. from whence it may be gathered, that the third Number multiply'd by the second, divided by the first, will give the fourth fought.
+
+Example. If 7 give e 22, what will 14 give ? Extend your Compasses upwards from 7 to 14, and that Extent applied the fame way, will reach from 22 to 44, the fourth Proportional required. Again, if 38 gives 76, what will 96 give ? Extend your Compasses from 38 to 96, and the fame Extent will reach from 76 to 192, the fourth Proportional fought.
+
+U S E V*. Three Numbers being given, to find a fourth in an Inverfe Proportion. Extend your Compasses from the first of the given Numbers to the second of the fame Denomination ; if that Distance be applied from the third Number backwards, it will reach to the fourth Number fought.
+
+Example. If 60 give e 5, what will 30 give? Extend your Compasses from 60 to 30, and that Extent applied the contrary way from 5, will give 2.5 the Anfwer. Again, If 60 gives 48, what will 40 give ? Extend your Compasses from 60 to 40 -, that Extent applied the • contrary way from 48, will reach to 32, the fourth Number fought.
+
+USE VI. Three Numbers being given, to find a fourth in a duplicate Proportion.
+
+This Use concerns Queftions of Proportions between Lines and between Superficies ; now if the Denominations of the first and second Terms are Lines, then extend your Compasses from the first Term to the second (of the fame kind of Denomination): this done, that Extent ap- plied twice the fame way from the third Term, and the moveable Point will fall upon the fourth Term required, which is manifest from the nature of the Logarithms, and from hence, viz. Because the fourth Number to be found is only a fourth Proportional to the Square of the first, the Square of the second, and the third, it is plain that the third, multiplied by the Square of the second, divided by the third, will be the fourth Number fought.
+
+Example. If the Area of a Circle, whole Diameter is 14, be 154, what will the Content of a Circle be, whose Diameter is 28 ? Here 14 and 28 having the fame Denomination, viz. both Lines, extend the Compasses from 14 to 28, then applying that Extent the fame way From 154 twice, the moveable Point will fall upon 616, the fourth Proportional or Area fought : Because Circles are to each other as the Squares of their Diameters, per Prop. 2. lib. 12. Eucl.
+
+USE VII. Three Numbers being given, to find a fourth in a triplicate Proportion.
+
+This Use is to find the Proportion between the Powers of Lines and Solids ; that is, two Lines being given and a Solid, to find a fourth Solid, that has the fame Proportion to the given Solid, as the given Lines have to one another. Therefore extend the Compassts from the first Line to the second, and that Extent, applied three times from the given Solid or third Number, will give the fourth fought : Because the third multiplied by the Cube of the second, divided by the Cube of the first, will give the fourth.
+
+Example. If an Iron Bullet, whose Diameter is 4 Inches, weighs 9 Pounds, what will an- other Iron Bullet weigh, whose Diameter is 8 Inches ? Extend your Compasses from 4 to 8, that Extent applied the fame way three times from 9, will give 72, the Weight of the Bullet fought. Because the Weight of homogeneal Bodies are as their Magnitudes, and Spheres are to one another as the Cubes of their Diameters, per Prop. 16. lib. 12. Eucl.
+
+USE VIII. To find a mean Proportional between two given Numbers.
+
+Bifect the Distance between the given Numbers, which Point of BifccYion will fall on the mean Proportional fought : Because the square Root of the Quotient of the two Extremes di- vided by one another, mutiplied by the leffer, is equal to the Mean.
+
+Example. The Extremes being 8 and 32, the middle Point between them will be found
+to be 16.
+
+USE IX. To find two mean Proportionals between two given Lines. Trifecc the Space between the two given Extremes, and the two Points of Infection will give the two Means. Because the Cube Root of the Quotient of the Extremes divided by one another, multiplied by the leffer Extreme, will give the first of the Mean Proportionals fought, and that first Mean multiplied by the aforsaid Cube P.oot, will give the second.
+
+Example*
+
+
+
+
+
+
+Chap. 2. of the Four-Foot Gauging-Rod. Ia
+
+Example. Let 8 and 27 be the two given Extremes, the two Means will be found to be 12
+
+and 1 8, which are the two Means fought.
+
+U S E X. To find the Square Root of any Number under 1 000000.
+
+The Square Root of any Number is always a mean Proportional between 1, and theNum ber whole Root you would find ; but yet with this general Caution, viz. If the Fiaures of the Number are even, that is, 2, 4, 6, 8, 10, fcfV. then you must look for the Unit at the Beginning of the Line, and the Number in the second Part or Radius, and the Root in the fiat Part ; or gather reckon 10 at the end to be Unity, and then both Root and Square will fail backwards towards the middle in the second Length or Part of the Line • But if thev be odd, then the middle 1 will be mofl convenient to be counted Unity, and both Root and Square will be found from thence forwards towards 10 ; so that according to this Rule the Square Root of 9 will be found to be 3, the Square Root of 64 will be found to be 8 the Square Root of 144 to be 12, &c. '
+
+USE XI. To find the Cube Root of any Number under 1000000000.
+_ The Cube Root is always the first of two mean Proportionals between 1 and the Number
+given, and therefore to be found by trifedting the Space between them; whence the Cube
+
+a f, 'C u f K U p ^ the u R0 T ° C ° f I728 ° is near 26 &gt; the Ro ° c of 17^00 is aK
+moll 5 6. Although the Point on the Line reprefenting all the square Numbers is in one
+
+place, yet by altering the Unit, it produce* various Points and Numbers for their eftXe
+
+proper Roots The Rule to find this, is in this manner: You must fet Dots (or suppose
+
+them to be fet) over the first Figure to the Left-hand, the fourth Figure, the seventh, and
+
+the tenth ; now if by this means the last Dot to the Left-hand falls oS the last Figure, as it
+
+doth in 1728, then the Unit must be placed at 1 in the middle of the Line, ancTthe Root
+
+the Square, and Cube, will all fall forwards towards the end of the Line
+
+But if it falls on the last but t as it doth in 17280, then the Unit* may be placed at 1
+
+in the Beginning of the Line, and the Cube in the second Length; or else the Unit may be
+
+flj undTr Sft F £he ^ and th£ Qlbe " th£ first Pa " &lt;* the Line ' But ifTlast
+
+k ?in the End i of ^l' g Yu^'u**^ I728 °°' the Unit must aIwa 7 3 be P^ed at
+10 in the End of the Line and then the Root, the Square, and Cube, will all fall back-
+wards and be found in the second Part, between the Midd le 1 , and the End of the Line Bv
+theft Rules it appears, , « ,' Cube Root of 8 is 2, the Cube Root of 27 is 3, h ^ Cube
+Ro^of6 4 is4,of I25 ^, o, 2I 6is6, of 345 is 7&gt; of 5x2 is 8, of 7/9 b 9, of ^ 1000
+
+CHAP. II.
+
+Of the Conftru&ion and Use of the Four-Foot Gauging-Rod.
+
+T v/llc 1 ^' r Wh n fe U ? is ;° find the Quantities of Liquors contained in any kinds of
+and about of an t" i Y f made ° f Bo f Wo ° d ' and con »^ of Your Rules, each a Foot long
+Rod is rendered W F TT' J °T d t0 P? er b * three Brass J oints &gt; b / whic " ™»ns the
+wheVk^ When thefour Rules - ¥** opened; and but one Foot
+
+for Wi?/ fi i rft FaCC ° f rh R I ° d , are pIaced two Dia § onal Lines » °ne for Beer, and the other «.-*
+Zl ^ ' ft m ™ ns °{ whlch th e Content of any common Vessel in Beer or Wbe Gal ons S ' 4&lt;
+
+In erf cl^ tt^adT^V^ W ? *' ^^ ° f the V ^l SS'S
+ftinfl-Sn «? 1- t Hea { 01 the Vessel WIth th e opposite Staves to the Bung-hole. For di-
+
+OnThe f av* ^t IS . Wrk there ° n Beer and W ™ Gallons.
+Line exprem™ rl^T ' f^ are ' a Line of In ^es, and the Gauge Line, which is a Fig.r.
+
+bead" L fortndmAow mf rlf °* F"? '&gt;■ ** firi *' at the end of whic * " ™ Hogf- Fig- 6
+it's Axis p rallel ro ^H?" 7 ^ ^ *j ?• * Ho g* ead &gt; when it is not full, lying with
+fyin- a But IvJna f 1 T- ?J e second Llne ' at the End ° f which is writ B. L . figni-
+how^rnueh lJS£ is^/nr ^^ aS p that so 5 the ^^ The thi ^ d Line is to find
+
+b. s. ^^7*irs n £ m up a Butt when ic is ftandin s- At the End ° f k is wic
+
+wSttinTF^^JS^ °^ th p Ga "gi n S- R o d a ^ three Scales of Lines, to find the Fig. 7 ,
+
+They are dift 3fl5 t^"'^ ^ Iy,ng W ' lth their Axes P ara,lei t0 the Horizon -
+/ diitiDguiflied by the Letters F. K. B. fignify ing a Firkin, Kilderkin, and Barrel.
+
+Construction
+
+
+
+20
+
+
+
+Of the Confiruciion and Uses Book I,
+
+Construction of the izvo Diagonal Lines.
+Thefe two Diagonal Lines are put upon this Gauging-Rod, in the fame manner that our Author, in the last life of the Line ot Solids in the second Book directs, for putting on the Diagonals on his Gauging-Rod, viz. by taking the Diagonal of some VeiTel that is fimi- lar, or nio-hly similar to the Vessels, whole Contents in Beer, or Wine Gallons, are after- wards, by means of them, to be found ; and then knowing how many Gallons in Beer and Wine the aforsaid VeiTel contains, which Gallons must be let against the Inches, or Parts of Inches of their Diagonals Length, on the Diagonal-Face of the Gauging-Rod. Now to find how many Inches, or Parts, the Diagonal of any other similar Velsel must be, when it's Content in Beer and Wine-Gallons is given ; you must fay, As the Content of the first Vef- fel, which is known, is to the Cube of the Length of it's Diagonal ; So is the Content of that other similar Vessel, in Beer or Wine-Gallons, to the Cube of the Length of it's Diagonal : the Cube-Root of which extracted, will give the Length of the Diagonal fought. As for Example, suppose a little VeiTel similar, or nighly similar to Englijh Vessels of a usual Form, contains i Beer Gallon, or about i ~ Wine Gallon, and the Diagonal is found to be 7.75 Inches-, what will be the Diagonal of a similar VeiTel, containing 2 Beer Gallons, or 2.8 Wine Gallons ? Say, As 1 Gallon is to the Cube of 7.7 5, which is 465.48437, So is 2 Gal- lons to the Cube of the Diagonal fought, 930.96875, whose Root will be 9.72 Inches, and so much will be the Length of the Diagonal : therefore fet 2 Beer Gallons on the Diagonal Face of the Rod, against 9.72 Inches. In this manner may the Diagonal Face of the Rod be divided from 1 Beer Gallon to 240, and from 1 Wine Gallon to 300, and fubdivided in half Gallons, as on the Rod.
+
+Confiruciion of the Gauge-Line on the second Face of the Rod.
+
+On this Line is fet the Gallons, and hundred Parts of Gallons, that any Cylinder, an Inch deep, and any Inches and Parts, from 1 to 46 in Diameter, contains of Ale. As for Ex- ample i against 1.9 Indus ftands .01 of a Gallon, denoted by a Dot ; against 2.63 Inches frauds .02 of a Gallon. The Tenths of the Gallons are denoted by the Figures 1, 2, 3, 4, 13c. as .1 of a Gallon is fet against ^.^6 Inches ; .2 against 8.44 Inches, and 1 Gallon against 18.95 Inches, as per Figure. The Conftruction of this Line is thus : Because 282 solid In- ches make an Ale Gallon, therefore the Diameter of a Cylinder, one Inch deep, whose Con- tent is an Ale Gallon, or 282 solid Inches, will be 18.95 Inches •, whence against 18.95 In- ches, on the fame Face of the Gauging-Rod, fet, on the Line drawn to contain the Divisions of the Gauge-Line, 1 Gallon. Now to find the Diameter of a Cylinder one Inch deep, that shall contain the .01 Part of a Gallon, fay, As 1 Gallon is to the .01 Part of a Gallon, So is the the Square of 18.95 Inches, which is 359, to the Square of the Diameter of the Cylin- der, containing the hundredth Part of a Gallon, which will be found by extracting the square Root of that Quantity 1.9 Inch : therefore fet the Hi ft Dot against 1.9 of an Inch. Again, to find against what Inches, or Parts, .02 of a Gallon must be placed, fay, As 1 is to .02, So is 359 to the Square of the Number of Inches, or Parts, whose Root extracted will give 2.63 Inches ; against which make a second Dot for .02 of a Gallon. In this manner pro- ceed for all the other Divisions on the Gauge-Line, always making 1 and 359 the two first Terms of the Proportion, and the Gallons or Parts the third ; so shall the fourth be the Square of the Inches, or Parts, that the Gallons, or Parts exprefled in the third Term, are to be fet against. The Reason of the aforsaid Porportion is, that Cylinders, of equal Alti- tudes, are to each other as their Bases, and Circles as the Squares of their Diameters.
+
+Confiruciion of the Scales on the third and fourth Faces.
+
+The first Scale of Lines on the third Face, which ferves for finding the Gallons wanting in a Hogfliead pofited with it's Axis parallel to the Florizon, or lying down, contains the Divisions from 1 Gallon to 54 Gallons, which is the Number of Ale-Gallons a Hogfliead contains when full.
+
+The second Scale of Lines, on the fame Face, containing the Divisions from 1 Gallon to 108 Gallons, which are the Number of Ale-Gallons contained in a Butt, is for the fame Use as the first Scale of Lines when the Butt is lying.
+
+The third Scale, likewise numbered from 1 Gallon to 108, is for finding how many Gallons is wanting in a Butt ftanding upright.
+
+The three Scales of Lines, on part of the fourth Face, are, as I have already said, for finding the Wants in a Firkin, Kilderkin, and Barrel lying down, in Ale-Gallons. The rea- dieft way to make the Divisions of either of these Scales of Lines for their correfpondent Vef- fels, when lying down, as for a Hogfhead, is to pour in first one Gallon of Water, and then put the Rod downright into the Bung-hole to the opposite Staves •, then where the Surface of the Water cuts the third Face of the Rod (because the Scale of Lines for the Hogfliead is on that Face) make the Division for 1 Gallon •, then pour in another Gallon, and where the Surface of the Water cuts the Rod, make the Division for 2 Gallons. Again, pour in another Gallon, and where the Surface of the Water cuts the Rod, make the Division for three Gallons. Proceed thus, by pouring in of one Gallon fucceflively after another, and mak-
+
+
+
+ing
+
+
+
+Chan. 2. of the Four-Foot Gauging-Rod. 21
+
+ing of Divisions at every Place in the Face of the Rod, to which the Water arifes, until the Hothead be full, and then the Scale for a Hogfhead, on the third Face, will be divided, proceed, in the fame manner, in making the Divisions for the other Scales of Lines used in rinding the Wants in the several Vessels aforementioned lying down. And taking off the Head'of a Butt that is (landing, and pouring of Water in the fame manner as in the Hogf- head, putting the Rod downright into the Butt, and making Divisions on the Rod, as was done for the Hogfhead, the Line will be finifhed, when figured.
+
+Note, The Divisions for Half-Gallons, marked by long Dots on the fourth Face, are made by pouring in of Flalf-Gallons fucceffively, &c.
+
+USE of the Diagonal Lines on the Gauging- Rod. To find the Content of a Vessel in Beer or Wine- Gallons.
+
+Put the brafed End of the Gauging-Rod into the Bung-hole of the Cafk, with the Diago-
+nal Lines upwards, and thruft the brafed End to the meer.»g of the Head and Staves.
+
+Then with Chalk make a Mark on the middle of the Bung- hole of the Vessel, and also on
+the Diagonal Lines of the Rod, right against, or over one another, when the brafed End is
+thruft home to the Head and Staves.
+
+Then turn the Gauging-Rod to the other End of the VefTel, and thruft the brafed End home
+to the End as before.
+
+And fee if the Mark made on the Gauging-Rod come even with the Mark made on the
+Bung- Hole, when the Rod was thruft to the other End ; which if it be, the Mark made on
+the Diagonal Lines, will, on the fame Lines, fhew the whole Content of the Cafk in Beer or
+Wine-Ga'lons.
+
+But if the Mark first made on the Bung-hole be not right against that made on the Rod, when put the other way ; then right against the Mark made on the Bung-hole, make another on the Diagonal Lines: then the Division on the Diagonal Line^ between the two Chalks, will fhew the Vessel's whole Content in Beer or Wine-Gallons. As for Example ; if the Dia- gonal Line of a Vessel be 28 Inches 4 Tenths, it's Content in Beer-Gallons will be near 51, and in Wine-Gallons 62.
+
+But if a VeiTel be open, as a Half-Barrel, Tun, or Copper, and the Meafure from the middle on one Side, to the Head and Staves, be 38 Inches, the Diagonal Line gives 122 Beer-Gallons-, half of which, viz. 6i f is the Content of the open Half-Tub.
+
+But if you have a large Vessel, as a Tun, or Copper, and the Diagonal Line, taken by a long Rule, prove 70 Inches ; then the Content of that VeiTel may be found thus :
+
+Every Inch, at the Beginning-End of the Diagonal Line, call 10 Inches, then 10 Inches be- comes 100 Inches.
+
+And every Tenth of a Gallon call 100 Gallons; and every whole Gallon, with a Figure, call 1000 Gallons. Example, at 44.8 Inches, on the Diagonal Beer-Line, is 200 Gallons j so also at 4 Inches 48 Parts, now called 44 Inches 8 Tenths, is juft two Tenths of a Gallon, now called 200 Gallons.
+
+Also if the Diagonal Line be 76 Inches and 7 Tenths, a clofe Cafk, of so great a Diago-
+nal, will hold 1000 Beer-Gallons: but an open Cafk but half so much, viz. 500 Beer-
+Gallons.
+
+For reducing of Wine-Gallons to Beer-Gallons, or, vice verfa, by Infpection, this may b«
+done.
+
+Thus 30 Wine- Gallons, is 24 4. Beer-Gallons, &c.
+
+USE of the Gauge- Line.
+
+USE I. To find the Content of any Cylindrical Vessel in Ale-Gallons. Seek the Diameter of the VeiTel in the Inches, and juft against it, on the Gauge-Line, is the Quantity of Ale-Gallons contained in one Inch deep : then this multiplied by the Length of the Cylinder, will give it's Content in Ale-Gallons. For Example ; suppose the Length of the Vessel be 32.06, and the Diameter of it's Base 25 Inches, what is the Content in Ale- Gallons ? Right against 25 Inches, on the Gauge- Line, is 1 Gallon, and .745 of a Gallon ; which multiplied by 32.06, the Length, gives 55.9447 Gallons for the Content of the Vessel.
+
+USE II. The Bung-Diameter of a Hogfhead is 25 Inches, the Head-Diameter 22 Inches, and the Length 32.06 Inches ; to find the Quantity of Ale-Gallons contained in it.
+
+Seek 25, the Bung-Diameter, on the Line of Inches, and right against it, on the Gauge- Line, you will find 1.745 '&gt; take 4. of it, which is .580, and fet it down twice. Seek 22 In- ches, the Head Diameter, and against it you will find, on the Gauge-Line, 1.356; 4 of which added to twice .580, gives 1.6096; which multiplied by the Length 32.06, the Prod uct will be 51.603776, the Content in Ale-Gallons. This Operation supposes, that the aforsaid Hogfhead is in the Figure of the middle Fruftum of a Spheroid.
+
+The Use of the Lines on the two other Faces of the Rod, is very eafy; for you need but put it downright into the Bung-hole (if the VeiTel you defire to know the Quantity of Ale- Gallons contained therein be lying), to the opposite Staves ; and then where the Surface of the Liquor cuts any one of the Lines appropriated for that VeiTel, will be the Number of Gallons contained in that Vessel.
+
+Of the ConftruElion and Use of EverardV Sliding- Rule for Gauging.
+
+THIS Inflrument is commonly made of Box, exactly a Foot long, one Inch broad, and about fix Tenths of an Inch thick. It confifts of three Parts, viz. A Rule, and two small Scales or Sliding- Pieces to Aide in it •, one on one Side, and the other on the other : So that when both the Sliding- Pieces are drawn out to their full Extent, the whole will be three Foot long, fig. s. On the first broad Face of this Inflrument are four Lines of Numbers •, the first Line of
+
+Numbers confifts of two Radius's, and is numbered i, 2, 3, 4, 5, 6, 7, 8, 9, 1. and then 2, 3, 4, 5, &c. to 10. On this Line are placed four Brass Center Pins, the first in the first Ra- dius, at 2150.42, and the third likewise at the fame Number taken in the feeond Radius, having MB fet to them-, fignifying, that the aforsaid Number reprefents the Cubic Inches in a Malt Bufhel : the feeond and fourth Center Pins are fet at the Numbers 282 on each Ra- dius ; they have the Letter A fet to them, fignifying that the aforsaid Number 282 is the Cu- bic Inches in an Ale-Gallon. Note, The little long black Dots, over the Center Pins, are put directly over the proper Numbers. This Line of Numbers hath A placed at the End thereof, and is called A for Diftinction-fake.
+
+The feeond and third Lines of Numbers which are on the Sliding-Piece (and which may be called but one Line), are exactly the fame with the first Line of Numbers: They are both, for Diftinction, called B. The little black Dot, that is hard by the Division 7, on the first Radius, having Si fet after it, is put directly over .707, which is the Side of a Square in- fcribed in a Circle, whose Diameter is Unity. The black Dot hard by 9, after which is writ S e&gt; is fet diredly over .886, which is the Side of a Square equal to the Area of a Cir- cle, whose Diameter is Unity. The black Dot that is nigh W, is fet directly over 231, which is the Number of Cubic Inches in a Wine-Gallon. Laftly, the black Dot by C, is fet directly over 3.14, which is the Circumference of a Circle, whose Diameter is Unity.
+
+The fourth Line, on the first Face, is a broken Line of Numbers of two Radius's, num- bered 2, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 9, 8, 7, 6, 5, 4, 3, the Number 1 is fet against M B on the first Radius. This Line of Numbers hath MD let to it, fignifying Malt Depth. Fig. 9. On the feeond broad Face of this Rule, are,
+
+I. A Line of Numbers of but one Radius, which is numbered 1, 2, 3, &c. to 10, and hath D fet at the End thereof for distinguishing it. There are upon it four Brass Center Pins : the first, to which is fet W G, is the Gauge-Point for a Wine-Gallon •, that is, the Diameter of a Cylinder, whose Height is an Inch, and Content 231 Cubic Inches, or a Wine- Gallon, which is 17.15 Inches. The feeond Center-Pin AG ftands at the Gauge-Point for an Ale-Gallon, which is 18.95 Inches. The third Center-Pin M S ftands at 46.3, which is the Side of a Square, whose Content is equal to the Inches in a solid Bufhel. The fourth Center-Pin M R is the Gauge-Point for a Malt Bufhel, which is 52.32 Inches.
+
+II. Two Lines of Numbers on the Sliding-Piece, which are exactly the fame as on theSliding-Piece on the other Side the Rule, they are called C. The first black Dot fomethingon this Side the Division of the Number 8, to which is fet G c, is fet to .795, which is theArea of a Circle whose Circumference is Unity ; and the feeond, to which is fet G d, ftandsat .785, the Area of a Circle, whose Diameter is Unity.
+
+III. Two Lines of Segments, each numbered 1, 2, 3 to iOo-, the first is for finding the Ullage of a Cafk, taken as the middle Fruftum of a Spheroid, lying with it's Axis parallel to the Horizon, and the other for finding the Ullage of a Cafk ftanding.
+
+Fig, 10. Again, on one of the narrow Faces of this Rule, is, (1.) A Line of Inches, numbered r,
+
+2 &gt; 3&gt; 4» &c- to 12. each of which is fubdivided into ten equal Parts. (2.) A Line, by means of which, and the Line of Inches, is found a mean Diameter for a Cafk in the Figure of the middle Fruftum of a Spheroid ; it is figured 1, 2, 3, &c. to 7. at the End thereof is writ Spheroid. (3.) A Line for finding the mean Diameter of a Cafk in the Figure of the mid- dle Fruftum of a parabolic Spindle, which by Gaugers is called the feeond Variety of Cajks ; it is numbered 1, 2, 3, 4, 5, 6, and at it's End is writ, 2 Variety. (4.) A Line, by means of which may be found the mean Diameter of a Cafk of the third Variety ; that is, a Cafk in the Figure of two parabolic Conoids abutting upon a common Base : it is numbered 1, 2, 3, 4, 5, at the End thereof is writ 3 Variety.
+
+Fig. 11. And on the other narrow Face, is, (1.) A Foot divided into 100 equal Parts, every ten of
+
+which are numbered ; F M ftands at the beginning of it, fignifying Foot-Meafure. (2.) A Line of Inches, like that before fpoken of, having I M fet to the Beginning thereof, fignifying Inch-Meafure. (3.) A Line for finding the mean Diameter for the fourth Variety of Calks, which is the middle Fruftum of two Cones, abutting upon one common Base ; it is numbered l i 2 &gt; 3&gt; 4&gt; 5&gt; 6. and at the Beginning thereof is writ F C, fignifying Fruftum of a Cone.
+
+Thefe are all the Lines on the four Faces of the Rule •, but on the Backfide of the two S!idin&lt;*-Pieces are a Line of Inches from 13 to 36, when the two Sliding- Pieces are put End- ways together, and against that the correfpondent Gallons, or hundred Parts, that any small Tub, or such like open Veflfel (from 13 to 36 Inches Diameter) will contain at one Inch deep i it's Conftruction is the fame as before delivered, in fpeaking of the Line of Ale Area on the Four-foot Gauging-Rod.
+
+All the Lines of Numbers, before-defcribed, may be put upon the Faces of this Sliding- Ruie, as directed in the Conftruction of the Line of Numbers on Gunter's Scale ; only you must obferve, that the first Radius of the broken Line of Numbers MD, begins directly un- der MB, and ends directly under the other MB; and that when either of the Lines of Numbers A or B are made, the Line M D from them may also be made. Example-* The Di- ftance from 1 to 2, on the Line A, laid off from 1 (towards the Left Hand) to 2, on the Line iVi D, will give the Division 2; the Distance from 1 to 3, on the Line A, will be equal to the Distance from 1 to 3 •, the contrary way on the Line MD: underftand the fame of other Divisions and Subdivifions. The reason of thus breaking this Line of Numbers, I shall fhew in it's Use.
+
+The Line of Segments for the middle Fruflum of a Spheroid lying, may be put upon the Sliding- Rule in the following manner : Take some Vessel lying, as a Butt, and fill it full of Water, then find it's Content in Ale or Wine-Gallons (for it matters not which), take also it's Bung-Diameter very exactly in Inches, or Tenths of Inches. Now to find against what Number, on the Line of Numbers of the Sliding-Piece, any Division of the Line of Segments mud (land •, suppose the Division 1, fay, As Unity is to .01, So is the Content of the afore* said Vessel in Gallons to a fourth Number (which will be the Gallons, or Gallons and Parts that are contained in such a Segment of the VefTel, as .01 is of a similar VefTel, whose Area is supposed Unity •,) then let out of the VefTel as many Gallons of .Water as that fourth Pro- portional directs, and having taken the Dry Inches, fay, By the Rule of Three, As the Bung- Diameter ; s to those Dry Inches found, So is 100 to a fourth Number ; which will be the Number on the Line C, against which the Division 1 on the Segment-Line must ftand.
+
+Again, to find where the Division 2 must ftand on the Line of Segments, fay, As 1 is to .02, So is the Content of the aforsaid VefTel to the Gallons that must be taken out of it ; then fay, As the Bung-Diameter is to the Dry Inches, So is 100 to the Number on the Line C, against which the Division 2 mult ftand. Proceed in this manner for finding the Divisions 3$ 4, 5&gt; 6, 7, 8, 9, and when you come to find where the Division 10 must ftand, you must fay, As Unity is to the VefTel's Content, So is .1 to the Number of Gallons to be taken out of the VefTel, and go on as before. Moreover, to find where the Division 20 must ftand, fay, As 1 is to the Content, So is .2 to the Number of Gallons to be taken out of the VefTel, £JV« In this manner may the Divisions to 100 be found.
+
+To find where the first Subdivifion before 1 must ftand, fay, As 1 is to the VefTel's Con- tent, So is .002 to the Number of Gallons to be let out of the VefTel, and proceed as at first directed. And for the second Subdivifion, make .003 the third Term of the Rule of Three, and proceed as before.
+
+For the Subdivifions between 1 and 2, 2 and 3, &c. suppose 1 to be .0100, then the first Division from 1 will be .011, the second .012, the third .013, &c. which must be made the third Terms of the first Rule of Three, for finding where any of those Subdivifions must ftand. And for the Subdivifions between 10 and 20, 20 and 30, you must suppose 10 to be .10, and 20 to be .20; then the first Subdivifion from 10 will be .11, the second .12, the third .13, &?*. which will be the third Terms in the first Rule of Three, for finding where- abouts these Divisions must ftand.
+
+The other Segment- Line, on the fame Face of the Rule, may be made in the fame mannef as this, by fetting the aforsaid VefTel upright, and making use of the Length inftead of the Bung-Diameter.
+
+The Conftruction of the four Lines on the narrow Faces of this Rule, is from the Rules that Everard hath laid down for finding the Contents of the four Varieties of Cafks. For, (1.) If there is a Cafk in the Form of the middle Fruftum of a Spheroid, half the Difference of the Squares of the Bung and Head-Diameter, added to the Sum and half Sum of the said Squares, divided by 3, will be the Square of the mean Diameter for a fpheroidal VefTel ; the Root of which will be the mean Diameter. (2.) Three Tenths of the Differences of the Squares of the Bung and Head-Diameters, added to the Sum and half Sum of the said Squares, and the whole divided by 3, will be the Square of the mean Diameter of a Cafk of the second Vanety. (3.) To the Sum and half Sum of the Squares of the Bung and Head-Diameters, add one Tenth of the Difference of the said Squares, which Sum, divided by 3, gives the Square of the mean Diameter of a Cafk of the third Variety. (4.) And Laftly, from the Sum and half Sum of the Squares of the Bung and Head-Diameters, fubftract half the Square of the Difference of Diameters, and the Remainder, divided by 3, will be the Square of the mean Diameter for the fourth Variety of Cafks,
+
+USE I. One Number being given to be multiplied by another ; to find the Producl.
+
+Notation on the Lines of Numbers upon this Rule, is the fame as before was fhewn in the Use of the Carpenter's Rule ; therefore I mall not here repeat it, but proceed to folve this Use by the following Examples : Suppose 4 is to be multiplied by 6: Set 1 upon the Line of Numbers B, to 4 upon the Line A, and then against 6 upon B, is 24, the Product fought upon A. Again, to multiply 26 by 68, fet 1 upon B to 26 upon Aj then against 68 upon B) is 1768 on A.
+
+Note, The Product of any two Numbers will have so many Places as there are in both the Numbers given, except when the lefTer of them does not exceed so many of the first Figures of the Product, for then it will have one less.
+
+USE II. One Number being given to be divided by another, to find the Quotient.
+
+Suppose 24 is to be divided by 4, what is the Quotient ? Set 4 upon B, to 1 upon A ; then against 24 upon B, is 6 upon A, which will be the Quotient.
+
+Again, let 952 be divided by 14: To find the Quotient, fet 14 upon A, to 1 upon B, and against 952 upon A, you will have 68 the Quotient upon B.
+
+Note, The Quotient will always confift of so many Figures as the Dividend hath more than the Divisor, except when the Divisor does not exceed so many of the first Figures of the Dividend j for then it will have one Place more.
+
+USE III. Three Numbers being given, to find a fourth in a diretl Proportion.
+
+If 8 gives 20, what will 22 give ? Set 8 upon B, to 20 upon A j and then against 22 on B, ftands 55 upon A, which is the fourth Number fought.
+
+USE IV. To find a mean Proportional between two given Numbers.
+
+Example. Let the two Numbers be 50 and 72 •, fet 50 upon C, to 72 upon D ; and then against 72 upon C, is 60 upon D, which is the Geometrical Mean between 50 and 72.
+
+USE V. To find the square Root of any Number under 1 000000 The Extraction of the square Root, by help of this Instrument, is eafier than any of the aforsaid Uses : for if the Lines C and D be applied one to another, so that 10 at the End of D, be even with 10 at the End of C •, then those two Lines, thus applied, are like a Table of square Roots, (hewing the square Root of any Number by Inflection only : for against any Number upon C, you have the square Root thereof upon D.
+
+Note, When the Number given confifts of 1, 3, 5, or 7 Places of Integers, feek it in the first Radius on the Line C, and against it you have the Root required upon D. Example, Let the Number given be 144, I find this on the first Radius of the Line C, and against it is 12, the Root fought upon the Line D.
+
+USE VI. The Diameter or Circumference of a Circle being given, to find either.
+
+Set 1 on the Line A against 3. 141, (where is writ C) on the Line B, and against any Dia- meter, on the Line A, you have the Circumference on the Line B, and contrariwife : As fup- pofe the Diameter of a Circle be 20 Inches, the Circumference will be 62.831 j and if the Circumference be 94.247, the Diameter will be 30.
+
+USE VII. The Diameter of any Circle being given \ to find the Area, in Inches, or in
+
+Ale or Wine- Gallons.
+
+Example. Let the Diameter be 20 Inches, what is the Area? Set 1 upon D to .785, (where is fet O d) and then against 20 upon D, is 3 14. 159, the Area required. Now to find that Circle's Area in Ale-Gallons, fet 18.95 (marked AG) upon D to 1 upon C ; then against the Diameter 20, upon D, is the Number of Ale-Gallons upon C, which is 1.11 Gal- lons. Underftand the fame for Wine-Gallons, by the proper Gauge-Point.
+
+USE VIII. The tranfverfe and conjugate Diameters of an Ellipfis being given, to find
+
+the Area in Ale-Gallons.
+
+Example. Let the tranfverfe Diameter be 72 Inches, and the Conjugate 50 : Set S59-°5i the Square of the Gauge-Point, upon B, to one of the Diameters (suppose 50 upon A) ; then against the other Diameter 72 upon B, you will have the Area upon A, which, in this Ex- ample, will be 10.02 Ale-Gallons, the Content of this Ellipfis at one Inch deep. The like may be done for Wine-Gallons, if inftead of 359.05, you use 249.1 1, the Square of the Gauge- Point for Wine-Gallons.
+
+USE IX. To find the Area or Content of a Triangular Superficies in Ale Gallons.
+
+Let the Base of the Triangle be 260 Inches, and the Perpendicular, let fall from the oppo- fite Angle, be 1 10 Inches ; fet 282 (marked A) upon B, to 130, half the Base upon A ; then against no upon B, is 50.7 Gallons upon A.
+
+USE X. To find the Content of an Oblong in Ale Gallons. Sappofe one of the Sides is 130 Inches, and the other 180 ; fet 282 upon B, to 180 upoli A-, 'then again ft 130 upon B, is 82.97 Ale Gallons, the Area required.
+
+USE XI. The Side of any regular Polygon king given, to find the Content thereof in
+
+In any regular Polygon, the Perpendicular let fall from the Center to one of the Sides, be- Itl g found and multiplied by half the Sum of the Sides, gives the Area. Example, in a Pen- tagon, suppose the Side is an Inch, then the Perpendicular let fall from the Center, will be found'. 837, in faying, As the Sine of half the Angle at the Center, which in this Polygon is 06 Deorecs, is to half the given Side .5 -, So is the Sine of 36 Degrees taken from 90, which is rA. l?i grees, to the Perpendicular aforsaid : whence the Area of a Pentagon Polygon, each of "whose Sides is Unity, will be 1.72 Inches ; which, divided by 282, gives .0061 the Ale. Ga Ions in that Polygon. By the fame Method you may find the Area of any other Polygon, whole Side is Unity in Ale Gallons. Now, suppose the Side of a Pentagon is 50 Inches, What is the Content thereof in Ale Gallons ? Set 1 upon D, to .006! uponC; then against 50 upon D, you have the Area 15.252 Ale Gallons upon C.
+
+USE XII. To find the Content of a Cylinder in Ale Gallons.
+
+Suppose the Diameter of the Base of a Cylinder is 120 Inches, and the perpendicular Height 36 Inches. Set the Gauge- Point (A G) to the Height 36 upon C ; then against 120 the Diameter, upon D, is 1443.6 the Content in Ale Gallons.
+
+USE XIII. The Bung and Head Diameters, together with the Length of any Cafk, being given, to find it's Content in Ale or Wine Gallons.
+
+Suppose the Length of a Cafk taken, as the middle Fruftum of a Spheroid be 40 Inches, it's Head-Diameter 24 Inches, and Bung-Diameter 32 Inches. Subftradt the Head-Diameter from the Bung-Diameter, and the Difference is 8 : then look for 8 Inches on the Line of In- ches, upon the first narrow Face of the Rule ; and against it on the Line Spheroid ftands 5.6 Inches, which added to the Head-Diameter 24, gives 29.6 Inches for that Calk's mean Dia- meter : thin fet th&lt; Gauge-Point for Ale (marked AG) upon D, to 40 upon v_ ; and against 29.6 upon D, is 97 45 the Content of that Cafk in Ale-Gallons. If the Gauge Point for "Wine (marked W G) is used inftead of that for Ale, you will have the Veifel's Content in Wine-Gallons.
+
+If a Cafk, suppose of the fame Dimenfions as the former, be taken as the middle Fruftum of a paraboiick Spindle, which is of the second Variety, you mutt fee what Inches and Parts on the Line marked Second Variety, Hand against the Difference of the Bung and Head-Diameters, which, in this Example, is 8 •, and you will find 5.1 Inches, which added to 24 the Hrad- Diameter, makes 29.1 Inches the mean Diameter of the Cafk ; then let the Rule as before, and against 29.1 Inches, you will have 94.12 Ale-Gallons for the Content of the Cafk.
+
+Again •, if a Calk, suppose of the fame Dimenfions with either of the former ones, be taken as the middle Fruftum of 2 paraboiick Conoids, which is one of the third Variety, you will find against 8 Inches (.the Difference of the Bung and Head-Diameters), on the Line of Inches, Hands 4.57 Inches, on the Line called 3d Variety, which added to 24, the Head-Diameter, gives 28. 57 Inches for the Cafk's mean Diameter: proceed as at first, and you will find the Content of this Cafk to be 90.8 Ale Gallons.
+
+Laftly, If a Cafk, fuppole of the fame Dimenfions as before, is taken as the Fruftums of 2 Cones, which is the fourth Variety, look on the other narrow Face of the Rule for 8 Inches* upon the Line of Inches ; and against it, on the Line F. C, you will find 4.1 Inches, which added to 24, gives 28.1 for the mean Diameter of this Cafk: proceeding as at first, and you will find the Content of this Calk, in Ale-Gallons, to be 87.93.
+
+USE XIV. There is a Cafk poftted with it's Axis parallel to the Horizon, or Lying, in part empty ; suppose it's Content is 97.455 Ale-Gallons, the Bung-Diameter 32 Inches, and the dry Inches 8, to find the Quantity of Liquor in the Cafk.
+
+As the Bung-Diameter upon C, is to 100 upon the Line of Segments L, So is the dry Inches on C, to a fourth Number on the Line of Segments : then As 100 upon B, is to the Calk s whole Content upon A, So is that fouith Number to the Liquor wanting to fill up the Cafk ; which, fubftrafted from the Liquor that the Cafk holds, gives the Liquor in the Cafk. Example; Set 32, the Bung-Diameter, on C, to 100 on the Segment Line L; then against 8, the Dry-Inches on C, Hands 17.6 on the Segment Line. Now fet 100 upon B, to the La k s whole Content upon A •, and against 17.6 upon B, you have 16.5 Gallons upon A ; and iubftrafting the said Gallons from 97.45, the Vessel's whole Content, the Liquor in the Cafk will be 80.95 Gallons. S /, E r XV * Su P°f e the tforefaid CajFs Axis be perpendicular to the Horizon, or upright, and the Length of it be 40 Inches : to find how much liquor there will be in the Cafk, when 10 of those Inches are dry.
+
+Set 40 Inches, the Length, on the Line C, to 100 on the Segment Line S ; and again ft 10, the Dry-Inches, on the Line C, ftands 24.2 on the Segment Line S. Now fet 100 upon B, to 9J-4-55&gt; tne Cafk's whole Content, upon A ; and against 24.2 on B, you will have 23.5 Gallons, which are the Gallons wanting to fill up the Cafk, and being fubftracted from the whole Content 97-A-55-, gives 73-955 Gallons for the Quantity of Liquor remaining in the Cafk.
+
+USE XVI. To find the Content of any right-angled Parallelepipedon (which may repre- fent a Cijiern, or Uting-Fat) in Malt-Bujhels.
+
+Suppose the Length of the Base is 80 Inches, the Breadth 50, and the Depth 9 Inches, Set the Breadth 50 on B, to the Depth 9 on C ; then against the Length 80 on A, (lands 16.8 Bufhels on the Line B, which are the Number of Bufhels of Malt contained in the afore* laid Ciftern.
+
+The broken Line of Numbers M. D, is so fet under the Lines A or B, that any Number on A or B multiplied by the Number directly under it on the Line M D, will always be equal to 2150.42, the Number of Inches in a Malt-Bufhel : from whence the Reason of the aforsaid Operation for finding the Number of Malt-Bufhcls, may be thus deduced. Let us call the Breadths, the Length £, the Depth c t and the Number of Inches in a Malt-Bufhel/;
+
+then the Malt-Bufhels in any Utenfil of the aforsaid Figure, will be expreffed by — j- . But
+
+by the Sliding- Rule the Operation is, to fet the Breadth a t to the Depth c j that is (from
+
+the aforementioned Property of the broken Line of Numbers M D), to — on the Line A j
+
+and then against the Length £, on the Line A, will the Number of Malt-Bufhels Hand : therefore the Operation is but finding the fourth Term of this Analogy, by means of the
+
+THIS Rule is framed three Ways •, for some have the two Rulers compofing them Aiding by one another, like Glaziers Rules ; and fometimes there is a Groove made in one Side of a Two- Foot Joint-Rule, in which a thin fliding Piece being put, the Lines put upon this Rule, are placed upon the said Side. And lastly, one Part Aiding in a Groove made along the Middle of the other, the Length of each of which is a Foot: the Form of this last being reprefented by Fig. 12.
+
+Upon the Aiding Side of the Rule are four Lines of Numbers ; three are double Lines, or Lines of Numbers to two Radius's, and one a Angle broken Line of Numbers, marked by the Letters A, B, C, and D.
+
+The three double Lines of Numbers A, B, C, are figured 1, 2, 3, 4, 5, 6, 7, 8, 9 ; and then 1, 2, 3, 4, 5, 6, 7, 8, 9, 10; they being the fame as the Line A, and the two Lines on the Sliding-Piece C, upon Everard\ Sliding- Rule i and their Conftruction, Use, and Manner of using, are also the fame.
+
+The fingle Line of Numbers D, whose Radius is exactly equal to the two Radius's of ei- ther of the Lines of Numbers A, B, C, is broke, for eafier measuring of Timber, and figured thus, 4, 5, 6, 7, 8, 9, 10, 20, 30, 40 •, this Line is called the Girt Line : from 4 to 5 it is di- vided into 10 Parts, and each Tenth into two Parts, and so on from 5 to 10 ; then from 10 to 20, it is divided-into 10 Parts, and each Tenth into 4 Parts, and so on from 20 to 40, at the End, which is right against 10, at the End of either of the double Lines of Numbers.
+
+The Lines on the Back-side of this Rule, are these; a Line of Inch-Meafure from 1 to 12, each Inch being fubdivided into Plalfs, Quarters, and Half-quarters : another Line of Inch- Meafure from 1 to 12, and each Inch fubdivided into 10 equal Parts : a Line of Foot-Mea- fure, being one Foot divided into 100 equal Parts, and figured, 10, 20, 30, &c. to 100.
+
+The Back-side of the Sliding-Piece is divided into Inches, Halfs, and Half-quarters, and figured from 12 to 24. ; so that it may be Aid out to 2 Foot, to measure the Length of any thing.
+
+The Lines of Numbers, A, B, or C, being either of them conftructed (which fee in the Chapter concerning Gunter's Scale) the Line D, from thence, may cafily be conftructed.
+
+For havin* fet 4 dire&ly under i, for the Beginning of the Line ; to find where any Divi- r fuppoftc, must be placed, take twice the Distance from 4 to 5, on either of the Ra- nk's of either of the Lines of Numbers A, B, C, and lay off from 4 that Extent, which will give the Division 5. Proceed thus for all the other Divisions and Subdivifions, by al- ways taking the double of them on the Lines A, B, or C.
+
+fate, For the manner of Notation, on this Rule, fee the Line of Numbers on the Car- penters.
+
+The Use of this Rule in measuring plain Superficies.
+
+SECTION I.
+
+U S E I. To measure a Geometrical Square.
+
+Let there be a Square whose Sides are each 5 Feet •, fet 1 on the Line B, to 5 on the Line A ; then against 5 on the Line B, is 25 Feet the Content of the Square on the Line A.
+
+U S E II. To measure a right angled Parallelogram, or Long-Square.
+
+Lee there be a Parallelogram, whose longeft Side is 18 Feet, and fhorteft 10 •, fet 1 on the Line B, to 10 on the Line A ; then against 1 8 Feet on the Line B, is 180 Feet the Content on the Line A.
+
+USE III. To measure a Rhombus.
+
+Let the Side of a Rhombus be 12 Feet, and the Length of a Perpendicular let fall from one of the obtuse Angles, to the opposite Side, 9 Feet •, fet 1 on the Line B, to 12, the Length of the Side, on the Line A: then against 9, the Length of the Perpendicular on the Line B, is 108 Feet the Content.
+
+USE IV. To measure a Rhomboides.
+
+Suppose the Length of either of the longeft Sides of a Rhomboides to be 25 Feet, and the Length of the Perpendicular let fall from one of the obtuse Angles to the opposite longeft Side, is 8 Feet ; let 1 on the Line B, to 25, the Length, on the Line A j then against 8 Feet on the Line B, {lands 200 Feet the Content.
+
+USE W. To measure a Triangle. Let the Base of a Triangle be 7 Feet, and the Length of the Perpendicular let fall from the opposite Angle to the Base, 4 Feet. Set 1 on the Line B, to 7 on the Line A; then against half the Perpendicular, which is 2, on the Line B, is 14 on the Line A, for the Content of the Triangle.
+
+USE VI. The Diameter of a Circle being given, to find it's Content.
+
+Let the Diameter of a Circle be %.$ Feet : fet 11 on the Girt-Line D, to g$ on the Line C -, then against 3.5 Feet on u, is 9.6 on the Line C, which is the Content in Feet of the said Circle.
+
+The Reason of this Operation, is, that As the Square of 1 1, which is 121, is to 95 ; So is the Square of the Dumeter of any Circle, to it's Content. Alfo, from the Nature of the Lo- garithms, it is manifest, if any Number, taken on a fingleLine of Numbers (whether whole or broken, in the manner that the Line D is), be fet to another Number, taken on a double Line of Numbers of the fame Length •, that the Square of the Number taken on the fingle Line of Numbers, will be to the Number it is fet against-, on the double Line of Numbers, as the Square of any other Number, taken on the fingle Line of Numbers, to the Number against it on the double Line of Numbers.
+
+USE VII. To find the Content of an Oval or Ellipjis.
+
+Let the Tranfverfe, or longeft Diameter, be 9 Feet, and the Conjugate, or fhorteft Dia- meter, 4 Feet - to find the Content of this Ellipfis.
+
+Theorem. The Content of every Ellipfis, is a mean Proportional between a Circle, whose Diameter is qcjual to the longeft Diameter of the Ellipfis, and a Circle whose Diameter is equal to th fhorteft Diameter of the fame Ellipfis ; as is manifest per Cor. 3. Prop. XI. Lib. 1 1. of Sturmy's Mathefis Enucleata.
+
+Therefore a mean Proportional must first be found between 4 and 9, the longeft and fhorteft Diameters ; to do which by the Sliding-Rule, fet the greater of the two Numbers 9 on the Girt Line, to the fame Number on the Line C ; then against the leffer Number 4, on the fame Line C, is 6 the mean Proportional fought on the Girt-Line. Now we have only the Con- tent of a Circle to find, whose Diameter is 6 Feet •, which, when found, will be the Content of the Ellipfis fought : therefore (by the iaft Problem) fet 11 on the Girt-Line D, to 95 on the Line C; then against 6 Feet on the Girt-Line D, ftands on the Line C, 28.28 Feet for the Content of the aforsaid Ellipfis.
+
+I he Reason of the Operation for finding a mean Proportional between two Numbers, as 4 and 9, is manifest from what I said in the last Use of the Property of a double and fingle
+
+Line of Numbers Hiding by one another. And from this Theorem, viz. That if there are three Numbers continually proportional (as 4, 6, and 9), the Square of the greateft (as 81) is to the greateft (9), as the Square of the middle one (6), or the Rectangle under the Extremes (which is equal to it, per Prep. 20. Lib. 7. End.) is to the leffer Extreme (4).
+
+This Use may be eafier folved at one Operation by the Lines A and B, thus •, fct 1.27 on the Line E, to the tranfverfe Axis 9 Feet, on the Line A : then against the Conjugate Axis 4, on the Line B, ftands 28.28 Eeet on the Line A, for the Content.
+
+Note, The (landing Number 1.27, is the Quotient of 14 divided by 1 1 •, also as 14 is to 11, lb is the Rectangle under the tranfverfe and conjugate Axes of any Ellipfis to it's Area j whence the Reason of this Operation is eafily manifest.
+
+SECTION II.
+
+Of ' measuring Timber.
+
+USE I. To measure Timber the common Way.
+
+Take the Length in Feet, Half-feet (and if defired), in Quarters ; then measure half-way back again, where girt the Tree with a small Cord or Chalk- Line ; double this Line twice very even, and this fourth Part of the Girt, or Circumference, which is called the Girt, measure in Inches, Halfs, and Quarters of Inches-, but the Length mull be given in Feet, and the Girt in Inches. The Dimenfions being thus taken, the Tree is to be measured as square Timber, the Girt, or ~ of the Circumference being taken for the Side of the Square, in the following manner.
+
+Always fet 12 on the Girt-Line D, to the Length in Feet on the Line C ; then against the Side of the Square, on the Girt-Line D, taken in Inches, you will find on the Line C the Content of the Tree in Feet.
+
+Example I. Suppose the Girt of a Tree, in the middle, be 60 Inches, and the Length 30 Feet, What is the Content? Set 12 on the Girt-Line D, to 30 Feet on the Line C •, then against 15, the one fourth of 60, on the Girt-Line D, is 46.8 Feet the Content on the Line C.
+
+Example II. A Piece of Timber is 15 Feet long, and -i of the Girt 42 Inches : Set 12 on the Girt- Line D, to 15 on the second Radius of the Line C; then against 42, at the Beginning of the Girt-Line D, is, on the Line C, 184 Feet, the Content fought.
+
+Example III. The Length of a Piece is 9 Inches, and a Quarter of the Girt %$ Inches, What is the Content ? Now, because the Length is not a Foot, measure it by your Line of Foot Meafure, and fee what decimal Part of a Foot it makes, which will be .75-, then fet 12 on the Girt-Line, to 75 on the first Radius of the Line C j and against 35 on the Girt-Line D, is 6.4 Feet on the Line C, for the Content.
+
+Example IV. A Rail is 18 Feet long, and the Quarter of the Girt 3 Inches : fet 12 on the Girt-Line D, to 18 on the first Radius of the Line C •, then against 30, which mult be taken for 3, on the Girt-Line D, is juft 1.12 Feet for the Content.
+
+The Reason of the Operations of this Use, is manifest from what I said about the Property of the Lines D and C, in Use VI. and this Theorem, viz. that as 144, the square Inches in a Foot, is to the Content of the Square Base of a Parallelopipedon taken in Inches ; that is, to the Square of * of the Girt : So is the Length of a Parallelopipedon taken in Feet, to the Solidity of the said Parallelopipedon in Feet.
+
+This Use may be fooner done by taking all the Dimenfions in Foot Meafure thus, count 10, 20, 30, 40, &c. on the Girt-Line to be 1, 2, 3, 4, &c. and then place 10 on the Girt-Line D (now called 1) to the Length of the Tree on the Line C, and against the Girt, in Foot Mea- fure, on the Girt-Line D, ftands the Content on the Line C.
+
+Example I. Let the Length of a Tree be, as in the first Example foregoing, viz. 30 Feet, and the Girt 60 Inches, or 5 Feet, What is the Content? Set 10 (now called 1) on the Girt- Line D, to 30 Feet on the Line C ; then against 1.25 Feer, the one fourth of the Girt, on the Girt-Line 13, ftands 46.8 Feet on the Line C, for the Content, as before.
+
+Example II. A Piece of Timber is 15 Feet long, and one fourth of the Girt is 42 Inches, or 3.5 Feet, What is the Content?
+
+Set 10 on the Girt-Line, to 15 on the first Radius of the Line C ; then against 3.5 Feet on the Girt-Line, is 184 Feet on the Line C, the Content required.
+
+Example III. A Length is 9.75 Feet, and ' of the Girt 39 Inches, or 3 Feet r *-| fet 10 on the Girt-Line to 9.75 on the Line Cj and against 3.2J Feet, on the Girt-Line J), is be- yond ico on the Line C : in this Cafe take half the Length, and then the CJntent found must be doubled, as here:
+
+Set 10 on the Girt-Line, to (half of 9.75) 4.S7 ; and then against 3.25 is 51./,' ; the double or which is 103 Feer, the Concent required.
+
+Note, If the Content of any Piece of Timber in Feet, be divided by 50, you have the Con- tent in Loads : but some will have a Load to be bur 40 fo'id Feet -, therefore you may take which of the two is molt cuitomaiv with you.
+
+USE II. To measure Round Timber the true -way.
+
+The manner of measuring Round Timber in the lad Use, being the common way, but not the true one, a? I have already laid in (peaking of the Carpenter's Rule: I shall now give you a Point on the Girt-Line D, which mud be used inftead of 12, which is 10.635, at which there ought to oe placed a little Brass Center-Pin: this 10.635 is the Side of a Square, equal to aCircie, whose Diameter is 12 Inches.
+
+Example. Let a L&lt; rigth be (as in the f cond Example of the last Use) 15 Feet, and the 1 of the Girt 42 Inches : let the said Point 10.635, t0 l 5 tne Length ; then against 42, at the Beginning of the Gut Line, is 233 Feet for the Content fought : but by the common way, there anies only 184 Feet.
+
+Note, As trie Area, or Content of a Circle (in Inches) whose Diameter is 12 Inches, is to the Length of any Cylinder in Feet ; So is the Square of of the Circumference of the Base of the Cylinder, in Indies, to tne (olid Content of the Cylinder in Feet.
+
+Also the common Meafure is to the true Meafure, as u is to 14; that is, as the Area, or Content of a Circle, to the Squire of it's Diameter; which, from hence, will be eafily mani- felt : Call the Diameter of any Circle D, and 4- the Circumference C ; then the Content of the said Circle will be equal toDxC; therefore DxC is to DxD, as 11 is to 14. But the common Meafure (because the Length of the Piece is the fame) will be to the true Meafure, as C C, the Square of the Circumference, to D&lt;C the Content of the said Circle ; whence D xC niuft be to D \ as C is to D x C; and by comparing the Rectangles under the Means and Extremes, they will be found equal •, therefore what I proposed is true.
+
+If the Girt of a Piece of Timber be taken in Feet, the oint for true Meafure is .886, or .89, which is the Side of a Square, equal to the Content of a Circle, whose Diameter is Unity And then, for the foregoing Example, the Length being 15 Feet, and [ of the Girt 42 Inches; fet the aforsaid Point 89 on the Girt-Line, to the Length 15 Feet on the Line
+
+C, (in the fir ft Radius) then against 3.5 Feet (which is 35) on the Girt-Line D, is 233 Feet on the Line C, the true Content required.
+
+USE III. To measure a Cube.
+
+Let there be a Cube whose Sides are 6 Feet ; to find the Content: fet 12 on the G'rt-Line
+
+D, to 6 on the Line C ; then against 72 Inches (the Inches in 6 Feet) on the Gin Luk D, is 216 Feet on the Line C, which is the Content required.
+
+USE IV. To measure unequal fqttared Timber ; that is, if the Breadth and Depth are not equal.
+
+Meafure the Length of the Piece, and th&lt; Breadth and Depth (at the End; in L cries ; then find a mean Proportional between the breadth and Depth of the Piece; Which n.e*n Propor- tional is the Side of a Square equal to the End of the Piece : which being found, trie iiece may be 'meafurcd as fqu are Timber.
+
+Example I. Ls t there be a Piece of Timber whose Length is 13 Feet, the Bre tdth 23 In- ches, and the Eepth 13 Inches: fet 23 on the Girt-Line D, to 23 on tne Line C ; men a- gainft 13 on the Line C, is 17.35 on the Girt-Line D for the mean Proportional. Now again ; letting 12 on the Girt Line D, to 13 Feet, the Length, on the Line C ; then against 17.35 on tne Girt-Line D, is 27 Feet the Content required.
+
+Example II. Let there be a Piece of Stone 7.4 Feet in Length, 30 Inches in Breadth, and 23 5 Deep: fet 30 Inches on the Girt-Line D, to 30 on the LineC; then against 23.5, on the Line C, is 26.5 on the Gut-Line D ; then let 12 on the Girt-Line D, to 7.4 on the Line C; and against 26.5, on the Girt Line, is 36 Feet the Content fought.
+
+USE V. To find the Content of a Piece of Timber in Form of a triangular Prifm.
+
+You mull fir ft find a mean Proportional between the Base, and half the Perpendicular of the triangular End, or between the Perpendicular and half the Base, both measured in Inches, and tiiat mean Proportional will be the Side of a Square equal to the Triangle. e
+
+Then to find the Content, fet 12 on the Girt-Line D, to the Length in Feet on the Line of Numbers C ; and against the mean Proportional on the Girt-Line D, is the Content on the Line of Numbers C.
+
+But the Dimcnfions being all taken in Foot-Meafure, and the mean Proportional found in the fame ; then let 1 on the Girt-Line, to the Length on the Line C; and against the mean Proportional in the Girt-Line, is the Content in the Line C.
+
+Example There is a Piece of Timber 19 Feet 6 Inches in Length, the Base of the Triangle at each End 21 Inches, and the Perpendicular 16 Inches : to find the Content.
+
+Set 2 1 Inches on the Girt-Line D, to 2 1 on the Line C ; then against 8 on the Line C, is 12.95 on the Line D, the mean Proportional ; then fet 12 on the Line D, to 19.5 Feet the Length, on the Line C ; and against 12.95 (the mean Proportional) on the Girt-Line D, is 22.8 Feet the Content on the Line C. Or thus, take all the Dimensions in Foot-Meafure, and then the Length 19 Feet 6 Inches, is 19.5, the Base 21 Inches, is 1.75, and the Perpen- dicular 16 Inches, is 1.33. Now fet 1 on the Girt-Line D, to the Length 19.5 on the
+
+USE VI. To measure Taper Timber,
+
+The Length being measured in Feet, note one third of it, which may be found thus : fet 3 on the Line A, to the Length on the Line B ; then against 1 on the Line A, is the third Part on the Line B : then if the Solid be round, measure the Diameter at each End in Inches, and fubftract the leifer Diameter from the greater, and add half the Difference to the lefTer Diameter, the Sum is the Diameter in the middle of the Piece ; then fet 13.54 on the Girt- Line D, to the Length on the LineC; and against the Diameter in the middle, on the Girt- Line, is a fourth Number on the Line C. Again; fet 13.54 on the Girt-Line, to the third part of the Length on the Line C : then against half the Difference on the Girt-Line, is an- other fourth Number on the Line C ; these two fourth Numbers added together, will give the Content.
+
+Example. Let the Length be 27 Feet (one third of which will be 9), the greater Diame- ter 22 Inches, and the lefTer 18, the Sum of the greater and lefTer Diameters will be 40 ; their Difference 4, half their Difference 2, which added to the lt-ffer Diameter, gives 20 Inches for the Diameter in the middle of the Piece. Now fet 13.54 on the Girt-Line D, to 27 on the LineC ; and against 20 on the Line D, is 58.9 Feet. Again, fet 13.54 °f tne Girt-Line, to 9 on the Line C ; then against 2 on the Girt-Line (reprefented by 20), is .196 Parts: therefore, by adding 58.9 Feet, to .196 Feet, the Sum is 59.096 Feet the Contenr. If all the Dimenfions are taken in Foot- Meafure, then you must add the greater and lefTer Diameters together, which in this Example make 3.33 Feet ; half of which is the Diameter in the middle of the Piece, viz. i.6j Feet, the Difference of the Diameters is 0.33 Fttx, half of which Difference is o. 1 7 Feet.
+
+Then fet 1.13 on the Girt-Line, to the Length 27 Feet on the Line C ; and against 1.67 on the Line D, is 58.9 Feet : then again, fet 1.13 on the Line D, to 9 Feet on tf Line C ; and then against 0.17 on the Line D, is 196 Parts of a Foot, and both .1 ,.ed togt .her is the Content; that is, 58.9 and .196 added, makes 59.096 Feet as Iv-fort
+
+If the Solid is square, and has the fame Dimenfions ; that is, the Length 27 Feet, the Side of the greater End 22 Inches, and the Side of the lefTer End 18 Inches, to find tl, - Content in Inch- Meafure: fet 12 on the Girt-Line, to 27 the Length of the Solid, on the Line C; and against 20 Inches, the Side of the mean Square on the Girt-Line, is 75.4 T eet. Again ; fet 12 on the Girt-Line, to 9 Feet, one third of the Length, on the Line C; and ngainft 2 Inches, half the Difference of the Sides of the Squares of the Ends, on the Girt-Lii e, is .25 Parts of a Foot; both together is ys-^5 Feet the Content of the Solid : 01 thus, When all the Dimenfions are taken in Foot- Meafure, fet 1 on the Girt-Line, to the Lengtn 27 Feet on the Line C; then against 1.67 Feet, the Side of the middle Square on the Girt-Line-, ftands 75.4 Feet ; and fetting 1 on the Girt-Line to 9 Feet, one third of che Length on the Line C, against 0.167, half the Difference of the Sides of the Squares of the Ends on the Girt-Line, is on the Line C, .25 Parts of a Foot; which added to the other, makes 75.65 Feet, as be- fore, for the Content.
+
+Note, The fixed Numbers 13.54, and 1.13 are, the first, the Diameter of a Circle whose Area, or Content is 144 ; that is, the Number of square Inches in a fuperficial Foot ; and the other, the Diameter of a Circle whose Area is Unity.
+
+USE VII. To find how many Inches in Length will make a Foot- Solid, at any Girt, being the Side of a Square not exceeding 40 Inches.
+
+Let the Girt, or Side of the Square, taken upon the Girt-Line, be fet to 1 on the Line C: then against 41.57 of the Girt-Line, is the Number of Inches on the Line C, that will make a Solid-Foot.
+
+Example. Let the Side of a Square be 8 Inches: fet 8 on the Girt-Line D, to 1 on the Line C ; then against 41.57 on the Girt-Line D, is 27 Inches for the Length of one solid Foot. To do this in Foot-Meafure ; the Side of the Square 8 Inches, in Foot- Meafure, is .66 Parts, which taken on the Girt-Line, and being fet to 1 on the Line C, against 1 on the Girt-Line, is 2.25 Feet, for the Length to make one Foot of Timber.
+
+Note, 41.57 is the Square-Root of 1728, the Number of Cubic Inches in a solid Foot.
+
+USE VIII. The Diameter of a Circle, or round Piece of Timber, being given : to find the Side of a Square within the Circle ; or to know how many Inches the Side of the Square will be, when the round Timber is squared.
+
+Rule. Set 8.5 on the Line A, to 6 on the Line B ; then against the Diameter on the Line A, is the Side of the Square on the Line B.
+
+Example. Let the Diameter be 18 Inches: fet 8.^ on A, to 6 on B ; then against 18 on A, is nion the Line B, for the Side of a Square within the Circle. The fame done in Foot- Meafure: the Diameter being 18 Inches, is in Foot-Meafure 1.5 -, then fet 1 on the Line A, to .707 on the Line B; and against the Diameter 1.5 on the Line A, is 1.7 on the Line B ; that is, 1.7 Foot is the Side of an inferibed Square in a Circle, whose Diameter is 1.5 Foot.
+
+Note, The given Numbers 8.5 and 6, or more exadler, 1 and .707, are, the one the Dia- meter of a Circle, and the other the Side of a Square inferibed in that Circle.
+
+USE IX. The Girt of a Tree, or round Piece of Timber being given ; to find the Side of
+
+a Square within.
+
+Rule. Set 10 to 9 on the Lines A and B ; then againfl the Girt on the Line A, are the Inches for the Side of the Square on the Line B.
+
+Let the Girt be 12 Inches ; fet 10 on the Line A, to 9 on the Line B ; then againfl: 12 on the Line A, is 10.8 on the Line B, for the Side of the Square. By Foot-Meafure it is thus; the Girt 12 Inches is one Foot ; then fet 10 on the Line A, to 9 on the Line B •, and againfl the ' ~t 1 Foot, on the Line A, is .89 Parts of a Foot for the Side of the Square within.
+
+Note, The Numbers 10 and 9, or 1 and .9, (hew when the Square within the Circle is i* the fourth Part of the Circumference is .9 Parts of the fame. Alfo, by this and t&gt;-e last Use, you may know, before a Piece of Timber be hewn, how many Boards or Planks of any Thicknefs it will make.
+
+USE X. The fourth Part of the Girt of a round Piece of Timber being given j to find
+
+the Side of a Square equal to it.
+
+Rule. Set 1 on the Line A, to 1.128, on the LineB j then againfl the one fourth of the Girt, on the Line A, is on the Line B, the Side of the Square equal to it.
+
+Example. Let the Girt (that is, one fourth of the whole Girt), be 16 Inches ; What is the Side of a Square equal to it? Set 1 to 1.13, on the Lines A and B ; then aga'inft 16 on the Line A, is 18 on the Line B ; which fhews, that a Square, whose Side is 18 Incncs, is equal to a Circle, whose Girt is 64 Inches, and * of it's Girt 16 Inches*
+
+USE XI. To find the Solidity of a Cone.
+
+Let the Diameter of the Base of a Cone be 12 Feet, and it's Altitude or Height, 2 a • to find the Content. & *■"+' lw
+
+This Use may be folved at one Opearation, thus ; fet 1.95 on the Girt-Li ie, to the Height of the Cone 24 on the Line C •, then againfl the Diameter oi the Base ot the Con, 12, on the Girt Line, {lands on the Line C, 904.8 Feet, for the Content.
+
+Note, 1.95 is j the Square Rpit of the Quotient of 42 divided by it : and As the Quotient
+
+Baffto the' d £lid Contend *" ' ^ °' "* ^ » S ° " ** ^ ° f the D ™™ ° f *'■
+
+USE XII. To find the Solidity of a Square Pyramid.
+
+Suppose the Side of the Base is 8 Inches, and the Height 00, fet 7 on the Girt-Line to • of the Length, viz. 10, on the Line C ; then againfl the o.Ut of the Base 8, on the Girt? Line, is 640 Inches, on the Line C, for the Solidity.
+
+USE XIII. To find the Solidity of a Sphere^ by having the Circumference given.
+
+Let the Circumference of a Sphere be 22 Inches ; to find the Content. As 2904 is to 40,
+
+So is the Cube of the Circumference of a Sphere to it's solid Content: therctbrt fefct 8
+
+the Square Root of 2904) on the Girt Line, to 49 on the Line C ; then againfl the Circum-
+
+erence 22 Inches on the Girt-Line, is a fourth Number, viz. 8.09. Ag°ain, f t ,, on Se
+
+Line B, to 22 on the Line A ; then againfl 8.09, on the Line C, Lids% 9 6 on iTlSe
+
+A, for he Content of the said Sphere in solid Inches. If the Diameter had been liven
+
+you mull have used the fixed Numbers 4.57 and 1 1, inflead of 53 . : Tnd 49, and the! have*
+
+TJiis Use may be otherwise folved at one Operation, thus : fet 7.69 on the Girt-Line D to the Circumference of the Sphere 22 Inches, on the Line C; thin Againfl 22 Inches on the G,rt-L,ne D, Hands on the Line C, the solid Content 179.6 Inch! I ?he Diameter AIT t0 \ nd T thC ^ lld 7 at ° ne °P eration ' y° u must &lt;* 1.38. on the G rt Zine to the Un"c, tne Conrcn"! '' ^ ^ ^ famc Dhm ™&gt; ° n the birt ' Line &gt; fta " " « ^
+
+a« N °£a l^ . Und x ;38 are, the one, the Square Root of the Quotient of 2904 divided bv 4&lt;?S and the other, the Square Root of the Quotient of 21, diviaed by 11; 9 * f
+
+U S E XIV. The Circumference of a Sphere being given, to find it's Superficies.
+
+USE XV. To find the Solidity of the Segment of a Sphere. Say, As 21 is to the Sine •, So is 1 1 times the Square of the said Sine, added to 33 times the Square of half the Chord, to the solid Content of the Segment. As suppose the Sine be 10 Inches, and half the Chord 16 Inches ; to find the Content: fay, As 21 is to 10; So is 9548, the Sum of 11 times the Square of 10, added to %% times the Square of 16, 10 the Content 4546.6 Inches.
+
+USE XVI. To find the Area of the Convex Superficies of the Segment of a Sphere.
+
+Say, As 14 is to 44 times the Diameter of a Sphere ; So is the Length of the Sine of any Segment thereof, to the convex Superficies of the said Segment. Suppose the Sine be 12 Inches, and the Diameter 30 ; fay, As 14 is to 1320 ; So is 12 to 1131.4 Indies, the Con- tent fought.
+
+C H A P. V. I
+
+Of the ConfiruSiion and Uses of the Plotting Scale, and an
+
+improved Protractor
+
+Tip FIE Plotting-Scale is generally made of Box- Wood, and form times of Brass, Ivory, or _j[ Silver, exactly a Foot, or half a Foot in Length, about an Inch and a half-broad, and of a convenient Thicknefs : Those that are but half a Foot long, have that Length given them, that thereby they may be put into Cafes of Instruments, Plate 4. On one Side of this Scale is placed seven several Scales of Lines, five of which are di-
+
+Fig. 1. vided into as many equal Parts as the Length of the Plotting-Scale will permit. The other
+
+two are likewise equal Parts, but have two Lines of Chords of different Lengths joined to them. The first of the equal Divisions, on the first Scale of Lines, is fubdivided into :o equal Parts, at the Beginning of which is fet the Number 10 •, fignifying, that ten of those Subdivifions make an Inch : that is, in this Cafe, every of the Divisions on the first Scae, is exactly an Inch •, at the End of the first of which, is fet o ; at the End of the second 1 ; at the End of the third 2 ; and so on to the End of the Scale. The first of the equal Di- vifions, on the second Scale of Lines, which are leffer than the Divisions on the first S&lt; aie, is likewise fubdivided into 10 equal Parts, and hath the Number 16 fet at the Beginning of it, fignifying, that 16 of those Subdivifions make an Inch, or one of the Divisions -^ of an Inch j at the End of the first of which is placed o ; at the End of the second 1 ; at the End of the third 2 : and so on to the End of the Scale. The first of the equ.i, Divisions on the third Scale of Lines, which are leffer than the Divisions of the precedent Scale's, is alio fubdivided into 10 equal Parts ; at the Beginning of which is fet the Number 20 •, fignify- ing, that 20 of those Subdivifions go to make an Inch, or that one of the Divisions is ' | or 4 of an Inch, which Divisions are marked, o, 1, 2, 3, and so on to the End of the Scale, Underftand the fame for the other four Scales, at the Beginnings of which are writ, 24, 32, 40, 48 ; only the Divisions of the two last Scales of Lines are not continued to the F'nd of the Scale, because of two Lines of Chords of different Lengths, the Beginnings of which are marked by the Letters C, C, fignifying Chords. The Conftruction of which fee in the nexc Chapter.
+
+Note, Each of the aforsaid Scales of Lines are aptly distinguished from one another, by being called Scales of 10, 16, 20, 24, 32, or 48, in an Inch; as the first Scale, is a Scale of 10 in an Inch ; the second, 16 in an Inch -, the third, 20 in an Inch ; the fourth, 24 ; and so on.
+
+Fig. 2. On the back Side of this Scale, is placed a Diagonal Scale ; the first of whose Divisions, which is half an Inch, if the Scale is a Foot long-, and one fourth, if the Scale is hut half a Foot long, is diagonally fubdivided into 100 equal Parts. Also at the other End of the Scale is another Diagonal Subdivifion of an Inch into 100 equal Parts, if the Scale is a loot long ; but if it is haif a Foot, the Subdivifion is of half an Inch into 100 equal Parts. The Figure of this Diagonal Scale, and what our Author has already said of it, in Use 8, is fuffi- cient to fliew it's Construction and Use.
+
+There is also next to the Diagonal Scale, a Foot divided into 100 equal Parts, if the Scale is a Foot long, every 10 of which are numbered 10, 20, 30, &c. There is likewise next to that the Divisions of Inches, numbered, 1,2, 3, £srV. each of which is fubdivided into ten equal Parts.
+
+Use of the Plotting-Scale.
+
+This Scale's principal l)k is to lay down Chains and Links taken in furveying Land.
+
+Chap. 4. of CoggeshallV Sliding-Ruk. 33
+
+USE I. Any Difiance being measured by your Chain, to lay it down upon Paper.
+
+Suppose, that measuring along a Hedge, or the Distance between any two Marks, or Fig. 3. Places, with your Chain, you find the Length thereof to contain 6 Chains, 50 Links. Now to take this Distance from your Scale, and lay it down upon Paper, do thus :
+
+First draw the Line A B, then place one Foot of your CompafTes upon your Scale at the Fi'Hire 6, for the 6 Chains, and extend the other Foot to 5 of the Subdivifions (which re- presents the 50 Links), then ftt this Distance upon the Line drawn from A to B, and the Line A B will contain 6 Chains, 50 Links, if you take the Distance from the Scale of 10 in
+
+But if you would have the Line fhorter, and yet to contain 6 Chains 50 Links, then take your Distance from a fmaller Scale, as of 16, 20, 24, &c. in an Inch, and then the 6 Chains, co Links, will end at C : if taken from the Scale of 16 in an InCh ; or at D, if taken from the Scale of 20 in an Inch, &c. either of which Lines will contain 6 Chains, 50 Links, and be proportional one to another, as the Scales from which they were taken. And in this manner any Number of Chains and Links may be taken from any of the Scales.
+
+U S E II. A right Line being given, to find how many Chains and Links are therein contained, according to any affigned Scale.
+
+Suppose A B was a given Line, and it is required to find how many Chains and Links are Fig. j- contained therein, according to the Scale of 10 in an Inch : Take in your CompafTes the Length of the Line A B, and applying it to the Scale of 10 in an Inch, you will find that the Extent of your CompafTes will reach from 6 of the great Divisions, to 5 of the small ones ; whence the Line A B, contains 6 Chains, 50 Links. The like must be done for any Line, and also by any of the other Scales.
+
+But note, that in laying down the Lengths of Lines by your Scales, whatfoever Scale you begin your Work with, with the fame Scale you must continue it to the End, not laying down one Line by one Scale, and another by another •, but if you would have a large Work in a little room, then use a small Scale, as of 32, 40, or 48 in an Inch. But contrariwife, if you would exprefs every small Particular, then it is beft to use the Scales of 10, or 16 in an Inch.
+
+The Use of the Lines of Chords on the Plotting-Scale, is to protracT or lay down Angles, when a ProtracTor is wanting, which is much more convenient in -laying off Angles : vide Uses of the Plain-Scale. To take off Parts from the Diagonal Scale, fee Use VIII. of our Author's.
+
+Of the Construction and Use of an improved ProtracJor.
+
+This Protractor is made of Brass, as the others commonly are, and has likewise it's Semi- Fig. 4. circular Limb divided into 180 Degrees-, there is an Index adjufted in the Center of this ProtracTor, by means of which, an Angle of any Number of Degrees and Minutes, may be protracTed : there is a Circle cut out in the Piece, whose Edge, next to the Limb, ferves for the Diameter of the Semicircle •, the Center of this Circle is in the Center of the Limb, and it is cut (loping, so that it makes the Fruflum of a Cone, the greateft Base being un- derneath. In this Circle is adjufted a Ring, to which the Ring of the End of the Index is riveted ; by which means the Index will move freely about the Limb. There is a little Steel Point fixed to the Ring, adjufted in the aforsaid Circle, the End of which terminates in the Center of the Circle ■, the End of this Point must be laid to the angular Point to be pro- trafted.
+
+The Index confiffs of two Pieces, one End of that which comes out beyond the Limb of the ProtracTor is cut flopewife, so as exacTly to fit the Edge of the Limb of the ProtracTor, which is likewise doped underneath, and is fattened to the other Piece ; by which means the Index is kept down clofe to the Limb.
+
+The Divisions on both Edges of that Part of the Index beyond the Limb, are 60 equal Parts of the Portions of Circles (pafTing thro' the Center of the ProtracTor, and two Points aifumed in the outward Edge of the Limb ©f that Piece of the Index nigheft the Center), in- tercepted by two other right Lines drawn from the Center •, so that they each make, with Lines drawn to the affumed Points from the Center, Angles of one Degree.
+
+To lay off any Number of Degrees and Minutes by this ProtracTor, you must move the Index, so that one of the Lines drawn upon the Limb, from one of the aforementioned Points, may be upon the Number of Degrees fought •, and then pricking off as many of the equal Parts on the proper Edge of the Index, as there are Minutes given, and drawing a Line from the Center, to that Point so pricked off, you will have an Angle, with the Diameter of the ProtracTor, of the proposed Number of Degrees or Minutes. The reason of this Contri- vance is from Prop. 27. Lib. 3. Eucl. where it is proved that Angles infifting upon the fame Arcs, in equal Circles, or in the fame Circle (for it is the fame thing), are equal.
+
+The Proje&ion of the Pluin-Scale.
+
+Fig. s» 6. TJ&gt; I R S T, draw a Circle A B D C, which crofs at right Angles with the Diameters A D, £/ C B -, then continue out A D to G, and upon the Point B, raife B F perpendicular to C B. Now draw the Chord AB, and divide the Quadrant A B into 9 equal Tarts, fetting the Figures 10, 20, 30, &c. to 90 to them; each of which 9 Parts again fubdivide into 10 more equal Parts, and then the Quadrant will be divided into 90 Degrees. Now fetting one Foot of your CompafTes in the Point A, transfer the said Divisions to the Chord Line A B, and fet thereto the Figures 10, 20, 30, &c. and the Line of Chords A B, will be divided, and then may be put upon your Scale, reprefented in Fig. 6. Now to project the Sines, di- vide the Arc BD into 90 Degrees, as before you did A B •, from every of which Degrees, let fall Perpendiculars on the Semidiameter E B ; which Perpendiculars will divide E B into a Line of Sines, to which you must fet 10, 20, 30, &c. beginning from the Center, and then you may transfer the Line of Sines to your Scale.
+
+Again, to project the Line of Tangents •, from the Center E, and thro' every Division of the Arc BD, draw right Lines cutting BF, which will divide it into a Line of Tangents, fetting thereto the Numbers 10, 20, 30, &c. which you must transfer to your Scale.
+
+To project the Line of Secants, transfer the Distances E 10, E 20, E 30, &c. that is, the Distance from E to 10, 20, 30, &c. on the Tangent Line, upon the Line EG, and fetting thereto the Numbers 10, 20, 30, &c. the Line EG will be divided into a Line of Secants, which must be transferred on the Scale.
+
+To project the Semi-tangents •, draw Lines from the Point C, thro' every Degree of the Quadrant A B, and they will divide the Diameter AE into a Line of Semi-tangents: but be- caufe the Semi-tangents, or Plane-Scales of a Foot in Length, run to 160 Degrees, continue out the Line A E, and draw Lines from the Point C, thro' the Degrees of the Quadrant C A, cutting the said continued Portion of A E, and you will have a Line of Half-tangents to 160 Degrees, or further, if you pleafe.
+
+Note, The Semi-tangent of any Arc, is but the Tangent of half that Arc, as will eafily ap- pear from it's manner of Projection, and Prop. 20. Lib. 3. End. where it is proved, that an Angle at the Center, is double to one at the Circumference.
+
+Moreover, to draw the Rhumb-Line ; from every 8th part of the Quadrant A C, fetting one Foot of your CompafTes in A, defcribe Arcs cutting the Chord A C, which will divide A C into a Line of whole Rhumbs, dnd in the fame Manner may theSubdivilions of half and quarter Rhumbs be made.
+
+Laftly, to project the Line of Longitude •, draw the Line HD, equal and parallel to the Radius CE, which divide into 60 equal Parts (because 60 Miles make a Degree of Longi- tude under the Equator), every 10 of which Number fet Figures to. Now from every of those Parts, let fall Perpendiculars to CE, cutting the Arc CD -, and having drawn the Chord C D, with one Foot of your CompafTes in D, transfer the Diitances from D, to each of the Points in the Arc CD, on the Chord CD, and fet thereto the Numbers 10, 20, &c. and the Line of Longitude will be divided,
+
+The Reason of this Conftruction is, that As Radius is to the Sine Complement of any La- titude, So is the Length of a Degree of Longitude under the Equator,' which is 60 Miles, to the Length of a Degree of Longitude in that Latitude.
+
+Thefe being all the Lines commonly put upon the Rulers, called Plain-Scales, excepting equal Parts ; therefore I shall proceed to fhew their manner of using in Trigonometry, and Spherical Geometry.
+
+But, by the way, note, That Plain-Scales are commonly of these two Lengths, viz. fome one foot long, and others, which are put into Cafes of Instruments, but half a foot in Length ; and on one Side is a Diagonal Scale: they are generally made of Box, and fome- times of Brass or Ivory.
+
+USE I. To make an Angle in the Point A, at the End of the Line A B, of any Number
+
+of Degrees, suppose 40.
+
+FJg. 7. Take in your CompafTes 60 Degrees from the Line of Chords, and letting one Foot in,
+
+the Point A, defcribe the Arc CB; then take 40 Degrees, which is the Number proposed, from the fame Line of Chords, and lay them off on the Arc from B to E ; draw the Line A E, and the Angle B A E will be 40 Degrees, as is manifest from the Conftruction oi the Line of Chords, and Prop. 15. Lib. 4. Eucl. which fhews that the Semidiameter of any Circle, is equal to the Side of a Hexagon inferibed in the fame Circle ; that is, to the Chord of Co Degrees.
+
+U S E II. The Angle EAB being given, to find the Quantity of Degrees it contains. Take in your Compasses 60 Degrees from the Line of Chords, and defcribe the Arc B C ; Fig. 7. then take the Extent from B to E in the Compasses ; which Extent apply on the Line of Chords, and the Quantity of the Angle will be fhewn. This Use, which is only the Re- verfe of the former, may be likewise done by the Lines of Sines and Tangents, the Method of doing which is enough manifest from Use I.
+
+USE III. The Safe of a Triangle being given 40 Leagues, the Angle A B C 3 6 Degrees, and the Angle B A C 41 Degrees ; to make the Triangle, find the Lengths of the Sides AC, C B, and also the other Angle.
+
+Draw the indefinite right Line AD, and take the Extent of 40 Leagues, from the Line Fig. 8. of Leagues, between your Compasses, which lay off upon the said Line from A to B for the Base of the Triangle •, at the Points A and B make, by Use I. the Angles ABC, BCA; the first 36 Degrees, and the last 41 Degrees, and the Triangle A C B will be formed ; then take in your Compasses the Length of the Side A C, and apply it to the fame Scale of Leagues, and you will find it's Length to be 24 Leagues. Do thus for the other Side B C, and you will find it 27 Leagues and a half j and, by Use II. the Angle AC B will be found 103 Degrees.
+
+By this Use the following Problem in Navigation may be folved, viz. Two Ports, both lying under the fame Meridian, being any Number of Miles distant from each other, suppose co, and the Pilot of a Ship, out at Sea on a certain time, finds the Bearing of one of the Ports is S W by S, and the Bearing of the other N W : the Ship's Distance from each of the Ports at that time is required ?
+
+To iblve this Problem •, draw the right Line A B equal to 3 Inches, or 3 of the largeft equal Parts on the Diagonal Scale, which is to reprefent the 30 Miles, or the Distance from one of the Ports, as A to the other B ; at the Point B make an Angle, equal to the bearing Fig. 9. of the Port B from the Ship, which must be 33 Degrees, 45 Minutes ; likewise make an- other Angle at the Point A, equal to the Bearing of the Port A from the Ship, which must be 45 Degrees, then the Point C will be the Place the Ship was in at the time of Obfervation.
+
+Now to find the Distance of the Ship from the Port A, take the Length of the Side A C in your Compasses, and applying it to the Diagonal Scale, you will find it to be 17 -,'- Miles. In the fame manner the Distance of the Ship, from the Port B, will be found 214 (Miles.
+
+Note, The Reason why the Angles A and B are equal to the Bearing of the Ship from each
+of those Ports, depends on Prop. 29. lib. 1. Eucl.
+
+USE IV. The Base A B of a Triangle being given 60 Leagues, the oppejite Angle A C B 108 Fig. 10.
+
+Degrees, and the Side C B 40 Leagues ; to make the said Triangle, and find the Length of the other Side A C.
+
+Draw the Line a b equal to A B, the given Base •, and because in any Triangle the Sines Fig. 11. of the Sides are proportionable to the Sines of the opposite Angles (as is demonftrated by Trigonometrical Writers), it follows, that As A B is to the Sine of the given Angle C, which is of 72 Degrees, viz. the Complement of 108 Degrees to 180 ; So is the given Side B C, to the Sine of the Angle CAB: therefore make be equal to the given Side BC of 40 Leagues. Take in your Compasses, upon the Line of Sines, the Sine of 72 Degrees, to which Length make b e equal, -and draw the Line a c ; likewise draw e d parallel to a c, and (by Prop. 4. lib. 6. Eucl.) bd will be the Sine of the Angle CAB, which will be found, by applying it to the Line of Sines, about 39 Degrees : therefore make an Angle at the Point A of 39 Degrees, then take in your Compasses the Length 40 Leagues, and fetting one Foot in the Point B, with the other defcribe an Arc, which will cut the Side A C in the Point C, and confequently the Triangle A B C will be made, and the Length of the Side AC will be found 34 Leagues.
+
+USE V. Concerning the Line of Rhumbs.
+
+The Use of the Line of Rhumbs is only to lay off, or measure, the Angles of a Ship's Courfe in Navigation, more expeditioufly than can be done by the Line of Chords : As suppose a Ship's Courfe is N N E, it is required to lay it down.
+
+Draw the Line AB, reprefenting the Meridian -, take 60 Degrees from the Line of Chords, Fig, 12. and about the Point A defcribe the Arc B C. Now because N N E is the third Rhumb from the North, therefore take the third Rhumb in your Compasses, on the Line of Rhumbs, and lay it off upon the Arc from BtoC; draw the Line A C, and the Angle B A C will be the Courfe.
+
+USE VI. Of the Line of Longitude.
+
+The Use of this Line is to find in what Degrees of Latitude a Degree of Longitude is i» -, 3, 4, iyc. Miles, which is eafily done by means of the Line of Chords next to it: for it is only iccing what Degree of the Line of Chords anfwers to a proposed Number of Miles, and that Degree will be the Latitude, in which a Degree of Longitude is equal to that pro- pofed
+
+- 5 l The Conjl ruction and Uses B o o k I.
+
+poled "Number of Miles. As for Example ; against 10 Miles, on the Line of Longitude, {land 80 Degrees, and fomething more ; whence, in the Latitude of about 80 Degrees, a Decree of Longitude is 10 Miles. Again, 30 Miles on the Line of Longitude, anlwers to 60 Decrees on the Line of Chords-, therefore in the Latitude of 60 Degrees, a Degree of Longitude is 30 Miles. Moreover, against 58 Miles, on the Line of Longitude, (lands 15 Deuces of the Line of Chords, which (hews that a Degree of Longitude, in the Latitude or 15 Deg. is 58 Miles ; and lb for others.
+
+USE of the Plain-Scale in Spherical Geometry.
+
+U S E I. To find the Pole of any Great Circle.
+
+If the Pole of the Primitive Circle be required, it is it's Center.
+
+If the Pole of a rbht or perpendicular Circle be fought, it is 90 Degrees distant, reckoned upon the Limb fronfthe Points, where this Circle, which is a Diameter, cuts it.
+
+If the Pole of an oblique Circle be required, &gt;
+
+(1 ) Confider that this Circle must cut the primitive in two Points, that will be distant from each other juft a Diameter, as is the Cafe of the Interferon of all great Circles.
+
+(2 ) The Pole of this Circle must be in a right Line, perpendicular to it s Plane.
+
+(3.) This Circle's Pole cannot but lie between the Center of the primitive one, and its own. . ,
+
+Fi c 1, Example. Let the Pole of the oblique Circle A B C be required,
+
+1. Draw the Diameter AC, and then another, as D E, perpendicular to it.
+
+2. Lay the Edge of your Scale from A to B, it will cut the Limb in F ; then take the
+Chord of 90 Degrees, and let it from F to h. ,.,..„. ..
+
+3. Lay the Edge of your Scale from h to A, it will cut D E in g , which Point g is the
+
+Pole required. , . _ . . . . ^. , , . .•
+
+Note, To find the Points F and b, is called reducing B to the primitive Circle and to the Diameter. Alfo, Note, that every of the primitive Circles in this Use , and the following ones, are supposed to be defcribed from 60 Degrees, taken off from the letter Line or Chords on the Scale.
+
+U S E II. To defcribe a Spherical Angle of any Number of given Degrees.
+
+1. If the angular Point be at the Center of the primitive Circle, then it :isat any plane Angle, numbering the Degrees in the Limb from the Line of Chords • for all Circles passing through the CenteT, and which are at right Angles with the Limb, must be projected into right
+
+T^f the Angle given is to be defcribed at the Periphery of the primitive Circle, draw a Diameter as AC (then take the Secant of the Angle given in your CompaiTes, and fitting one Foot in A, crofs the Diameter in e : or if no Diameter be drawn, placing one Foot in C and croffina the former Arc, you will find the fame Point e, which is the Center of the Circle ArfC, which, with the primitive Circle, makes the Angle DA a required.
+
+Note If the Ancrle given be obtuse, take the Secant of it's Supplement to 180 Degrees.
+
+2 If a Point, as%, were affigned, through which the Arc of the Circle confhtut.ng the Angle must pals, draw the Diameter A C (as before) then take the Secant of the given Angle, and fetting one Foot in A or C, ftrike an Arc as at t, and then with the Secant of the given Angle, fetting one Foot in a, crofs the other Arc in e ; which will be the Center of the ob- lique Circle required.
+
+USE III. To draw a great Circle through any tzvo Points given, as a and b, within the primitive one.
+
+Fig , 4 Draw a Diameter through that Point which is furtheft from the Center, as D R, producing it beyond the Limb if there be Occafion ; fet 90 Degrees of Chords from D or R, to O, and Then^erecT: O H perpendicular to a O, and produce it 'till it cuts the Diameter prolonged in H-, that Interferon H is a third Point, through which, as also a and b, if a Circe be drawn, it will be a great Circle, zseab g. . .
+
+Which is eafily pToved, by drawing the Lines eCg; for that Line is a Diameter, because it's Parts, multiplied into one another, are equal to a c x C H, equal to O C squared. Per Prop. 35. Ub. 3. &? Cor oil 8. lib. 6. End.
+
+USE IV. To draw a great Circle perpendicular to, or at right Angles to another. Let it pass through it's Poles, and it is done. Of which there will be four Cafes : . . ,. mf
+
+1. To draw a Circle perpendicular to the Primitive, which is done by any (trait Line paf-fing through the Center. . . . ,
+
+2. To draw a Circle perpendicular to a right Circle, is only to draw a Diameter at right
+
+Angles with that right Circle. r-.^v &lt;-\^r
+
+3 To draw an oblique Circle perpendicular to a right one 5 only draw a right Circe th-t
+
+(hall pass through both the Pole? of such a right Circle, ^^
+
+Thus the oblique Circle D C R is perpendicular to the right one O O^ because it palTes through it's Poles D and R.
+
+4. To draw an oblique Circle perpendicular to another : Plate 5.
+
+First find F, the Pole of the given oblique Circle C e B, and then draw any-how the Dia- Fig 1. meter D R : So a Circle, drawn through the three Points D, P, and R, will be the Circle re- quired •, for pafTing through the Poles of the oblique Circle C e B, it must be perpendicular to it.
+
+U S E V. To measure the Quantity of the Degrees of any Arc of a great Circle.
+
+1. If the Arc be part of the Primitive, it is measured on the Line of Chords.
+
+2. If the Arc be any part of a right Circle, the Degrees of it are measured on the Scale of Semi-Tangents, supposing the Center of the primitive Circle to be in the Beginning of the Scale ; so that if the Degrees are to be reckoned from the Center, you must account ac- cording to the Order of the Scale of Half-Tangents.
+
+But if the Degrees are to be accounted from the Periphery of the Primitive, as will often happen, then you must begin to account from the End of the Scale of Half-Tangents, calling 80, 10 -, 70, 20, &c.
+
+3. To measure any part of an oblique Circle ; first find it's Pole, and there laying the Ruler, reduce the two Extremities of the Arc required to the primitive Circle, and then measure the Distance between those Points on the Line of Chords.
+
+Thus, in the last Figure, if the Quantity of ^B, an Arc of the oblique Circle C e B be Fig. r. required, lay a Ruler to P the Pole, and reduce the Points e B to the primitive Circle ; fo shall the Distance between O and B, measured on the Line of Chords^ be the Quantity of Degrees contained in the Arc e B.
+
+USE VI. To measure any Spherical Angle.
+
+1. If the angular Point be at the Center of the primitive Circle, then the Distance between the L'-gs taken from the Limb, and measured on the Chords-, is the Quantity of the Angle fought.
+
+2. If the angular Point be at the Periphery, as ACB; here the Poles of both Circles be- Fig 2. ing in the fame Diameter, find the Pole of the oblique Circle C B O, which let be P ; then the Distance of B P, measured on the Scale of Halt-Tangents, is the Meafure of the Angle ACB.
+
+For the Poles of all Circles must be as far distant from each other, as are the Angles of the Inclinations of their Planes.
+
+But if the two Poles are not in the fame Diameter, being both found in their proper Dia- meter, reduce those Points to the primitive Circle ; and then the Distance between them there, accounted on the Line of Chords, is the Quantity of the Angle fought.
+
+When the angular Point is fomewhere within the primitive Circle, and yet not at the Fig. 3. Center, proceed thus : Suppose the Angle abC be fought; find the Pole P of the Circle a b d, and then the Pole of the Circle e b c \ after which lay a Ruler to the angular Pointj and the two Poles P and Q, and reduce them to the primitive Circle by the Points x and 2 ; So is the Arc x z, measured on the Line of Chords, the Meafure of the Angle a b C required.
+
+USE VII. To draw a Parallel Circle.
+
+t. If it be to be drawn parallel to the primitive Circle, at any given Distance, draw it from the Center of the Primitive, with the Complement of that Distance taken from the Scale of Half-Tangents.
+
+2. If it be to be drawn parallel to a right Circle ; as suppose a b y parallel to A B, was to F -
+
+be drawn at 23 Deg. 30 Min. Distance from it •, from the Line of Chords take 23 Deg. 30 ' 8 ' 4 * Min. and fet it both-ways on the Limb from A to a, and B to b (or fet it's Complement 66 Deg. 30 Min. both-ways from P the Pole of A B) to the Points a and b.
+
+Then take the Tangent of the Parallel's Distance from the Pole of the right Circle A B, which is here 66 Deg. 30 Min. and fetting one foot in a and b&gt; with the other ftrike two little Arcs, to interfecT each other fomewhere above P, which will give C, the Center of the parallel Circle a b d required.
+
+3. If it be drawn parallel to an oblique Circle, and at the Distance suppose of 40 Degrees r Fig. 5. First find P, the Pole of the oblique Circle ABC, and then measure, on the Scale of
+
+Half-Tangants, the Distance £ P, which suppose to be 34 Degrees ; then add to it 50 De- grees, the Complement of the Circle's Distance, it will make 84 Degrees ; and also fub- itracYing 50 from it, or it from 50, it will make 16 Degrees : Then this Sum and Difference taken from the Scale of Half-Tangents, and fet each way from P the Pole of the oblique Circle, will give the two Extremes a b of the Diameter, or the Points of the Interferon of the Parallel •, and then the middle Distance between a and b, is the Center of the true parallel Circle Fab, which is parallel to the given oblique Circle ABC; and at the given Distance of 40 Degrees : or the Half-Tangent of 84, fet from g, will give b ; and the Half-Tangent of 16 Degrees, fet also from g, and the Points a and b, the two Ends of the parallel Circle's Diameter will be had.
+
+L USE
+
+38 The Construction and Uses Book I.
+
+USE VIII. To measure any projecled Arc of a parallel Circle.
+
+1. If it be parallel to the Primitive, then a Ruler, laid through the Center and the Division of the Limb, will divide the Parallel into the fame Degrees, or determine, in the Limb, the Quantity of any Arc parallel to it.
+
+2. If the Circle be parallel to a right one, as a do is, in cafe the second of the last Use&gt; and it were required to measure that Arc a b, or to divide it into proper Degrees : Since that parallel Circle is 66 Deg. 30 Min. distant from P, the nearer Pole of the right Circle A B, and confequently 113 Deg. 30 Min. distant from it's other Pole; take the Half- Tangent of 113 Deg. 30 Min. or the Tangent of it's half, 56 Deg. 45 Min. and with that Distance, and on the Center of the Primitive, draw a Circle parallel to the Limb.; and di- vide that half of it, which lies towards the opposite Pole of A B, into it's Degrees: Then a Ruler laid from P, and the equal Divisions of that Semicircle, will divide a b, or measure any part thereof.
+
+3. To measure or divide the Arc of a Circle which is projected, parallel to an oblique one. As suppose the Circle a b, which is parallel to the oblique one ABC, pig. Cafe 3. of the precedent Use, and at the Distance of 40 Degrees ; this parallel Circle being 40 Degrees distant from the Plane of the Circle ABC, must be 50 Degrees distant from it's Pole, and confequently 130 Degrees from it's opposite I'ole : therefore take the Semi-Tangent of 130 Degrees, or the Tangent of it's half, 65 Degrees, and with that, as a Radius, draw a Circle parallel to the Limb of the Primitive, which Circle divide into proper Degrees ; then fLall a Ruler laid through P, and the equal Division of that Circle, cut the little Circle a b into it's proper Degrees, or truly give the Meafure of any part thereof.
+
+Thefe being molt of the general Uses of the Scales of Lines commonly put upon Plain- Scales, their particular Applications in Navigation, Spherical Trigonometry, and Aftronomy, would take up too much room •, therefore I proceed to Outlier's Scale.
+
+As for it's Use in the Projection of the Sphere, fee the UJes of I be Englifh Seffor.
+
+CHAP. VII.
+
+Of the ConJlruEiton and Uses of GunterV*5W£.
+
+Fig. 6. ^T*^ H I S Scale is commonly made of Box, and fometimes of Brass, exactly two Foot
+
+X long (though there are others but a Foot long, which are not so exact) about an Inch and -I broad, ard of a convenient Thicknefs.
+
+The Lines that are put on one Side of it are the Line of Numbers, marked on the Scale Numbers ; the Line of artificial Sines, marked Sines -, the Line of artificial Tangents, marked Tangents-, the Line of artificial verfed Sines, marked V. S. fignifying Verfed Sines ; the ar- tificial Sines of the Rhumbs, marked S. R. fignifying the Sines of the Rhumbs ; the artificial Tangents of the Rhumbs, marked T. R. fignifying Tangents of the Rhumbs ; the Meridian- Line in Mercator's Chart, marked Merid. fignifying Meridian-Line; and equal Parts, marked E. P. fignifying equal Parts.
+
+There are commonly placed on these Scales, that are but a Foot long, the Lines of Latitudes, Hours, and Inclinations of Meridians.
+
+On the Back-side of this Scale are placed all the Lines that are put upon a Plain-Scale.
+
+The Lines of artificial Sines, Tangents, and Numbers are so fitted on this Scale, that, by means of a Pair of CompaiTes, any Problem, whether in right-lined, or fpherical Trigono- metry, may be folved by them very expeditioufly, with tolerable Exactnefs ; and therefore the Contrivance of these Lines on a Scale is extremely useful in all Parts of Mathematicks that Trigonometry hath to do with ; as Navigation, Dialling, Aftronomy, &c.
+
+Construction of the Line of Numbers.
+
+The Conftruction of the Line of Numbers is thus : Having pitched upon it's Length, which, on Gunter's Scale, let be 23 Inches, take exactly half that Length, which will be the Length of either of the Radius's ; then take that half Length, and divide into 10 equal Parts, one of which diagonally fubdivide into 100 equal Parts, that is, make a Diagonal Scale of 1000 equal Parts of the aforsaid Half-Length, which may eafily be done from our Author's 8th Use.
+
+Now having drawn, on Gunter's Scale, three Parallels, for better distinguishing the Divi- fions of the Line of Numbers, and made a Mark for the Beginning of it, half an Inch from the Beginning-end of the Scale, look in a Table of Logarithms lor the Number 200, and againfl it you will find 2.301030 ; and rejecting the Characteriftick 2, and also the three last Figures 030, because the Length of the Radius is divided but into 1000 equal Parrs, take 301 of those 1000 Parts in your Compasses, and lay off that Distance from the Beginning of
+
+Chap. 7. of Gunter's-Scak.
+
+the Line, at the End of which write 2 for the first Prime; Again, to find the Division.for the second Prime, look, in the Table of Logarithms for the Number 300, and against it yoii will find 2.477121 ; and rejecting the Characteriftick 2, and the three last Figures 121, as be- fore, take 477 from your Diagonal Scale, and lay off that Distance from 1 at the Beginning, at the End of which write 3 for the fccond Prime. In this manner proceed for all the Primes of the first Radius to r, which will be the whole Length of your Diagonal Scale, or 1000 equal Parts. And because each of the Primes of the second Radius are at the fame Distance from 1, at the End of the first Radius, as the fame Primes, on the first Radius, are distant from 1 at the Beginning, the Primes on the second Radius are eafily found.
+
+The Divisions of the Tenths, between each of the Primes in both Radius's, are found thus : Look in the Table of Logarithms for 1 10, and against it you will find 2.041393, and rejecting the Characteriftick 2, and the three last Figures, there will remain 41 •, which taken from the aforsaid Diagonal Scale of 1000, will give the first Tenth in the first Prime. Again, look in the Table for 120, and against it you will find 2.07918 1 ; and by rejecting the Characteriftick, and the three last Figures, there will remain 79; which taken from the Diagonal Scale, will give the second Tenth in the first Prime. Proceed thus for .all the Tenths in the first Primes of both Radius's. And to find the Tenths in the second Primes of both Radius's, look in the Table for the Number 21c, and against it you will find 2.322219, whence rejecting as before, you will have 322, which laid off from the Beginning of the first Prime, will give the first Tenth in the second Prime. Again, to find the second Tenth in the second Prime, look for the Number 220, and against it you will find 2.342423, •whence by rejecting, as before, you will have 342 for the second Tenth, in the second Prime. In like manner may the Tenths in all the Primes of both Radius's be found.
+
+To find every two Centefms in the first Prime of the second Radius, look for the Number 102 in the Table of Logarithms, and against it you will find 2.008600, and by rejecting, as in the Table of Logarithms, and against it you will find 2.008600, and by rejecting, as at first, you will have 8 for the second Centefm. Again, look in the Table for 104, and pro- ceed as before, and you will have 17 for the third Centefm. In like manner you may have every second Centefm in the first, and also the Second Primes of the second Radius.
+
+Note, In bifecting every of the two Centefms in the first Prime, Centefms will be had. Note also, That the third, fourth, and fifth Primes, cannot be divided into every two Cen- tefms, but only into every five, because of the Smallnefs of the Divisions.
+
+Conjtruclicn of the Line of artificial Sines and Tangents.
+
+The Line of artificial Sines on Gunter's Scale, is nothing but the Logarithms of the natural Sines, translated from the Tables of artificial Sines and Tangents, almost in the fame Manner as the Logarithms of the natural Numbers were ; the Method of doing which is thus :
+
+Having drawn three Parallels under the Line of Numbers for distinguishing the Divisions of the Line, and marked a Point exactly half an Inch from the Beginning-end of the Scale, reprefenting the Beginning of the Li.ie of Sines, look in the Tables of artificial Sines and Tangents, for the Sine of 40 Minutes, which is the first Subdivision of the Line, and it will be found 8.065 776 : then rejecting the Characteriftick 8, and the three 1 last Figures 776, as in the Conftiuclion of the Line of Numbers, the 65 remaining, must be taken on the fame Scale of 1000 Parts, as ferved before for the Line of Numbers •, this 65 laid off from the Beginning of the Line of Sines, will give the Division on the Line of Sines for 40 Mii%ites. Again, To make the next Division, which is for 50 Minutes, feek in the Table for the Sine of 50 Minutes, which will be found 8.1 62681 ; then rejecting the Characteriftick 8, and the three last 1 igures 681, take the Remainder 162, from your Scale of 1000 Parts, and lay it off from the Beginning of the Line, and that will give the Division for 50 Minutes. More- over, to make the Division for 1 Degree, feek the Sine of 1 Degree, which is 8.241855, and rejecting as before, take the Remainder 241 from the Scale of 1000, and lay it off from the Beginning on the Line of Sines, which will give the Division for 1 Degree. Proceed thus for the other Degrees and Minutes to 90 •, only take notice, that when you come to 5 Degrees, 50 Minutes, the Parts to be taken off the Scale are more than 1000, and, confequently, longer than the Scale itfelf. In that Cafe you must make a Mark in the Middle of the Line of Sines ; from which lay off all the Parts found above 1000, for the Degrees and Minutes : As, to make the Division for 6 Degrees, the Sine of which is 9.019235, the Parts to be taken off the Scale will be 1019 •, therefore lay off 19 from the middle Point, reprefenting 1000, and the Division for 6 Degrees will be had. Proceed in the fame manner for the Line of artificial Tangents, 'till you come to 45 Degrees^whose Length is equal to Radius ; and the Divisions for the Degrees and Minutes above 45, which fnould go beyond 45, are fet down by their Complements to 90. For Example, the Division of 40 Degrees hath it's Complement 50 fet to it, because the proper equal Parts taken off the Scale of 1000 to make the Division, for the Tangent of 50 Deg. will be as much above 1000 (which are the equal Parts for the Tangent of 45 Degrees, to be laid off from the middle of the Line of Tangents) as the equal Parts for the Division of the Tangent of 40 Degrees wants of 1000 •, an Example of which will make it manifest: The Tangent of 40 Degrees is 9.924813, and by rejecting the Characteriftick, and the three last Figures, the Parts of 1000, viz. 924 taken from 1000, and there remains 76, which are the Parts that the Tangent of 40 Degrees is distant from the Tangent of 45 Degrees. Again, the Tangent of 50 Degrees is 10.076186, and by re- jecting the Characteriftick, and the three lalt Figures, the Parts j6 above 1000, for the Di- vifion of the Tangent of 50 Degrees, which must fall beyond 45 Degrees, are equal to the Parts that theDivision of 40 Degrees wants of 1000. Underftand the fame for the Tangent of any other Degree, or Minute, and it's Complement : the Reason of this is, becauie Radius is a mean Proportional between any Tangent and it's Complement.
+
+The Conftruction of the artificial Sines of the Rhumbs, and quarter Rhumbs, is deduced from a Confideration that the first Rhumb makes an Angle of 11 Deg. 15 Min. with the Meridian ; the second, 22 Deg. 30 Min. the third, 33 Deg. 45 Min the fourth, 45 Deg. csV. therefore to make the Division on Gunter's Scale, for the first Rhumb, take the Extent of the artificial Sine of 1 1 Deg. 15 Min. on the Scale, and lay it off upon the Line drawn to contain the Divisions of the Line of Rhumbs, and that will give the Division for the first Rhumb. Again; take the Extent, ontheLineofartificialSir.es, of the Sine of 22.30 Min. and lay it off in the fame manner as before, and you will have the second Rhumb : proceed thus for all the other Rhumbs. The Divisions for the half Rhumbs, and quarter Rhumbs, are also made in the fame manner : the Divisions of the artificial Tangents of the Rhumbs, are made in the fame manner as the Divisions of the artificial Sines of the Rhumbs, by taking the artificial Tangents of the several Angles that the Rhumbs and quarter Rhumbs make with the Meridian.
+
+The ConJlruHion of the Line of artificial verfed Sines.
+
+This Line, which begins at about 1 1 Deg. 45 Min. and runs to 180 Deg which is exactly under 90 of the Line of Sines (though on the Scale they are numbered backwards ; that is, to the verfed Sine of each 10 Degrees above 20, are fet the Numbers of their Complements to 182, for a Reason hereafter fhewn), may be thus made, by means of the Table of Sines, and the aforsaid equal Parts. Suppose the Division for the verfed Sine of 15 Degrees be to be made. Take half 15 Degrees, which will be 7'. 30" 1 ; the Sine of which doubled will be 18.231396, and by fubftracting the Radius therefrom, you will have 8.231396-, and rejec- ting the three last Figures, and the Characteriftick, there will remain 231 ; this 231 taken from your Scale of 1000, and laid off from a Point directly under the Beginning of the Line of Sines, will give the Division for the verfed Sine of 15 Degrees, at which is fet 165, viz. the Complement of 15* to i8o d . Again; to make the Division for 20 Degrees; twice the Sine of 10 Degrees (it's half) will be 18.470340 ; from which, fubftracting Radius, and re- jecting the Characteriftick, and the three last Figures, you will have 479 ; which taken from your Scale, and laid off from the Beginning of the Line, will give the Division for the verfed Sine of 20 Degrees. And in this manner may the Line of verfed Sines be divided to 180 Degrees, by obferving what I have said in the Conftruction of the Line of Sines.
+
+The Manner of projecting the L ines of Numbers, artificial Sines and Tangents., in Circles^
+
+and Spirals of any Number of Revolutions.
+
+Fig. 7. Suppose the Circle BC is to be divided into a Line of Numbers of but one Radius; first,
+
+divide the Limb into 1000 equal Parts, beginning from the Point G; then take 301 of those Parts, which suppose to be at p, and lay a Ruler from the Center A, on the said Point p y and that will cut the Periphery of the Circle B C in the Point for the Log. of 2. Again, Take 477 Parts upon the Limb, and a Ruler laid from the Center upon the laid Division, will cut the Circle BC in the Point for the Log. of the Number 3 : and thus by taking the proper Parts upon the Limb, from the Point G, which were before directed to be used in dividing this Line upon the Scale ; and laying a Ruler from the Center, may the Line of Numbers be projected upon the Circle BC. And in the fame manner may the Lines of artificial Sines and Tangents be projected, from the Sine of 5 H 45'", and Tangent of 5* 42" 1 , to the Sine of 90 1 , and the Tangent of 45', by taking (as before directed in the Conftruction of the ftraight Lines of Sines and Tangents) the Parts of 1000 for the Degrees and Minutes, and laying them off upon the Limb from the Point G, and then laying a Ruler from the Center, which will divide the Circles into Lines of Sines and Tangents.
+
+ti% t. Now to project a Line of Numbers upon the Spiral of Fig. 8. having four Revolutions, or
+
+Turns; first, divide the Limb into 1000 equal Parts, beginning from thePoint G ; then take 301, which is the Log. of the Number 2 (when the Characteriftick, and the three last Figures are rejected), and multiply it by 4, because the Spiral hath four Revolutions, and the Product is 1204: then if 204 of the Parts of 1000, be taken upon the Limb from G top, and a Ru- ler be laid from the Center A to p, it will cut the second Revolution of the Spiral in the Point for the Number 2. Again ; having multiplied 477, the Log. of the Number 3, by 4, the Product will be 1908; whence taking 908 Parts from the Point G on the Limb, to the Point q&gt; lay a Ruler from A to j, and that will cut the second Revolution of the Spiral, in the Point for the Number 3. Moreover, multiply 602 by 4, and the Product will be 2408 ; whence take 408 Parts upon the Limb from G, and laying a Ruler from A, it will cut the third Revolution of the Spiral in the Point, for the Number 4 : and in thus proceed- ing may the Spiral be divided into a Line of Numbers, whole Beginning is at the Point C, and End at the Point B. This being underftood, it will be no difficult Matter to project the Sines and Tangents in a Spiral of any Number oi Revolutions.
+
+In ufino- either the Circular or Spiral Lines of Numbers, Sines, and Tangents, there is an opening Index placed in the Center A, confiding of two Arms; the one called the ante- cedent Arm, and the other the confequent Arm ; then three Numbers, Sines, or Tangents beino- given, to find a fourth. If you move the antecedent Arm to the first, and open the othe'r Arm to the second (the two Arms keeping the fame Opening), and afterwards the an- tecedent Arm be moved to the third, the confequent Arm will fall upon the fourth re- quired.
+
+But, Note, That as many Revolutions of the Spiral as the second Term is distant from the first, so many Revolutions will the fourth Term be distant from the third.
+
+Of the Meridian Line
+
+The Meridian Line, on Gunter's Scale, is nothing but the Table of Meridional Parts in Mercator's Projection transferred on a Line, which may be done in the following Manner, by help of the Line of equal Parts fet under it, and a Table of Meridional Parts.
+
+Take any one of the large Divisions of the aforsaid Line of equal Parts, whose Length Fig. 9, let be AB, and divide it into fix equal Parts upon some Plane ; at the Points A B raife the Perpendiculars A C, BD, equal to AB, and compleat the Parallelogram A B D C ; divide the Sides AC, BD, into ten equal Parts, and the Side DC into fix, draw the Diagonals AF, 10, 20, C5V. as per Figure, and you will have a Diagonal Scale, by which any part of the aforsaid Division under 60 may readily be taken.
+
+Now to make the Divisions of the Meridian Line, look in the Table of meridional Parts for 1 Degree, and against it you will find 60 : and rejecting the last Figure, which in this Cafe is o, take fix equal Parts from the aforementioned Diagonal Scale, and lay it off on the Meridian Line, which will give the Division for one Degree. Again, to find the Division for 2 Degrees, feek in the Table of Meridional Parts, for the Parts against 2 Degrees, and they will be found 120: whence rejecting the last Figure (which always must be done), take 12 from your Scale, and lay it off from the Beginning of the Meridian Line, and the Division for 2 Degrees will be had. Moreover, to find the Division for 1 1 Degrees, you will find anfwering to it 664 ; and rejecting the last Figure, the Remainder will be 66, which must be laid off from the Beginning of the Meridian Line to have the Division for 1 1 De- grees. But because 66 cannot be taken from the Diagonal Scale, you must take only 6 from it ; and for the 60, take it's whole Length, or else lay off the 6 from the End of the first Division of the Line of equal Parts, and the Division for 1 1 Degrees will be had. In this manner may the Meridian Line be divided into Degrees, and every thirty Minutes, as it is upon the Scale.
+
+There are several other ways of dividing this Meridian Line, but let this fuffke.
+
+The Use of this Line is to project a Mercator's Chart.
+
+ProjeEIion of the Line of Latitudes and Hours.
+
+Upon the End A, of the Diameter of the Circle, erect a Line of Sines at right Angles, of Fig. 10. the Length of the Diameter ; then from the Point B, the other End of the Diameter, draw right Lines to each Degree of that Line of Sines, cutting the Quadrant A C. Now having drawn the Chord-Line A C, which is to be the Line of Latitudes, fet one Foot of your Com- passes upon the Point A, and with the other transfer the Interfections made by the Lines drawn from B, on the Quadrant, to the Chord-Line A C, by means of which it will be di- vided into a Line of Latitudes. Or the Line of Latitudes may be made by this Canon, viz. As Radius is to the Chord of 90 Deg. So is the Tangent of any Degree, to another Tangent, the natural Sine of whose Arc, taken from a Diagonal Scale of equal Parts, will give the Di- vifion, for that Degree, on the Line of Latitudes, and so for any other Degree.
+
+Again, To graduate the Line of Hours, draw the Tangent G H equal to the Diameter AB, and parallel thereto ; then divide each of the Arcs of half the Quadrants A K, KB, into three Parts, for the Degrees of every Hour from 12 to 6, which must again be each fubdivided into Halfs, Quarters, &c. then, if thro' each of the aforsaid Divisions and Sub- divifions, Lines be drawn from the Center, cutting the Tangent Line G H, they will divide the said Line into a Line of Hours.
+
+As for the Line of Inclination of Meridians, ufually put upon Scales, it is nothing but the Line of Hours numbered with Degrees inftead of Time; and the Lines of the Style's Height, and Angle of 12 and 6, fometimes put upon Scales, are made from Tables of the btyle s Height, &c. and no otherwise used.
+
+Whence the Line of Hours is but two Lines of natural Tangents to 45 Degrees, each fet together at the Center, and from thence Beginning and continued to each End of the Dia- meter, and from one End thereof, numbered with 90 Deg. to the other End ; and may other- wife be thus divided : Let A B be the Radius of a Line of Tangents, C D another Radius Fig. it; equal and parallel thereto, and C B the Diameter to either of the said Radius's, which is to be divided into a Line of Hours. Now if right Lines are drawn from the Point D, to every Degree of the Tangent-Line A B, those Lines will divide G B, half of the Line of Hours, as required \ and Lines drawn from the Point A, to every Degree of the Tangent C D, will divide the other half of C B : therefore from the similar Triangles C DF, EFB, it will be as the Radius CD is to the Tangent EB of any Arc under 45: So is CF to F B 3 that is, As Radius is to the Tangent of any Arc under ^5 Degrees, So is Radius j- theCo- Fi_. 12, tangent of the said Arc to 45 Degrees, to Radius — the said Cotangent, as in Fig. 12. As
+
+the Radius A B, to the Tangent BC of any Arc, So is AB-j-EG, to AB — EG: for call A B, r ; and B C, b ; and from th e Point C, draw C F parallel to EG, and make BD
+
+Thus having given the Conftrtiction of the Lines on Gunter's Scale, I now proceed to fhew their manner of using ; but, Note, Thefe Lines are also put upon Rulers to flide by each other, and are therefore called Sliding-Gunters, so that you may use them without Com- pafTes ; but any Perfon that understands how to use them with CompafTes, may also, by what I have said of Everard's and Coggeshall's Sliding-Rules, use them without.
+
+USE of the Li?ies of Numbers, Sines, and Tangents.
+
+USE I. The Base of a right-angled right-lined Triangle being given 30 Miles, and the opposite Angle to it 26 Degrees, to find the Length of the Hypothenufe.
+
+As the Sine of the Angle, 26 Degrees, is to the Base, 30 Miles, So is Radius to the Length of the Hypothenufe. Set one Foot of your Com partes upon the 26th Degree of the Line of Sines, and extend the other to 30 on the Line of Numbers ; the CompafTes remain- ing thus opened, fet one Foot on 90 Degrees, or the End of the Line of Sines, and caufe the other to fall on the Line of Numbers, which will give 68 Miles and about a half, for the Length of the Hypothenufe fought.
+
+USE II. 'The Base of a right-angled Triangle being given 25 Miles, and the Perpendicular 1 5, to find the jingle opposite to the Perpendicular.
+
+As the Base 25 Miles is to the Perpendicular 15 Miles, So is Radius to the Tangent of the Angle fought ; because if the Base is made Radius, the Perpendicular will be the Tan- gent of the Angle opposite to the Perpendicular. Extend your CompafTes on the Line of Numbers, from 15, the Perpendicular given, to 25, the Base given, and the fame Extent will reach the contrary way, on the Line of Tangents, from 45 Degrees, to 31 Degrees, the Angle lought.
+
+USE III. The Base of a right-angled Triangle being given, fitppofe 20 Miles, and the Angle opposite to the Perpendicular 50 Degrees, to find the Perpendicular.
+
+As Radius is to the Tangent of the given Angle 50 Degrees, So is the Base 20 Miles to the Perpendicular fought. Extend your CompafTes on the Line of Tangents, from the Tan- gent of 45 Degrees, to the Tangent of 50 Degrees, and the fame Extent will reach on the Line of Numbers the contrary way, from the given Base 20 Miles, to the required Perpen- dicular, about 23 i Miles.
+
+Note, The Reason why the Extent on the Line of Numbers was taken from 20 to 23 ~ for- wards, is, because the Tangent of 50 Degrees (as I have already mentioned in the Conftruc- tion of the Line of Tangents) fhould be as far beyond the Tangent of 45 Degrees, as it's Complement 40 Degrees wants of 45 Degrees.
+
+USE IV. The Base of a right-angled Triangle being given, suppose 25 Miles, and the Perpendicular 48 Miles; to find the Angle opposite to the Perpendicular.
+
+As the Base 35 Miles is to the Perpendicular 48 Miles, So is Radius to the Tangent of the Angle fought. Extend your CompafTes from 35, on the Line of Numbers, 1048 •, the fame Extent will reach the contrary way on the Line of Tangents, from the Tangent of 45 De- grees, to the Tangent of 36 Degrees 5 Minutes, or $?, Degrees §5 Minutes; and to know which of those Angles the Angle fought is equal to, confider that the Perpendicular of the Triangle is greater than the Base j therefore (because both the Angles opposite to the Per- pendicular and Base together make 90 Degrees) the Angle opposite to the Perpendicular will be greater than the Angle opposite to the Base, and confequently the Angle $-$ Degrees 5$ Minutes, will be the Angle fought.
+
+USE V. The Hypcthcnufe of a right-angled Spherical Triangle being given, suppose 60 Degrees, and one of the Sides 20 Degrees ; to find the Angle opposite to that Side.
+
+As the Sine of the Hypothenufe 60 Degrees is to Radius, So is the Sine of the given Side 20 Degrees, to the Sine of the Angle fought. Extend your Compasses, on the Line of Sines, from 60 Degrees to Radius, or 90 Degrees, and the fame Extent will reach on the Line of Sines the fame way, from 20 Degrees, the given Side, to 1% Degrees 10 Minutes, theQuan- tity of the Angle fought.
+
+USE VI. The Courfe and Dijlance of a Ship given ; to find the Difference of Latitude
+
+and Departure.
+
+Suppose a Ship fails from the Latitude of 50 Deg. 10 Min. North, S. S. W. 48.5 Miles ! As Radius is to the Distance failed 48.5 Miles, So is the Sine of the Courfe, which is two Points, or the second Rhumb, from the Meridian, to the Departure. Extend your Compaf- fts from S, on the artificial Sine Rhumb-Line, to 48.5 on the Line of Numbers ; the fame Extent will reach the fame way from the second Rhumb, on the Line of artificial Sines of the Rhumbs, to the Departure Westing 18.6 Miles. Again, as Radius is to the Distance failed 48-5 Miles, So is the Co-Sine of the Courfe 67 Deg. 30 Min. to the Difference of La- titude. Extend your Compares from Radius, on the Line of Sines, to 48.5 Miles on the Line of Numbers ; the fame Extent will reach the fame way, from 67 Deg. 30 Min. on the Line of Sines, to 44.8 on the Line of Numbers; which converted into Degrees, by allowing 60 Miles to a Degree, and fubftra&ed from the given North-Latitude 50 Deg. 10 Min. leaved the Remainder 49 Deg. 25 Min. the prefent Latitude.
+
+USE VII. The Difference of Latitude and Departure from the Meridian being given ; to
+
+find the Courfe and Dijlance.
+
+A Ship, from the Latitude of 59 Deg. North, fails North-Eastward 'till me has altered her Latitude 1 Deg. 10 Min. or 70 Miles, and is departed from the Meridian $7.5 Miles; to find the Courfe and Distance.
+
+As the Difference of Latitude 70 Miles is to Radius, So is the Departure 57.5 Miles to the Tangent of the Courfe 39 Deg. 20 Min. or three Points and a half from the Meridian. Extend your Compasses from the fourth Rhumb, on the Line of artificial Tangents of the Rhumbs, to 70 Miles on the Line of Numbers : the fame Extent will reach from 57.5 on the Line of Numbers, to the third Rhumb and a half on the Line of artificial Tangents of the Rhumbs. Again ; As the Sine of the Courfe 39 Deg. 20 Min. is to the Departure 57.5 Miles, So is Radius to the Distance 90.6 Miles. Extend your Compasses from the third Rhumb and a half, on the artificial Sines of the Rhumbs,, to 5J.5 Miles on the Line of Numbers, and that Extent will reach from the Sine of the eighth Rhumb, on the Sines of the Rhumbs, to 90.6 Miles on the Line of Numbers.
+
+USE of the Line of Verfed Sines.
+
+The three Sides of an oblique Spherical Triangle being given, to find the Angle opposite to
+
+the great eft Side.
+
+Suppose the Side A B be 40 Degrees, the Side B C 60 Degrees, and the Side AC 06 De- F i* 1* grees, to hnd the Angle A B C. First add the three Sides together, and from half the Sum iubftraa the greater Side AC, and note the Remainder; the Sum will be 196 Degrees, half of which is 98 Degrees ; from which fubftracling 96 Degrees, the Remainder will be two Degrees.
+
+This done, extend your Compasses from the Sine of 90 Degrees, to the Sine of the Side A B 40 'Degrees ; 2nd applying this Extent to the Sine of the other Side B C 60 Degrees you will find it to reach to a fourth Sine about 34 Degrees. Again j from this fourth Sine extend your Compasses to the Sine of half the Sum, that is, to the Sine of 72 Degrees, the Complement of 9 8 Degrees to 180, and this second Extent will reach from the Sine of the Difference 2 Degrees to the Sine of 3 Deg. 24 Min. against which, on the Verfed Sines, itands 151 Deg. 5 o Mm. which is the Quantity of the Angle fought.
+
+That the Reason of this Operation may appear, it is demonftrated in most Books of Tri- gonometry, that As Radius is to the Sine of A B, So is the Sine of B C to a fourth Sine ; a r r r u ' V° Radius ' So is the Difference of the verfed Sines of A C and
+
+• irTi ^ ed S,ne of the Complement of the Angle A B C to 180 Degrees. It
+
+is also demonftrated, that As Radius is to the Sine of half the Sum of any two Arcs, So is the bme of half their D.fterence to half the Difference of the verfed Sines of these two Arcs •whence, if the Sine of A B be called a y the Sine of B C, b, and the Sine of A C, c, the
+
+fourth Sine in the first Analogy will be had ; in faying, as r : a : : b : — . Now to get the
+
+Difference of verfed Sines of A C, and A B -J- BC, let us call the Sine of AB i " BC ~^ AC /&gt;,
+
+But, to avoid multiplying by 2, the verfed Sines on Scales are fitted from this Pro- portion, viz. As Radius is to half the Sine of an Arc, So is half the Sine of the fame Arc, to half the verfed Sine of that Arc.
+
+U S E of the Line of Latitudes and Hours.
+
+Thefe Lines are conjointly used, in readily pricking down the Hour- Lines from the Sub- ftyle, in an Ifofceles Triangle, on any kind of upright Dials, having Centers in any given Latitude; that is, by means of them there will be this Proportion worked, viz. As Radius is to the Sine of the Style's Height, So is the Tangent of the Angle at the Pole, to the Tan- gent of the Hour-Lines Distance from the Subftyle.
+
+Now suppose the Hour-Lines are to be pricked down upon an upright Declining-Plane, declining 25 Deg. Eastwards : First draw C 12 the Meridian, perpendicular to the Horizon- Fig. 14. tal Line of the Plane, and make the Angle FC 12 equal to the Subflyle's Distance from the Meridian, and draw the Line F C for the Subflyle. This being done, draw the Line B A perpendicular to the said Subftyle, passing thro' the Center C ; then out of your Line of Latitudes fet off C A, C B, each equal to the Style's Height, and fit in the Hour-Scale, so that one End being at A, the other may meet with the Subftyle Line at F.
+
+Now get the Difference between 30 Deg. 47 Min. the Inclination of Meridians, and 30 Degrees, the next Hour's Distance letter than the said 30 Deg. 47 Min. and the Difference is 47 Minutes, that is, 3 Minutes in time ; then count upon the Line of Hours,
+
+Hours. Min.
+
+You must proceed thus for the Halfs and Quarters, in getting the Difference between the Half-Hour next leffer (in this Example 22 Deg. 30 Min.) under the Arc of Inclination of Meridians; the Difference is 1 Deg. 17 Min. which in time is 33 Minutes, to be continu- ally augmented an Hour at a Time, and so be pricked off, as before was done for the whole Hours.
+
+If the Hour-Scale reach above the Plane, as at B, so that B C cannot be pricked down ; then may an Angle be made on the upper Side of the Subftyle, equal to the Angle F C A on the under Side, and thereby the Hour-Scale laid in it's due Pofition, having first found the Point F on the Subftyle.
+
+That the Reason of the conjoint Use of these Lines, in pricking off the Hour-Lines from the Subftylar-Line may appear ; let us suppose A C to be the Subftylar-Line, A the Center Fig. 15. of a Dial, B A a Portion of the Line of Latitudes, at right Angles to A C, and B C the
+
+Line of Hours fitted thereto. Now if C D be the Quantity of any Arc taken on the Line of Hours, and a right Line be drawn from the Center A through the Point D, the Angle F AC will be the fame, as that found by faying, As Radius is to the Sine of the Number of Degrees pricked off upon the Line of Latitudes (that is, to the Sine of the Style's Height), From A to B; So is the Tangent of that Number of Degrees pricked off from C to D on the Line of Hours (that is, the Tangent of the Angle at the Pole), to another Tangent,
+
+Now ro prove this, it is evident, from the Conftruction of the Line of Latitudes, that as the Ridius B C is to the Sine B G of an Arc ; So is A C to AB : whence if AC be supposed Radius, B A is the Sine of the Arc pricked down from the Line of Latitudes.
+
+Again, from the Nature of the Line of Hours ; if CD be taken for the Tangent of am Arc, B D will be the Radius thereto. This being evident, let C E be the Tangent of the Angle F A C, then the Triangles BAD, DEC, will be similar ; whence as the Radius B 1 j is to B A, the Sine of an Arc ; so is C D, the Tangent of an Arc, to E C, the Tangent of the Angle FA C.

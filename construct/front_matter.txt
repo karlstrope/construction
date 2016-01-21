@@ -1,0 +1,220 @@
+THE CONSTRUCTION AND PRINCIPAL USES OF Mathematical Instruments.
+
+Translated from the French of M. Bion, Chief Instrument-Maker to the French King.
+
+To which are added, The Construction and Uses of such Instruments as are omitted by M. Bion, particularly of those invented or improved by the English.
+
+By Edmund Stone.
+
+The whole illustrated with Thirty Folio Copper-Plates, containing the Figures, SrV. of the several Instruments.
+
+Imitetur igitur Ars Naturam, & quod ea defiderat inveniat ; quod ofiendit fequatur. Nihil enim aut Natura extremum invenerit y aut Doftrina primum : fed Rerum Principia ab In- genio profecJa funt, & Exitus Difciplina comparantur.
+
+Cicer. ad Heren. lib. iii.
+
+THE SECOND EDITION.
+
+To which is added,
+
+A SUPPLEMENT:
+
+Containing a further Account of some of the most useful Mathematical Instruments as now improved.
+
+Construction and Principal Uses of Mathematical Instruments
+
+THE CONSTRUCTION AND PRINCIPAL USES OF Mathematical Instruments.
+
+Translated from the French of
+
+M. B I O N,
+
+Chief Instrument-Maker to the French King.
+
+To which are added,
+
+The ConftruBion and Uses of such Instruments as are
+
+omitted by M. B I O N y particularly of those invented or improved
+by the English.
+
+By Edmund Stone.
+
+The whole illustrated with Thirty Folio Copper-Plates, containing the
+Figures, &c. of the several Instruments.
+
+Imitetur igitur Ars Naturam, & quod ea defiderat hiveniat ; quod ojlendit fequatur. Nihil enim aut Natura extremum invenerit, aut Doftrina primum : fed Rerum Principia ab In- genio profeSla funt, & Exitus Difciplina comparantur.
+
+Cicer. ad Heren. lib. iii.
+
+THE SECOND EDITION.
+
+
+To which is added,
+
+A SUPPLEMENT:
+
+Containing a further Account of some of the mod useful Mathematical
+
+Instruments as now improved.
+
+LONDON:
+
+HOLLAND PRESS
+
+
+
+First published in 1758
+
+and reprinted as here
+
+in 1972
+
+By The Holland Press Ltd.,
+
+112 Whitfield Street,
+
+London, WiP 6DP
+
+
+
+Printed by Redwood Press Limited,
+Trowbridge, Wiltshire using paper supplied by
+
+Frank Grunfeld Ltd., London.
+Bound by Mansell Bookbinders Ltd., London.
+
+
+
+FOREWORD
+
+
+
+'Mathematicks are now become a popular Study, and make a part of the Education of almost every Gentleman.'
+
+Thus Stone began the preface to his translation of Nicolas Bion's master-work over two hundred years ago, and thus today, but less neatly, speak our Ministers of Education, our Commissions, our Pundits and our Authorities.
+
+Nicolas Bion (165?— 1733) was a most successful, if not overly original, maker of scientific instruments. He had however the rare gift of explaining clearly to the general reader how things worked. His Traite de la Construction et Principaux Usages des Instruments de Mathematique was first published in 1709 and had run into five editions in French by 1752, it had also been published in German and, as late as 1799, the Directoire was seriously considering republishing the work.
+
+Edmund Stone (1700-1768) published his first translation of Bion in 1723, and, thanks to this and the influence of his patron, became a Fellow of the Royal Society in 1725. Stone's patron was the Duke of Argyll on whose estates his father was employed as gardener. In 1758 he published a further edition of the work in response to popular demand with A Supplement concerning a further account of some of the most useful Mathematickal Instruments as now Improved.
+
+This work gives the method of construction and the clearest possible description of the use of nearly every measuring and calculating instrument in use during the seventeenth and eighteenth centuries.
+
+Stone added several important instruments to Bion's nearly exhaustive list, for example: the description and use of the Gunter's Scale, the Plain Scale, Everard's and Coggeshall's Slide Rules, the English Sector, the Proportional Compasses, the Sea Quadrant, the English Theodolite, the Circumferentor, the Surveying Wheel or Way-Wiser, the Gunners' Callipers and Gunter's Quandrant. Other specialised authors describe one or two such instruments, but nowhere else can be found such a wide-ranging, detailed, clear and never prolix description of the instruments that served the Age of Reason.
+
+This is a book to be read together with the Voyages of Dampier and of Anson, with Robinson Crusoe, with the letters of Lord Chesterfield to his Son; it is a book that to my mind could be of great use in the class-room, to seize the imagination of the ingenious young, readily bored by arithmetic without apparent purpose; it is a book that in our Apocalyptic times would be of greater use as a manual of survival than many dealing with present day technology.
+
+In my own experience it gives clearer and simpler solutions to problems of dialling, surveying and the applied mathematics than any other work to which I have easy access.
+
+Its only disadvantage up to now has been its rarity and its price, and to that, this reprint provides the happy solution. It becomes once more a tool, a work-book that need not be kept sterilized in a library or a show-case for fear of theft or damage, it is a tool that can be used.
+
+It is obviously essential to Museums to historians and students, to collectors of mathematical instruments, to artisans and to such dealers as have the leisure and inclination to study their stock in trade from other than a mercantile point of view.
+
+PETER BROPHY
+
+
+
+11
+
+
+
+To his O R A C E,
+
+JOHN,
+
+Duke of Argyll and Greemvich, &c.
+
+Lord Steward of His Majefty's Houfliold,
+
+
+
+
+My Lord,
+
+HE Subject of the following Treatife feems of Importance enough to claim Your Grace's Patronage j and of Use enough to deferve it. It made it's first Appearance under that of his Highnefs the Duke of Orleans : and, to render it's second equally Magnificent, craves now to be introduced under that of Your Grace. Indeed, as the first Design of it's appearing in Englijh was laid in Your Grace's Family ; and as it was carried on and finifhed in the fame, it feems to have some Title to Your Grace's Countenance : It naturally feeks Protection where it found it's Birth, and lays claim to the Privileges of a Native of your Family, as well as those of a Domeftick. What I have said of my Book, holds almost equally good of myfelf. I have been, the greateft part of my Life, an humble Retainer to Your Grace. In Your Family it was, I first caught an Affection for Mathematicks ; and it was under Your Countenance, that I took occafion to Cultivate them. Your Grace therefore has a kind of Property in all I do of this kind, and it would be an Injuftice to lay it at any other Feet.
+
+ANOTHER Perfon would have here taken Occafion to expatiate on Your Grace's Character : Dedicators, Your Grace very well knows, are great Dealers in that Way ; and look on it as one of the Privileges of their Place, to praife their Patrons without Offence. Accordingly, Your Grace's Lineage would have been traced up to the earlieft Times, and the Virtues of Your Noble Anceftors drawn out to View. Your Grace's perfonal Merit, mining and confpicuous as it is, would have been fet off in it's full Light, and Your Heroick and Virtuous Atchievements painted in all their Colours. Flanders, Bavaria, Spain, and Scot/ana 1 , would have been called in, as Witneffes of Your Glory ; of Your Prudence, as a General ; and Your Bravery, as a Soldier : Nor would Your Integrity, as a Minifter ; Your Mag- nificence, as a Nobleman ; or Your Love of Liberty and Your Country, as a Pa- triot, have been omitted. For myfelf, My Lord, it is my Bufinefs rather to ad- mire than applaud You : Panegyrick is a thing out of my Province ; and Your Grace would be a fufferer by the beft Things I could fay. Were I allowed to touch on any Thing, it fhould be Your Private rather than Your Popular Cha- racter, rather as you are a Gentleman, than as a General, or a Hero. If You
+
+have
+
+
+
+The Dedication.
+
+have every thing Great and Heroick in the latter j You have all that is Beautiful
+and Amiable in the former. To enumerate every thing of this Kind vifible in your
+Grace, would be to give a detail of a whole Syftem of Virtues j and to draw your
+Picture at full, would be little less than to collect into one Piece what is Great and
+Good in a thoufand : A Work fitter for a Volume than a Dedication.
+
+M Y Zeal for Your Grace had like to have driven me beyond either my Duty or Design. It was my Refolution not to fay any thing that might look like Praife ; but I find one cannot do common Juftice to Your Grace, without running into the Appearance of it. I am fenfible there is no Topick less inoffenfive to You, than that of Your own Merit : but the Misfortune is, there is none so engaging or so copious. 'Tis pity You mould value Praife so little ; when You deferve it so much : For hence, a Perfon, who would not be Ungrateful, is under a Neceflity of be- coming Troublefome. I have reason to fear Your Grace's Refentments, for hav- ing said thus much ; and yet apprehend those of the Publick for having laid no more. If I am Delinquent on either Side, Your Grace will do me the Juftice, to believe it entirely owing to that Excefs of Devotion wherewith I am,
+
+
+
+My Lord,
+
+
+
+Tour Graces most Humble,
+
+
+
+and most Obedient Servant,
+
+
+
+Edmund Stone.
+
+The Translator's Preface
+
+ATHEMATICKS are now become a popular Study, and make a part of the Education of almost every Gentleman. Indeed, they are so useful, so entertaining and extenfive a Branch of Know- ledge, that it is no wonder they Jhould gain Ground ; and that un- common Countenance they now find, mufl be ejleemed as an Injlance of the Felicity of the Age, and the good Senfe of the People. Mathe- maticks have wherewith to gratify all Tafies, and to employ all Ta- lents. Here the greatejl Genius has room to exert his utmost Faculties, and the meanefi will not fail to find fomething on a Level with his. Their Theory, affords a noble Field for the Speculative Part of Mankind j and, their Practice, an ample Province for the Men of Action and Bufinefs.
+
+THE Majlers in Mathematicks have not been wanting in their Rejpect to the Rest of Mankind : They have frankly communicated their Knowledge to the World; and have publijhed Treatifes on every Branch of their Art : Infomuch, that a Man who has a Difpofition to this Study, will find himfelf abundantly fupplied with Helps, to what Part foever he applies himfelf There feems, then, but little wanting to Mathematicks, confidered as a Science : If there be any Defect, it is when confidered as an Art. 1 mean, Mathematicks appears more acceffible, as well as more extenfive, on the Side of their Theory than on that of their Practice. Not that the latter has been less laboured by Authors than the fo?'mer, but because a fufficient Regard does not feem to have been had to the Instruments, whereon it wholly depends.
+
+Mathematical Instruments are the Means by which those Sciences are rendered useful in the Affairs of Life. By their AJJifiance it is, that fubtile and abstract Speculation is reduced into Act. They connect, as it were, the Theory to the Practice, and turn what was bare Contemplation, to the mofi fubfiantial Uses. The Knowledge of these is the Knowledge of Practical Mathematicks : So that the De- fcripttons and Uses of Mathematical Instruments, make, perhaps, one of the mqft ferviceable Branches of Learning in the World. The Way then to render the Knowledge of Mathematicks general and diffufive, is by making that of Mathematical Inftru- ments so : With a View of which kind, our Author feems to have engaged in the follow-
+
+[ a ] ing
+
+
+
+VI
+
+
+
+The Translator's PREFACE.
+
+ing Traitife -, at least, it was from a View of this kind, that I undertook to trahftate
+it.
+
+T HE Design of the Work, however ufiful, yet feems to be New among us. Parti-
+cular Authors have indeed touched on particular Parts : One, for Inftance, having de-
+scribed the Globe j another the Sector ; and a third the Quadrant : but for a general
+Courfe, or Collection of Mathematical Instruments, / know of none that has attempted
+it. It is true, in Harris'* Lexicon, we have the Names of most of them ; and in Moxon'5 Dictionary the Figures of many : But the Accounts given of them in both are so port, lame, and deficient, that there is but little to be learned from either of them.
+
+I chofe M. BIO N'i Book for the Ground-Work of mine, as judging it better to make use of a good fafe Model provided to my Hands, than run the Rifque of pro- ceeding upon my own Bottom. The French Instruments defcribed by him, are, in the main, the fame with those used among us. Such Englifh Instruments as he has omitted, I have been careful to fupply : And throughout, have taken the Liberty not only to make up his Deficiencies, but amend his Errors.
+
+THOSE who deftre an Inventory of the Work, have it as follows :
+
+IT is divided into Eight Books, and each of these fub divided into Chapters. To the whole are prefixed Preliminary Definitions neceffary for the underftanding of what follows.
+
+IN the First Book are laid down the Construction and Principal TJfes of the most Jimple and common Instruments, as CompafTes, Ruler, Drawing- Pen, Porte-Craion, Square, Protractor. And to these I have added five other Articles, of the Carpenter's Joint-Rule, the Four-foot Gauging-Rod, Everard'j Sliding-Rule, CoggefliaU'i Slid— ing-Rule, the Plotting-Scale, an improved Protractor, the Plain-Scale, and Gunter'j Scale.
+
+THE Second Book contains the Construction and Principal Uses of the French Sector, (or Compass of Proportion) those of various Gauging-Rods. To this Book I have added the Construction and principal Uses of the Englifh Sector.
+
+THE Subject of the Third Book is very much diverfified. Under this are found the Construction and Uses of fever al curious and diverting as well as useful Instruments ; particularly CompafTes of various kinds, Parallel-Rules, the Parallelogram or Penta- graph, &c. Under this Head are also laid down several Things not eafily to be met with elsewhere : As, the Manner of arming Load-Stones ; the Composition of divers Microfcopes, with several other curious Amufements. To the first Chapter of this Book I have added the Defcriptions and Uses of the Turn-up CompafTes and Proportional CompafTes, with the Seftor-Lines upon them, as also the Manner of projecting them,
+
+IN the Fourth Book you have the Construction and Uses of the principal Instruments used in taking Plots, measuring or laying out Lands, taking Heights, Distances, accef- fible or inacceftible ; Staffs, for inftance, Fathoms [or Toifes], Chains, Surveying- CrofTes, Recipient- Angles, Theodolites, Semi-Circles, the Compass, with their Uses in Fortification. To this Book I have added three Articles of the Englifh Theodolite, Plain-Table, Circumferentor, and Surveying- Wheel. What I have there added of the Uses of those Instruments, though but Short, yet I flatter my f elf will be fowid more Iiftruclive than much larger Accounts of them in the common Books of Surveying.
+
+THE Fifth Book contains the Construction of several different kinds of Water-Levels ; with the Manner of reel if y ing and using them, for the Conveyance of Water from one Place to another. In this Book are also found the Construction a?id Uses of Instruments for Gunnery ; And to these I have added the Construction and Use of the Englifh Cal- lipers.
+
+IN
+
+
+
+The Translator's PREFACE, vii
+
+IN the Sixth Book are contained the Conjlrutfiotl and Uses of Aftronomical Infiru- ments j as the Aftronomical Quadrant, and Micrometer, with an Instrument of Mr tie la Hire'* for J hewing the Eclipfes of the Sun and Moon, and Mr Huygens'j Second Pendulum-Clock for Aftronomical Obfervations. In this is also Jloewn the Manner of making Celejiial Obfervations according to Mr de la Hire and Caffini. To this Book I have added four Chapters, containing the Defcription and general Uses of the Globes, with the manner of making them : The Defcription and Uses of the Ptole- maick and a Cdpernican Sphere, the Orrery, and a Micrometer, better than that de- fcribed by the Author, and of Gunter'j Quadrant.
+
+THE Seventh Book contains the ConJlruSlion and Uses of the Sea-Compass, the Azimuth-Compass, Sea-Quadrant, Fore-Staff, and other Instrument s for taking Alti- tudes at Sea ; as likewise the Conjlruclion and Uses of the Sinical-Quadrant, and Mer- catorV Charts.
+
+IN the Eighth Book are found the Conjlrudlions and Uses of all kinds o/* Sun-Dials, whether fixed or portable -, with the Instrument s used in drawing them ; as also a Moon-Dial, Nocturnal, &c. To this is fubjoined a Short Defcription of the principal Tools used in making Mathematical Instruments : And, lajllyj I have added, byway of Ap- pendix, the Conjlruclion of the great Eclipfe of the Sun, that will happen May the i ith,

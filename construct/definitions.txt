@@ -1,0 +1,297 @@
+
+Definitions necessary for underflanding this Treatife.
+
+^MPOl N T is that which hath no Parts, and confequently is indivifible.
+A Line is Length without Breadth, whose Original is from a
+Point
+
+There are three kinds of Lines ; viz*. Right Lines, Curve Lines,
+and Mixed Lines.
+
+A Right Line is the fhorteft of all those that can be drawn from
+one Point to another.
+
+A Curve Line is that which doth not go directly from one of its
+Extremes to the other, but winds about.
+
+A Mixed Line is that which hath one Part ftrait, and the other
+crooked.
+
+Lines compared as to their Pofitions or Situations, are either parallel, perpendicular, or
+oblique.
+
+Parallel Lines are such that always keep the fame Distance to each other, and which, if
+both ways infinitely produced, will never meet, whether they be Right Lines, or Curves.
+
+Perpendicular Lines are those that meeting, incline no more to one side than to the other ;
+and therefore they make two equal Angles, which coufequently will be Right Angles.
+
+Oblique Lines are those, which meeting one another, form oblique and unequal Angles,
+that is, acute and obtuse Angles.
+
+Moreover, Lines have other Denominations ; which are as follow :
+
+An upright, plumb, or vertical Line, is that which, if produced, would pass through the
+Center of the Earth, as the String of a fufpended Plummet.
+
+A horizontal Line, or Line of apparent Level, is a right Line that touches the Surface of
+the Earth in one Point, or which isparallel to a Tangent in that Point.
+
+A Line of true Level is that, whose Points are all equally distant from the Center of the
+Earth, as the Circumference of the fame.
+A finite Line is that whose Length is determined.
+
+B There
+
+
+There are also occult Lines, drawn with the Points of Com pedes, or more properly with a Pencil, because then they may be eafier rubbed out: Thefe Lines mult not be feen when the Work is finifhed, unlefs they are left to mow how the Operation is performed ; and then they are dotted, which is done with a .Dotting- Wheel. Fig. io. The Lines that mufb remain, and which are called apparent Lines, are drawn with Ink, put into a drawing Pen, as plain and small as poffible, by means of the Screw belonging to it.
+
+A Tangent is a Line touching a Figure, and not cutting it •, as the Line A B.
+
+A Subtenfe, or chord Line, is that which joins the Extremes of an Arc •, as the Line C D.
+
+An Arc is a Part of a Circumference ; as t\\t Arc D F E.
+
+The different kinds of Curve Lines are infinite ; but the fimpleft, mod regular, and tafiefl to draw, is a Circle.
+
+A circular Line, or the Circumference of a Circle, is a Curve •, all the Parts of which are equally distant from one Point in the middle of it, which is called the Center of the Circle.
+
+Ri«-ht Lines, drawn from the Center of a Circle to the Circumfererence, are called Radii,
+or Semidiameters •, as N O.
+
+Those Chords that pass through the Center of a Circle, are called Diameters ; as M P.
+The Circumference of every Circle is supposed to be divided .into 360 equal Parts, called
+
+Degrees.
+
+The Number 360 was chosen by Geometricians for the Division of a Circle, because it may be more exactly fubdivided into many equal Parts, without any Remainder, than any other* : as for example s half of 360 is 180, ^ is 120, ~ is 90, \ is 72, 4 is 6o, and so of other of its aliquot Parts.
+
+Every Degree is divided into 60 equal Parts, called Minutes, every Minute into 60 Se- conds, and every Second into 60 Thirds, &c. which are thus distinguished 40 s 3.5' 49" 57"' fignify forty Degrees, thirty-five Minutes, forty-nine Seconds, and fifty- seven Thirds. The aforsaid Division ferves for measuring of Angles \ but the Sub-Divisions into Seconds and Thirds are not used, unlefs in great Circumferences.
+
+The Opening of two different Lines cutting one another, or meeting in the fame Point,
+is called an Angle,
+fig. 12. When two Lines cut, or meet each other in one Point on a Plane, the Angle they make
+
+with each other, is called a plane-Angle, or a plain- Angle.
+
+When the Lines that make a plain-Angle, are ftrait Lines, the Angle is called a Right-
+lined Angle.
+Fig. 13. If the two Lines forming an Angle, are Curves, the Angle is called a Curve-lined Angle.
+
+Fig. 14. If one of the Lines is a Curve, and the other a ftrait Line, the Angle is called a Mixed-
+
+lined Angle.
+
+The two Lines that make an Angle, are called its Sides ; the Point wherein they cut or
+meet each other, being the Vertex.
+
+When an Angle is exprelTed by three Letters, that in the middle reprefents the Angle, and
+the other two the Sides.
+
+In producing or leffening the Sides of an Angle, the Quantity of the said Angle is not at all
+altered thereby -, for the Magnitude of an A ngle is not measured by the Magnitude of its Sides.
+
+The Meafure of a Right-lined Angle is the Portion of a Circle comprehended between
+its Sides, whose Vertex is the Center of "the Circle : It matters not how big the Radius of
+Fig. 15. the Circle be •, because whether the circular Arcs, comprehended between the Sides A B,
+
+A C, of the Angle be bigger or leffer, they ftill have the fame Number of Degrees.
+
+If, for example, the Arc of a small Circle be 60 Degrees, which is the fixth part of the
+whole Circumference, the Arc of a greater Circle will likewise be 60 Degrees, or the fixth
+part of the Circumference of the greater Circle, and the Angle B A C will be 60 Degrees.
+
+Every Angle is either a right, acute, or obtuse Angle,
+pjg ,5, The Meafure of a right Angle is an Arc of 90 Degrees, which is l of the Circumference
+
+of a Circle.
+Fig. 17. An acute Angle is leffer than 90 Degrees.
+
+pi„ l8&lt; An obtuse Angle is more than 90 Degrees.
+
+There can be no Angle of 180 Degrees, which is the Semi-Circumference of a Circle ;
+for two right Lines so pofited, cannot cut, but will meeat each other directly, and confe-
+quently will make but one right Line, which will be the Diameter of a Circle,
+pj- , ,. The Sine of an Angle or Arc, is half the Chord of double the fame Arc : as for example,
+
+to have the Sine of the Angle DAE, or of the Arc D E (which is the Meafure of it) by
+doubling the Arc E D, you will have the Arc E D F, whose Chord is E F, whereof E H, its
+half, is the right Sine of the Angle DAE: the Line DG is the Tangent of the fame Angle,
+and the Line A G is its Secant.
+
+Two Arcs together making a whole Circle, have the fame Chord ; for it is maniftfr,
+that the Line EF is as well the Chord of the greater Arc EBCF, as of the lelftr
+oneEDF.
+
+* Our Author Jhould have said, Leffer Number,
+
+For
+
+
+
+under/landing this Treatife.
+
+
+
+For the fame reason two Arcs, which together make a Semicircle, have but ohe right
+Sine; as the Line E H is as well the Sine of the obtuse Angle E A I, or of the Arc E B 1,
+which is its Meafure, as of the acute Angle E A D, or of the Arc E D.
+The fame may be said of Tangents and Secants.
+
+The Sine of 90 Degrees, which is the Radius or Semidiameter, as D A, is called the
+Sinus Totus.
+
+A Surface, or Superficies, is that which hath only Length and Breadth.
+There are two kinds of Surfaces, viz. Plane and Curve.
+
+A Plane Surface is that to which a right Line may be applied all manner of ways ; as the Fig. 19.
+Top of a very fmooth Table.
+
+A Curve Surface is that to which a right Line cannot be applied all manner of ways j Fig. 20,
+they are either Convex, or Concave •, as the Outfide of a Shell is Convex, and the Infide
+Concave.
+
+Term, or Bound, is that which limits any thing -, as Points are the Bounds of Lines, Lines
+the Bouncis of Surfaces, and Surfaces the Bounds of Solids.
+A Figure is that which is bounded every way.
+
+Figures that be terminated under only one Bound, are Circles, and Ellipfes, or Ovals,
+which are bounded by only one Curve Line.
+
+Figures terminated by several Bounds, or Lines, are the Triangle or Trigon, which hath Fig. 21.
+three Sides and three Angles.
+
+The Square, or Tetragon, which hath four. Fig. 22.
+
+The Pentagon, five. Fi g . 23 .
+
+The Hexagon, fix. Fig . 2+ .
+
+The Heptagon, seven.
+The Octagon, eight.
+The Nonagon, nine.
+The Decagon, ten.
+The Undecagon, eleven.
+And the Dodecagon, twelve.
+
+All the aforsaid Figures, and those having a greater Number of Sides : are called by the general Name of Polygon, which signifies Figures having many Angles •, and for distinguish- ing them, there is added the Number of Sides : as a Decagon may be called a Polygon of ten Sides ; likewise a Dodecagon is called a Polygon of twelve Sides, and so of others.
+
+Figures, whose Sides and Angles are equal (as those before-named) are called regular Polygons.
+
+Those Figures, whose Sides and Angles are unequal, are called Irregular Polygons.
+
+Triangles are distinguished by their Sides or their Angles.
+
+As to their Sides •, that Triangle which hath its three Sides equal, is called an Equilateral p,g t ^
+Triangle, and is also equiangular.
+
+That Triangle which hath only two equal Sides, is called an Ifofceles Triangle.
+
+And that which hath three unequal Sides, is called a Scalene Triangle. As to their An- gles •, a Triangle, which hath one right Angle, is called right-angled ; and the Side op- polite to the right Angle, is called the Hypothenufe.
+
+That which hath one Angle obtuse, is called an obtuse angled Triangle. That which harh all the Angles acute, is called an acute angled Triangle. Quadrilateral Figures, or Figures having four Sides, have different Appellations. It the opposite Sides are parallel, the quadrilateral Figure is called by the general name of Para'Ulogram.
+
+If a Parallelogram hath four equal Sides, and the four Angles rjght ones, it is called a Fig. 31.
+Square.
+
+If all the Sides are not equal, but the four Angles right ones, it is called an oblong, right Fig. 32.
+angled Parallelogram, or fimply a Rectangle.
+
+A right Line drawn in a Parallelogram, from one of the Angles to the opposite one, is
+called a Diagonal ; as the Line AJ3.
+
+If the four Sides be equal, and also the opposite Angles, but not right ones, it is called a Fig. 33.
+Rhombus, or Lozange.
+
+If two opposite of the four Sides are equal, and the opposite Angles also equal, but not
+right ones, the quadrilateral Figure is called a Rhomboides. Fig. 34.
+
+Also a Square is equiangular and equilateral ; an Oblong is equiangular, but not equila-
+teral ; a Rhombus is equilateral, but not equiangular :
+And a Rhombodies is neither equilateral nor equiangular.
+
+Every quadrilateral Figure, that hath neither its Oppofite Sides, Parallel, or Equal, is Fig. 35.
+called a Trapezium.
+
+A Circle is a plane Figure, comprehended under one Line, which is called its Circumfe- Fig. 36.
+rence, which is equally distant from a Point in the middle, called the Center.
+
+A Semicircle is a Figure terminated by the Diameter and the Semicircumference. Pi gi 37#
+
+A Portion, or Segment of a Circle, isa Figure comprehended by a part of the Circumfe-
+rence, and a Chord leffer than the Diameter j there is a greater and letter Segment.
+
+A Sector
+
+A Softer of a Circle is a Figure made by apart of a Circle, terminated by two Radii, or Semidiameters, which do not make a right Line •, there is a great and imall Sector.
+
+An Ellipfis is a Figure longer than it is broad, comprehended but by one Curve Line, in which the * two greateft Lines that can be drawn at right Angles to one another, are called the Axes of the Ellipfis •, the greateft of which is called the great Axis, and the leficr the lead Axis.
+
+The Center of an Ellipfis is that Point wherein the two Axes cut each other.
+
+Thole Figures that have the lame Center, are called Concentrick Figures.
+
+Excentrick Figures are those that have not the fame Center.
+
+Similar Figures are those which have their Angles equal each to each ; that is, which have each Angle of one Figure equal to the correspondent Angle in the other Figure, and have the Sides about the equal Angles proportional. As suppose the Side a b is one half, or one third of the Side A B ; then all the other Sides of the lefTcr Figure abed, will be likewise one half, or one third of the Sides of the greater Figure ABCD.
+
+The correfpondent Sides in this Figure are calied homologous Sides •, as the Side A B of the greater Figure, and the Side a b of the lefler Figure, are called homologous Sides.
+
+Equal Figures are those that equally contain an equal Number of equal Quantities.
+
+There are Figures that are fimiliar and equal.
+
+Others are equal, and not similar \
+
+And, finally, others are similar, but not equal.
+
+Ifoperimetrical Figures are those whose Circuits are equal : As, for Example, the Trian- gle ABC, and the Square ABCD, are Ifoperimetrical Figures •, becatife each Side of the Triangle being 8, its Circuit is 24, and every Side of the Square being 6, its Circuit is also 24 of those equal Parts that make the Circuit of the Triangle.
+
+Body, or a Solid, is that which hath Length, Breadth, and Thicknefs.
+
+A Sphere, Globe, or Ball, is made by the entire Revolution of a Semicircle about its Diameter, which is at Rest, and which is called the Sphere's Axis.
+
+A Spheroid is a Solid, made by the entire Revolution of a Semi-Ellipfis about its Axis re- maining at Rest.
+
+A Pyramid is a Solid contained under Several Triangular Planes meeting in one Point, and having a Polygon for its Base.
+
+A Cone is a Species of a Pyramid, having a circular Base : This Solid is made by the entire Revolution of a right-angled Triangle about one of the Sides, forming the right Angle, which Side is called the Axis of the Cone.
+
+A Cylinder is a Solid, whose Bases are two equal Circles. This Solid is generated by the
+entire Revolution of a right angled Parallelogram about one of its Sides, which is called
+the Cylinder's Axis.
+
+A Prifm is a Solid, whose two Bases are two similar, equal, and parallel Planes ; and when
+the parallel Planes are Triangles, the Prifm is called a Triangular Prifm.
+
+When the two Bases of a Prifm are Parallelograms, it is called a Parallelepipedon.
+
+If the Sides of the aforsaid Bodies are perpendicular to the Base, they are called right, or Ifofceles Solids.
+
+If they are inclined, they are called Oblique, or Scalenous Solids.
+
+A regular Body is that which is contained under regular and equal Figures, all the solid Angles of which are likewise equal.
+
+A solid Angle is the meeting of several Planes in one Point ; as the Point of a Diamond.
+
+There are required more than two Planes to conftitute a solid Angle.
+
+There are five regular Bodies reprefented in the fame Plate, together with the Unfoldings of their Planes, viz.
+
+The Tetrahedron, contained under four equal and equilateral Triangles.
+
+The Hexahedron, or Cube, contained under fix equal Squares.
+
+The Octahedron is contained under eight equal and equilateral Triangles.
+
+The Dodecahedron, contained under twelve equilateral and equal Pentagons.
+
+The Icofahedron, contained under twenty equal and equilateral Triangles.
+
+The Unfoldings nigh to each of the aforenamed regular Bodies, fhew how to draw them on Brass or Pafteboard, in order to cut them out ; which when done, if they are duly folded up, there will be formed the regular Bodies.
+
+All other Solids are called by the general Name of Polyhedron, which Signifies a Body terminated by many Superficies.
+
+If in the following Work, Terms be used that are not here defined, they shall be defined and explained in their proper Places.
+
+* Our Author fhould havt said, the greateft and least Lines. tther of mint in tie Apptndix that I have added.

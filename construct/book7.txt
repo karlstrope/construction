@@ -1,0 +1,310 @@
+
+The ConftruSiion and Uses Book VII.
+
+Of the Conftru&ion and Uses of Instruments for Navigation.
+
+CHAP. I.
+
+Cy /^ ConflruElion and Use of the Sea-Compass&gt; and Azimuth Compass*
+
+SECTION I.
+
+HE first Figure fhews the Compass Card, whose Limb reprefents the Horizon of the World. It is divided into four times 90 Degrees, and very often but into 32 equal Parts; for the 32 Points, whereof the four principal Points, which are called Cardinal ones, crofs each other at Risht Angles, viz. the North, distinguished by the Flower- de -Luce, the South opposite thereto, and the East and West. Now if each of these Quarters be bifected, we shall have the eight Rhumbs. Again, Bifecting each of these last Spaces, we mall have the eight Semi-Rhumbs. And lastly, Bifecting each of these last Parts, we shall have the fixteen Quarter-Rhumbs. The four Collateral Rhumbs take their Name from the four Piincipal Rhumbs, each afluming the two Names of those that are nigheft them : as, the Rhumb in the Middle, between the North and the East, is called North-East ; that between the South and the East, is called South-East ; that between the South and the West, is called' South- West ; and that in the Middle between the North and the West, is called North- West.
+
+Also every of the eight Semi-Rhumbs afiumes it's Name from the two Rhumbs that be nigheft it ; as that between the North and North-East, is called North North-East ; that be- tween the East and North-East, is called East North-East ; that between the East and South- East, is called East South-East •, and so of others.
+
+Finally, Each of the Quarter-Rhumbs has it's Name compofed of the Rhumbs or Semi- Rhumbs which are nigheft to it, in adding the Word one-fourth after the Name of the Rhumb neaRest to it. For Example; The Quarter-Rhumb neaRest to the North, and next to the North-East, is called North one-fourth North-East ; that which is neaRest the North- East towards the North, is called North-East, one-fourth North ; and so of others, as they appear abbreviated round the Card. Each Quarter-Rhumb contains 11 Deg. 15 Min. the Semi-Rhumbs 22 Deg. 30 Min. and the whole Rhumbs 45 Deg.
+
+The Infide of this Card, which is supposed double, is likewise divided into 32 equal Parts, by a like Number of Radii, denoting the 32 Points, and the Middle thereof, which is glewed upon a Pafteboard, hath a free Motion upon it's Pivot, that so it may be used when the Declination or Variation of the Needle is found. Note, The Outfide of this Card is placed
+
+upon the Limb of the Box.
+
+The second Figure reprefents a piece of Steel in form of a Rhumbus, which ferves for the Needle, and is fattened under the moveable Card with two little Pins, so that one of the ends of the 'longeft Diameter of the said Rhumbs be precifely under the Flower-de-luce. This piece of Steel must be touched by a good Load-ftone ; so that one end may direct itfelf to- wards the North part of the World. The manner of doing which, we have already ftiewn in fpeaking of the Load-ftone, and the Compass. Note, It is not so well to glew the said Needle under the Card, as some do, as otherwise to faften it ; because that caufes a Ruft very contrary to the magnetick Virtue.
+
+The little Figure B, in the middle of the Rhumbus, which is called the Cap of the Needle* is made of Brais, and hollowed into a Conical Form. This Cap is applied to the Center of the Card, and is fattened thereto with Glew.
+
+The third Figure reprefents the whole Compass, whereof A is a round wooden Box, about fix or seven Inches Diameter, and four deep ; (we fometimes make these Boxes square) hb and cc are two Brass Hoops, the greater of which being b b, is fattened to the Sides of the Box at the opposite Places B B. The other Hoop c C is fattened by two other Pivots, at the Places CC, diametrically opposite to the Hoop bb ; and these two Pivots go into Holes made towards the top of another kind of wooden Box, in which the Card is put. And by this means, this last Box, and the two Hoops will, have a very free Motion •, so that when the &lt;*reat Box A is placed flat in a Ship, the letter Box will be always horizontal, and in equili- bria, notwithttanding the Motion of the Ship. In the middle of the Bottom of this last Box, is placed a very ftrait and well pointed brafs Pivot, on which is placed the Cap B of the Card, which Card having a very free Motion, the Flower-de-luce will turn towards the North, and all the other Points towards the other correfpondent Parts of the World. Finally, the Card is covered with a Glass, that so the Wind may have no power on it.
+
+Use of the* Sea-Con, pass.
+
+The Courfe that a Ship must take to fail to a proposed Place, being known by a Sea- Chart, and the Compass placed in the Pilot's Room, so as the two parallel Sides of the square Box to be fixed according to the length of the Ship, that is, parallel to a Line drawn from the Poop to the Prow ; make aCrofs, or other Mark, upon the middle of that Sid'- of the square Box perpendicular to the Ship's length, and the most distant from the Po^p, that so the Stern of the Ship by this means may be directed accordingly.
+
+Example. Departing from the Ifland of Ufhant, upon the Confines of Britany, we defire to fail towards Cape Finijlerre in Galicia. Now in order to do this, we must first fcek (according to the manner hereafter directed) in a Mercator's Chart, the Direction or Courfe of the Ship leading to that Place ; and this we find is between the South- West and the South South-West; 5 that is, the Ship's Courfe must be South- West, one-fourth to the South. Therefore having a fair Wind, turn the Stern of the Ship, so that a Line tending from the South- '- /eft, one-fourth South, exactly anfwers to the Crofs marked upon the middle of the Side of the square Box ; and then we mall have our Defire. And by this means, which is really admirable, we may direct a Ship's Courfe as well in the Night as in the Day, as well being fhut up in a Room in the Ship, as in the open Air, and as well in cloudy Weather as fair ; so that we may al- ways know whether the Ship goes out of her proper Direction.
+
+Of the Variation or Declination of the Needle. It is found by experience, that the touched Needle varies from the true North, that is, the Flower-de-luce does not exactly tend to the North part of the World, but varies there- from, fometimes towards the East, fometimes towards the West, more or less, according to different Times, and at different Places.
+
+About the Year 1 665, the Needle at Paris did not decline or vary at all •, whereas now its Variation is there above 12 Degrees North- weftwardly, Therefore every time a favourable Opportunity offers, you must endeavour to obferve carefully the Variation of the Needle, that so refpect thereto may be had in the fteering of Ships. If, for example, the Variation of the Needle in the Ifland of UJhant, which was the supposed Place of Departure in the abovementioned Example, was 10 Degrees; and if the Ship fhould exactly keep the Courfe of South- West, one- fourth to the South, inftead of arriving at the Cape Finijlerre, it would to another Country 10 Degrees more to the East.
+
+Now to remedy this, you need only remove the Crofs, upon the Side of the Box, fhewing the Rhumb of Direction, more eafterly by the Quantity of the D6grees of the Needle's Va- riation weftwardly ; and so as often as a new Declination or Variation of the Needle be found, the place of the said Crofs must be altered. Note, When the Box is quite round, a Mark must be made against the North and South on the Body of the said Box.
+
+If like wife a VelTel departs from the Sorlings in England, in order to fail to the Ifland of Madeira, you will find by a Sea-Chart that her Courfe must be South South- West ; but if at the fame time the Variation of the Needle be fix Degrees North Easterly, the the Crofs denoted upon the Edge of the Compass must be removed fix Degrees towards the West, in order to direct the Ship according to her true Courfe found in the Chart,
+
+But if a Sea-Compass be used, wherein the Pofition of the Needle may be altered, as that which hath a double Card, the Flower-de-luce of the Card mud be fixed, lb that its Point may fhew the true North ; and then you will have it to alter every time there is a new Varia- tion observed. Now in this Cafe the Crofs upon the Edge of the Compass must not be altered.
+
+It is very necefiary, and principally in long Courfes, for Seamen to make Celeftial Ob- fervations often, in order to have the Variation of the Needle exactly, that the Direction of the VefTel may thereby be truly had, as likewise that they may know where they are, after having efcaped a great Storm, during which they were obliged to leave the true Courfe, and let the Vessel run according as the Wind or Currents drove her.
+
+SECTION II.
+
+Of the Azimuth Compass.
+
+Fig. 4. This Compass is fomething different from the common Sea-Compass before fpoken of.
+
+For upon the round Box, wherein is the Card, is faftened a broad brafs Circle A B, one Semi-circle whereof is divided into 90 equal Parts or Degrees, numbered from the middle of the said Divisions both ways, with 10, 20, &c. to 45 Degrees; which Degrees are also divided into Minutes by Diagonal Lines and Circles : But these graduating Lines are drawn from the opposite part of the Circle, viz. from the Point b, wherein the Index turns in time of Obfervation.
+
+b c is that Index moveable about the Point b, having a Sight ba erected thereon, which moves with a Hinge, that so it may be raifed or laid down, according to necefiity. From the upper part of this Sight, down to the middle of the Index, is faftened a fine Hypothe- nufal Lute- firing, or Thread d e&gt; to give a Shadow upon a Line that is in the middle of the said Index.
+
+Note, The reason of making the Index move on a Pin faftened in b, is, that the Degrees and Divisions may be larger; for now they are as large again as they would have been, if they had been divided from the Center, and the Index made to move thereon.
+
+The abovenamed broad brafs Circle A B, is crofted at Right Angles with two Threads, and from the ends of these Threads are drawn four small black Lines on the In side of the round Box ; also there are four Right Lines drawn at Right Angles to each other on the Card.
+
+This round Box, thus fitted with its Card, graduated Circle, and Index, &c. is to be
+hung in the brafs Hoops BB-, and these Hoops are faftened to the great square wooden
+Box C C.
+
+The life of the Azimuth Compass in finding the Sun's Magnetic al Azimuth or Amplitude, and
+
+from thence the Variation of the Compass.
+
+There are several ways of finding the Variation of the Needle, as by the rifing and fet- ting of the fame Star, or by the Obfervation of two equal Altitudes of the Star above the Horizon, since the said Star, at each of those Times, will be equally distant from the true Meridian of the World ; or else by a Star's passage over the Meridian.
+
+Buc these Methods are not much used at Sea: First, because the Time wherein the Sun, or a Star, passes over the Meridian, cannot be known precifely enough ; for there is a great deal of Time taken in making Obfervations of the Sun's Altitudes, 'till he is found to have the greateft, that is, his Meridian Altitude.
+
+Secondly, Because the Sun's Declination may be considerably altered, and also the Ship's Latitude between the Times of the two Obfervations of his equal Altitudes above the Ho- rizon, Morning and Evening, or of his Rifing and Setting.
+
+Therefore the Variation of the Compass may much better be found by one Obfervation of the Sun's magnetical Amplitude, or Azimuth. But the Sun's Declination, and the La- titude of the Place the Ship is in, must be known, that so his true Amplitude may be had ; his Altitude must also be given, when the magnetick Azimuth is taken, that so his true Azimuth may be had at that Time also.
+
+Now if the Obfervation be for an Amplitude at Sun-rifing, or an Azimuth before Noon, you must put the Center of the Index be upon the West Point of the Card within the Box, so that the four Lines on the Edge of the Card, and the four Lines on the Infide of the Box, may agree or come together. But if the Obfervation be for the Sun's Amplitude, Setting, or an Azimuth in the Afternoon, then you must turn the Center of the Index right-against the East Point of the Card, and make the Lines within the Box concur with these on the Card. Having thus fitted the Instrument for Obfervation, turn the Index be towards the Sun, 'till the Shadow of the Thread de falls directly upon the Hit of the Sight, and upon the Line that is along the middle of the Index ; then will the inner Edge of the Index cut the Degree and Minute of the Sun's magnetical Azimuth, from the North or South.
+
+But note, that if the Compass being thus placed, the Azimuth be less than 45 Deg. from the South, and the Index be turned towards the Sun, it will then pass off the Divisions of the Limb, and so they become ufelefs as it now Hands : therefore you must turn the Inftru- ment juft a Quarter of the Compass, that is, place the Center of the Index on the North or South Point ot the Card, according as the Sun is from you, and then the Edge thereof will cut the Degree of the Magnetick Azimuth, or Sun's Azimuth from the North, as before.
+
+The Sun's Magnetical Amplitude (that is, the Distance from the East or West Points of the Compass, to that Point in the Horizon whereat the Sun rifes or fets), being observed by this Instrument, the Variation of the Compass may be thus found.
+
+Example. Being out at Sea the 15th Day of May, in the Year 1715, in 45 Degrees of North Latitude, I find from Tables that the Sun's Declination is 19 Deg. North, and his East Amplitude 27 Deg. 25 Min. North. Now I oblerve by the Azimuth Compass, the Sun's Magnetical Amplitude at his rifing and fetting, and find that he rifes between the 6id and 63d Deg. reckoning from the North towards the East part of the Compass, that is, be- tween the 27th and 28th Degrees from the East ; and since in this Cafe the magnetical Am- plitude is equal to the true Amplitude, I conclude that at this Place and Time, the Needle has no Variation.
+
+But if the Sun at his rifing mould have appeared between the 52d and 53d Degrees from the North towards the East, his magnetical Amplitude would then be between %j and 38 Degrees, that is, about 10 Dgrees greater than the true Amplitude: and therefore the Needle would vary about 10 Degrees Nortn- - afterly. If, on the contrary, the magnetical East Amplitude found by the Instrument fhould be less than the true Amplitude, their Dif- ference would mew that the Variation of the Needle is North-Easterly. For if the magne- tical Amplitude be greater than the true Amplitude, this proceeds from hence, that the East part of the Compass is drawn back from the Sun towards the South, and the Flower-de-luce of the Card approaches to the East, and so gives the Variation North-Easterly. The rcafon for the contrary of this is equally evident.
+
+If the true East Amplitude be Southwardly, as likewise the magnetical Amplitude, and this la ft be the greater ; then the Variation of the Needle will be Ivorth West ; and if, on the contrary, the magnetical Amplitude.be less than the true Amplitude, the Variation of the Needle will be North-Easterly, as many Degrees as ate contained in their Difference.
+
+What we have said concerning North- East Amplitudes, must be undcrftood of South- West Amplitudes, and what we have said of South- East Amplitudes, must be undcrftood of North- West Amplitudes.
+
+finally, If Amplitudes are found of different Denominations ; for Example, when Am- plitudes are East, if the true Amplitude be 6 Deg. North, and the magnetical Amplitude 5 Deg. South •, then the Variation, which in this Cafe is North- West, will be greater than the true Amplitude, it being equal to the Sum of the magnetical and true Amplitudes : and so adding them together, we mail have 1 1 Degrees of North- West Variation. Underftand the fame for West Amplitudes.
+
+The Variation of the Compass may likewise be found by the Azimuth ; but then the Sun's Declination, the Latitude of the Place, and his Altitude must be had, that so his true Azi- muth may be found.
+
+CHAP. II.
+
+Of the ConftruSiion and Use of Instrument s for taking the Alti- tudes of the Sun or Stars at Sea.
+
+Of the Sea- Aftrolabe.
+
+THE most common Instrument for taking of Altitudes at Sea is the Aftrolabe, which Fig&gt;5 ; confifts of a brafs Circle, about one Foot in Diameter, and fix or seven Lines in Thick- nefs, that so it may be pretty weighty : there is fometimes likewise a Weight of fix or seven Pounds hung to this Instrument at the Place B, that so when the. Aftrolabe is fufpended by it's Ring A, which ought to be very moveable, the said Instrument may turn any way, and keep a perpendicular Situation during the Motion of the Ship.
+
+The Limb of this Instrument is divided into four times 90 Degrees, and very often into halves, and fourths of Degrees.
+
+It is ahfolutely neceffary, that the Right Line C D, which reprefents the Horizon, be perfectly level, that so the beginning of the Divisions of the Limb of the Instrument may be made therefrom. Now to examine whether this be so or no, you must obferve lome distant Object thro' the Slits or little Holes of the Sights F and G, fattened near the Ends of the Index, freely turning about the Center E, by means of a turned-headed Rivet : I
+
+fay, you must obferve the said distant Objects, in placing the Eye to one of the said Sights for Exurrtple, toG: then if the Aftrolabe be turned about, and the fame Object apoears thro' the other Sight F, without moving the Index, it is a fign the Fiducial Line of the Index is horizontal. But if at the second time of Obfervation, the Index must be raifed or lowered before the Object be efpied thro' the Sights, then the middle Point between the two Pofitions will fhew the true horizontal Line pafTing thro' the Center of the Instrument, which must be verified by several repeated Obfervations, before the Divisions of the Limb are begun to be made, in the Manner as we have elsewhere explained.
+
+Use of the Aftrolabe.
+
+The Use of this Instrument is for obferving the Sun or Stars Altitude above the Hori- zon, or their Zenith Distance. The Manner of effecting which, is thus : Holding the Aftrolabe fufpended by it's Ring, and turning it's Side towards the Sun, move the Index 'till the Sun's Rays pals thro' the Sights F and G ; then the Extremes of the Index will give the Altitude of the Sun in H, upon the divided Limb, from C to F, comprehended between the horizontal Radius EC and the Rays EF of the Sun, because the Instrument in this Situation reprefents a Vertical Circle. Now the Divisions of the Arcs BGor AF, fhew the Sun's Zenith Distance.
+
+The Conjlrufiion of the Ring.
+
+Fig. 6. This Figure reprefents a brafs Ring or Circle, about 9 Inches in Diameter, which it is ne-
+
+cefiary fhould be pretty thick ; that so being weighty, it may keep it's perpendicular Situ- ation better than when it is not so heavy, having the Divisions denoted on the Concave Sur- face thereof. The little Hole C, made thro' the Ring, is 45 Degrees distant from the Point of Sufpenfion B, and is the Center of the Quadrant DE, divided into 90 Degrees, one of whose Radius's C E, is parallel to the Vertical Diameter B H of the Ring, and the other horizontal Radius C D, is perpendicular to the said Vertical Diameter.
+
+Now having found the said horizontal Radius C D very exactly, by fufpending the Ring, &V. Radius's must be drawn from the Center C, to each Degree of the Quadrant D E, and upon the Points wherein the said Radius's cut the Concave Surface of the Ring, the corre- fpondent Numbers of the Degrees of the Quadrant must be graved •, and so the Concave Surface of the Ring, will be divided from F to G. This Divisioning may be first made feparately upon a Plane, and afterwards transferred upon the Concave Surface of the Ring.
+
+This Instrument is reckoned better than the Aftrolabe, because the Divisions of the Degrees upon the Concave Surface are larger in proportion to it's bigness, than those on the Aftrolabe.
+
+The Use of the Ring.
+
+When this Instrument is to be used, you must fufpend it by the Swivel B, and turn it to- wards the Sun A ; so that it's Rays may pass thro' the Hole C. This being done, the little Spot will fall between the horizontal Line C F, and vertical Line CG, upon the Degrees of the Sun's Altitude on the Infide of the Ring, reckoned from F to I.
+
+Of the Quadrant.
+
+Fig. 7. The Instrument of Figure 7, is a Quadrant about one Foot Radius, having it's Limb di-
+
+vided into 90 Degrees, and very often each Degree into every 5th Minute by Diagonals. There are two Sights fixed upon one of the Sides A E, and the Thread to which the Plum- met is faftened, is fixed in the Center A. I shall not here mention the Conftruction of this Instrument, because we have fufficiently fpoken thereof in Chap. V. Book IV.
+
+Now to use this Instrument, you must turn it towards the Sun D, in such manner that it's Rays may pass thro' the Sights A and E, and then the Thread will fall upon the Degrees of the Sun's Altitude on the Limb, in the Point C, reckoned from B to C, and the Com- plement of his Altitude reckoned from E to C.
+
+Of the Fore-Staff, or Crofs-Staff.
+
+Fig. 8. This Instrument confifts of a ftrait square graduated Staff A B, between two and three
+
+Foot in length, and four Crofles or Vanes FF, E E, D D, C C, which flide ftiffly thereon. The first and fhorteft of these Vanes FF, is called the Ten-crofs or Vane, and belongs to that Side of the Staff whereon the Divisions begin at about 3 Degrees from the End A, (whereat the Eye is placed in time of Obfervation) to 10 Degrees. Note, Sometimes the Thirty-crofs E F is so made, as that the Breadth thereof ferves inftead of this Ten-crofs.
+
+The next longer Vane E E, is called the Thirty-crofs, and belongs to that Side of the Staff, whereon the Divisions begin at 10 Degrees, and end at 30 Degrees, and this is called the Thirty-side : Half the Length of the Thirty-vane will reach on this Thirty-side, from 30 Deg. to 23 Deg. 52 Min. and the whole Length from 30 Deg. to 19 Deg. 47 Min.
+
+The next longer Vane DD, is called the Sixty-crofs, and belongs to that Side of the Staff whereon the Divisions begin at 20 Deg. and end at 6oDeg. and is called the Sixty-side. The length of this Crofs will reach on this Sixty-side, from 60 Deg. to 3a Deg.
+
+The longeft Crofs CC, is called the Ninety-crofs, and belongs to that Side whereon the Divisions begin at 30 Degrees, and end at 90 Degrees, and is called the Ninety-side of the Staff: the Degrees on the feverai Sides of the Staff, are numbered with their Complements to go Degrees in final 1 Figures.
+
+This Staff may be graduated Geometrically thus : Upon a Table, or on a large Paper Fig. 9. parted fmoothly upon some Plane, draw the Line FG, the length of the Staff to be gradua- ted, and on F and G raife the Perpendiculars FC and GD; upon which lay off the Length you intend for the half Length of one of the four Croffes, from F to C, and G to D, and draw the Line C D reprefenting the Staff to be graduated. This being done, about the Center F, with the Semidiarneter FG or C D, defenbe an eighth part of a Circle, which divide into 90 equal Parts. Then if Right Lines be drawn from the Point F, to each of the aforsaid Divisions, these Lines will divide the Line CD, as the Staff ought to be graduated.
+
+But if this Staff is to be graduated by the Table of natural Tangents, you muff firfl obferve, that the Graduations are only the natural Co-tangents of half Arcs, the half Crofs being Radius ; therefore divide the length of the half Crofs into 1000 equal Parts, or 1 00000 if poffible, according to the Radius of the Tables of natural Tangents : then take from this the Co-tangents, as you find them in the Table, and prick them from F fucceffively, and your Staff will be graduated for that Vane. So do for the Rest severally. If it be requi- red to prick down the 80th Degree, the half of 80 is 40, and the natural Co-tangent of 40 Deg. is 1 191 75, which take from the Scale or half Crofs so divided, and prick it from F to P, and that will be the Point for 80 Degrees, &V. So again, To put on the 64th De- gree, half of 64 is 32, and its Co-tangent is 160033, which take from the divided Croft (prolonged), prick it from E, and you will have the 64th Degree.
+
+Now that the Crofs CD, when transferred to B, lhall make the Angles C A D eighty Fj - e lQ Degrees, is demonftrable thus: Since CB the half Crofs is Radius, and A B is by Con- ftru&ion the Tangent of 50 Deg. the Angle ACB is 50 Degrees ; and since the Triangle ABC is Right Angled, the Angle BAC will be 40 Degrees: but the Angle DACis double the Angle B A C •, therefore the Angle DAC is 80 Degrees, and the Point B the true Point on the Staff for 80 Degrees. The fame Demonftration holds, let the Crofs be what it will.
+
+If the Staff be to be graduated by any Diagonal Scale, measure half the Length of the Vane by the Scale, and fay, As the Radius of the Tables 1 00000, is to the Meafure of half the Crofs, So is the natural Co-tangent of the half any Number of Degrees defired to be pricked on the Staff, to the Space between the Center of the Staff F, and the Point for the Degrees fought.
+
+For Example •, Suppose half the Length of the Vane, measured on a Diagonal Scale, be 945 •, to find what Number must be taken off the Diagonal Scale for the 80th Degree. The Co tangent of 40 Degrees (half of 80) is 1191753, which being multiplied by 945, and divided by Radius, gives 11 261. And this being taken from the Diagonal Scale, w.ill give the Degrees defired.
+
+The Use of the Fore-Staff. The chief Use of this Instrument, is to take the Altitude of the Sun or Stars, or the Distance of two Stars ; and the Ten, Thirty, Sixty and Ninety Croffes are to be used, according as the Altitude is greater or leffer j that is, if it be less than 10 Degrees, the Ten Crofs must be used •, if above 10, but less than 30 Degrees, the Thirty Crofs must be used •, and if the Altitude be judged to be above 30, but less than 60 Degrees, the Sixty Crofs must be used. But when Altitudes are greater than 60 Degrees, this Instrument is not fo convenient as others.
+
+To obferve an Altitude. Place the flat End of the Staff to the outfide of your Eye, as near the Eye as you can, Fig , N and look at the upper End b of the Crofs for the Center of the Sun or Star, and at the lower End a for the Horizon. But if you fee the Sky inflead of the Horizon, flide the Crofs a little nearer to your Eye ; and if you fee the Sea inflead of the Horizon, move the Crofs a little further from your Eye, and so continue moving the Crofs till you fee exactly the Sun or Star's Center by the top of the Crofs b[ and the Horizon by the bottom thereof a. Then the Degrees and Minutes cut by the inner Edge c of the Crofs, upon the Side of the Staff peculiar to the Crofs you ufe, is the Altitude of the Sun or Star : But if it be the Meridian Altitude you are to find, you must continue your Obfervation as long as you find the Altitude increafe, ftill moving the Crofs nearer to your Eye j but when you per- ceive the Altitude is diminished, forbear any farther Obfervation, and do not alter your Crofs •, but as it (lands, count the Degrees and Minutes on the Side proper to the Crofs, and you will have the Meridian Altitude required, as also the Zenith Distance, by fub-
+
+The ConftrucJion and Uses of the Staff the observed drafting the said Altitude from 90 Degrees, if it be not graduated on the Staff. To which Zenith Distance add the Minutes allowed for the Height of your Eye above the Surface of the Sea, according to the little Table in the Margin, or fubftracl it from the Altitude, and then you will have the true Zenith Distance and Altitude.
+
+If it be hazy or fomewhat thick Weather, the Fore-Staff may be used as above-, but if the Sun fhines out, the upper Limb of the Sun must be either observed, and afterwards his Semidiameter mult be fubftra&ed from the Altitude found, or else a coloured Glass on the top of the Crofs must be used, to defend the Sight from the Splendor of the Sun.
+
+To obferve the Distance or two Stars, or the Moon's Distance from a Star, place the Staff's flat end to the Eye, as before directed, and looking to both ends a and b of the Crofs, move it nearer or farther from the Eye, 'till you can fee the two Stars, the one on one end, and the other on the other end of the Crofs. Then fee what De- grees and Minutes are cut by the Crofs on the side proper to that Vane in life j and those Degrees fliew Star's Distance.
+
+But that there may be no Miftake in placing the Staff to the Eye, which is the greateft Difficulty in the Use of this Instrument : First, before Obfervation, put on the Sixty-crofs, and place it to 30 Degrees on its proper Side, and also the Ninety-crofs, Aiding to it 30 Degrees likewise on his Right Side : this being done, place the end of the Staff to the corner of your Eye, moving it fomething higher or lower about the Eye, 'till you fee the upper ends of the two Croffes at once exactly in a Right Line, and also their lower ends ; and that is the true Place of your Staff in Time of Obfer- vation.
+
+If the Sun's Altitude is to be observed backwards by this In- ftrument, you must have an horizontal Vane to fix upon the Center or Eye-end of the Crofs, as also a Shoe of Brass for a Sight Vane, to fit on to the end of any of the Croffes ; then when you would obferve, having put on the horizontal Vane, and fixed the Shoe to the end of a convenient Crofs, turn your back to the Sun, and looking through the Sight in the brafs Shoe, lift the end of the Staff up or down, 'till the Shadow made by the upper end of the Crofs falls upon the flit in the Horizon-Vane, and at the fame time you can fee the Horizon through the Horizon- Vane. Then the Degrees and Minutes cut by the Crofs on the proper Side, are the Alti- tude. But if there be fixed a Lens, or small double Convex-Glass, to the upper end of the Vane, to contract the Sun-beams, and caft a small bright Spot on the Horizon-Vane, this will be found more convenient than the Shadow, which is commonly imperfect and double.
+
+Of the Englijh Quadrant, or Back-Staff.
+
+This Instrument is commonly made of Pear-Tree, and confifts of three Vanes A, B, C, and two Arcs. The Vane at A is called the Horizon-Vane, that at B the Shade- Vane, because it gives the Shadow upon the Horizon- Vane in Time of Obfervation, and that at C the Sight- Vane, because in Time of Obfervation it is placed at the Eye. The lelser Arc DE is the Sixty Arc, and that marked F G is the Thirty Arc, both of which toge- ther make 90 Degrees, but they are of different Radius's. The Sixty Arc D E is divided into 60 Degrees, commonly by every five, but fometimes by fingle Degrees. In Time of Obfervation, the Shadow- Vane is placed upon this Arc always to an even Degree.
+
+The Thirty Arc GF, is divided into 30 Degrees, and each Degree into Minutes by Dia- gonal Lines, and Concentrick Arcs. The Manner of doing which, I have already laid down elsewhere.
+
+The Use of the EngliJJj Quadrant. If the Sun's Altitude be to be taken by this Instrument, you must put the Horizon- Vane upon the upper End or Center A of the Quadrant, the Shade- Vane upon the Sixty Arc D E, to some Number of Degrees less than you judge the Co-altitudes will be by 10 or 15 Degrees, and the Sight- Vane upon the Thirty Arc F G. This being done, lift up the Quadrant, with your Back towards the Sun, and look through the small Hole in the Sight- Vane C-, and so raife or lower the Quadrant 'till the Shadow of the upper Edge of the Shade- Vane B falls upon the upper Edge of the flit in the Horizon-Vane A : if then at the fame time the Horizon appears thro' the said flit, the Obfervation is finifhed ; but if the Sea appears inftead of the Horizon, then remove the Sight Vane lower towards F; but if the Sky appears inftead of the Horizon, then Aide the Sight- Vane a little higher: and so con- tinue removing the Sight- Vane, 'till the Horizon appears thro' the Ait of the Horizon- Vane,
+
+Chap. 2. of biftruments for taking Altitudes, &c. 2,05
+
+Vane, and the Shadow of the Shade- Vane falls at the fame time on the said Slit of the Ho- rizon-Vane. This being done, fee how many Degrees and Minutes are cut by the Edge of the Sight- Vane C, which anfwers to the Sight-Hole, and to them add the Degrees that are cut by the upper Edge of the Shade- Vane, and the Sum is the Zenith Distance or Comple- ment of the Altitude. But to find the Sun's Meridian or greateft Altitude on any Day, you must continue the Obfervation as long as the Altitude be found to increafe, which you will perceive, by having the Sea appear inftead of the Horizon, removing the Sight- Vane lower; but when you perceive the Sky appear inftead of the Horizon, the Altitude is dimi- nifhed: therefore defift from farther Obfervation at that Time, and add the Degrees upon the Sixty Arc to the Degrees and Minutes upon the Thirty Arc, the Sum is the Zenith Distance, or Co-altitude of the Sun's upper Limb.
+
+And because it is the Zenith Distance or vJo-altitude of the upper Limb of the Sun, that is aiven by the Quadrant, when obferving by the upper Edge of the Shade-Vane, as it is cuftomary to do, and not the Center ; you must add 16 Min. the Sun's Semi-diameter, to that which is produced by your Obfervation, and the Sum is the true Zenith Distance of the Sun's Center. But if you obferve by the lower part of the Shadow of the Shade- Vane, then the lower Limb of the Sun gives the Shadow ; and therefore you must fubftract 16 Min. from what the Instrument gives : but confidering the Height of the Obfervator above the Surface of the Sea, which is commonly between ,6 and 20 Feet, you may take five or fix Minutes from the 16 Minutes, and make the allowance but 10 Min. or 12 Min. to be added inftead of 16 Min.
+
+Note also, The Refraction of the Sun or Stars caufes them to appear higher than they are ; therefore after having made your Obfervation, you must find the convenient Refraction, and fubftract it from your Altitude, or add it to the Zenith Distance, in order to have the true Altitude or Zenith Distance.
+
+If a Lens or double Convex-Glass be fixed in the Shade- Vane, which contracts the Rays of Light, and cafts them in a imall bright Spot on the Slit of the Horizon-Vane inftead of a Shade, this will be an Improvement to the Instrument if the Glass be well fixed ; for then it may be used in hazy Weather, and that so thick an Haze, that an Obfervation can hardly be made with the FoRestaff: also in clear Weather the Spot will be more defined than the Shadow, which at beft is not terminated.
+
+Of the Semi- circle for taking Altitudes at Sea. This Semi-circle is about one Foot in Diameter, and the Limb thereof is divided into 90 Fig. 13. Degrees only, each of which are quartered for 15 Min. At A and B are two Sights fixed to the Extremes of the Diameter, and another at C, so adjuftcd as to Aide on the Limb of the Semi-circle, that so the Sun's Rays may pass thro' it when the Instrument is using.
+
+The Use of the Semi- circle.
+
+If an Altitude is to be taken forwards by this Instrument, the Eye must be placed at the Sight A, and then you must look thro' the Sights A and B at the Horizon, and Aide the Sight C on the Limb, 'till the Sun's Rays passing thro' it, likewise come thro' the Sight A to the Eye. This being done, the Degrees of the Arc between B and C s fhew the Sun's Al- titude.
+
+But if the Sun's Altitude is to be taken backwards, which is the beft way, because of its Splendor offending the Eye, you must place the Eye to B, and looking thro' the Sights B and A, at the Horizon, you must flide the Sight C along the Limb, 'till the Sun's Rays coming thro' it, fall upon the Sight A, and then the Arc B C will be the Sun's Altitude above the Horizon, as before.
+
+The Meridian Altitude or Zenith Diflance of the Sun or Stars being found by Obfervation, to find
+
+the Latitude of the Place.
+
+Having observed with some one of the Instruments before fpoken of, the Meridian Alti- tude or Zenith Distance of the Sun, or some Star, feek the Sun's Declination the Day of Obfervation : if it be North, fubftract the Sun's Declination found from the Sun's Altitude, and you will have the Height of the Equinoctial above the Horizon, and this Fleight taken from 90 Degrees, and you will have the Latitude of the Place. But if the Zenith Distance be added to the Declination of the Sun or Star, the Sum will be the Latitude of the Place.
+
+Again, If the Sun or Star have South Declination, you must add the observed Altitude to the Declination, and the Sum will be the Height of the Equinoctial above the Horizon, which taken from 90 Degrees, and the Latitude will be had. But if the Zenith Distance be taken from the Declination, the Remainder will be the Latitude of the Place.
+
+Laftly, If the Sun has no Declination, his Altitude taken from 90 Degrees, will be the Latitude •, and so in this Cafe the Zenith Distance itfelf is the Latitude.
+
+Example. The Sun being in the first Degree of Cancer, his Meridian Altitude at Paris is 64 Deg. 30 Min. Zenith Distance 25 Deg. 30 Min. his Declination 23 Deg. 30 Min. North. Now if 23 Deg. 30 Min. be taken from 64 Deg. 30 Min. the Remainder is 41 Deg. for the Altitude of the Equinoctial, and so the Complement of 41 Deg. to 90 Peg. is 49 Deg. the
+
+Height of the Pole or Latitude of Paris •, but if the Zenith Distance 25Deg. 30 Min. be added to the Sun's Declination 23 Deg. 30 Min. the Sum will be 49 Deg. the Latitude of Paris as before.
+
+Again, Suppose the 22d of December (New Stile) the Sun's Meridian Altitude at Paris is observed 17 Deg. 30 Min. and his Zenith Distance 72 Deg. 30 Min. his Declination is then 23 Deg. 30 Min. South, which added to 17 Deg. 30 Min. "and the Sum is 41 D?g. whose Complement 49 Deg. is the Latitude of Paris. Again, If from the Zenith Dithance 72 Deg. 30 Min. be taken the Declination, the Remainder will be 49 Deg. the Latitude of Paris, as before.
+
+CHAP. III.
+
+Of the Conftruttion and Uses of the Sinecal Quadrant.
+
+Platen. nr 1 ^^ Instrument is compofed of several Quadrants, having the fame Center A, and
+
+Fjg 1. X several parallel ftrait Lines croffing each other at Right Angles, both Quadrants and
+
+Right Lines being equally distant from each other. Now one of these Quadrants, as BC,
+
+may be taken for a quarter or fourth part of any great Circle of the Sphere, and principally
+
+for a fourth Part of the Horizon and the Meridian.
+
+If the Quadrant BC be taken for one-fourth part of the Horizon, either of the Sides, as A B, may reprefent the Meridian, that is, the Line of North and South. And then the other Side AC, being at Right Angles with the Meridian, will reprefent the Line of East and West. All the other Lines parallel to A B are also Meridians, and all those parallel to the Side AC, are East and West Lines.
+
+The aforsaid Quadrant is first divided into eight equal Parts by seven Radius's drawn from the Center A, which reprefent the eight Points of the Compass contained in one- fourth of the Horizon, each of which is 1 1 Deg. 15 Min. the Arc BC is likewile divided into 90 Degrees, and each Degree divided into 12 Minutes, by means of Diagonals, drawn from Degree to Degree, and fix Concentrick Circles. There is likewise a Thread, as A L, fixed to the Center A, which being put over any Degree of the Quadrant, ferves to divide the Horizon as is neceffary. The Conftruction of the Rest of this Instrument, is enough ma- nifeft from the Figure thereof.
+
+The Use of the Sinecal Quadrant.
+
+There are formed Triangles upon this Instrument similar to those made by a Ship's Way with the Meridians and Parallels, and the Sides of these Triangles are measured by the equal Intervals between the Concentrick Quadrants, and the Lines N and S, E and O.
+
+Thefe Circles and Lines are distinguished, by marking every fifth with broader Lines than the others ; so that if every Interval be taken for one League, there will be five Leagues from one broad Line to the other ; and if every Interval be taken for four Leagues, then there will be twenty Leagues, which make a Sea Degree, from one broad Line to the other.
+
+Let us suppose, for example, that a Ship has failed 150 Leagues North-East, one-fourth North, which is the third Point, and makes an Angle of 33 Deg. 45 Min. with the North part of the Meridian. Now we have two things given, viz. the Courfe, and Distance failed, by which a Triangle may be found on this Instrument similar to that made by the Ship's Courfe, and her Latitude and Longitude ; and so the other unknown Parts of the Triangle found. And this is done thus :
+
+Let the Center A reprefent the Place of Departure, and count, by means of the Concen- trick Arcs, along the Point that the Ship failed on, as AD, 150 Leagues from A toD; then the Point D will be the Place the Ship is arrived at, which note with a Pin. This being done, let DE be parallel to the Side- AC, and then there will be formed a Right- angled Triangle A ED, similar to that made by the Ship's Courfe, difference of Latitude and Longitude: the Side A E of this Triangle gives 125 Leagues for the difference of Latitude Northwards, which make 6 Deg. 15 Min. reckoning 20 Leagues to a Degree, and one League for three Minutes. And lastly, the Side ED will give 83 leffer Leagues to- wards the East, which being reduced in the manner hereafter fhewn, will give the difference of Longitude, and so the whole Triangle will be known.
+
+Note, We call lefler Leagues those that anfwer to the Parallels of Latitude between the Equator and the Poles, which continually decreafe the nearer they are to the Pole, and con- fequently also the Degrees of Longitude ; and therefore the nearer a Ship fails to either of the Poles, the less way must fhe make to alter her difference ot Longitude any determinate Number of Degrees.
+
+Since the Center A always reprefents the Place of departure, it is manifest that when the Point D of arrival is found, be it in what manner foever, all the Parts of the Triangle AED will afterwards be eafily determined.
+
+If the Sinecal Quadrant be taken for a fourth part of the Meridian, one Side thereof, as A B, may be taken for the common Radius of the Meridian, and the Equator; and the other side AC, will then be half the Axis of the World. The Degrees of the Circumference BC, will reprefent the Degrees' of Latitude, and the Parallels to the Side A ±J perpendi- cular to AC, affumed from every Point of Latitude to the Axis A C, will be the Radius's of the Parallels of Latitude, as likewise the Sine-Compkments of those Latitudes.
+
+If, for Example, it be required to find how many Degrees of Longitude 83 lefTer Leagues make in the Parallel of 48 Deg. you mud firfb exctnd a Thread from the Center A, over the 48th Dig. of Latitude on the Circumference ; and keeping it there, count the 83 Leagues proposed on the Side A B, beginning at the Center A. Thefe will terminate at H, in al- lowing every small Interval four Leagues, and the Interval between the broad Lines twenty Leagues. This being done, if the Parallel H G be traced out from the Point H to the Thread, the part AG of the Thread, (hews that 125 greater Leagues, or the equinoctial Leaoues, makes 6 Deg. 15 Mm. in allowing 20 Leagues to a Degree, and three Minutes for one League-, and therefore the 83 lefTer L agues AH, which make the difference of Lon- gitude of the supposed Courfe, and which are equal to the Radius of the Parallel G I, make 6 Dtg. 15 Min. of the said Parallel.
+
+Let it be required, for a second example, to reduce 100 lefTer Leagues into Degrees of Longitude on the Parallel of 60 Degrees. Having first extended the Thread from the Center A over the 60th Degree on the Circumference, count the 100 Leagues of Longitude on the Side AB, and the Parallel terminating thereon being directed to the Thread, the part of the Thread affumed from the Center, fhews that 200 Leagues under the Equator make 10 Degrees •, that is, 100 Leagues in the Parallel of 60 Degrees make 10 Degrees of Longitude, since every Degree of a great Circle is double to any Degree of the Parallel of 60 Degrees.
+
+On one Side of this Instrument is put a Scale, called a Scale of Crofs Latitudes, whose Construction and Division is the fame as that of the Meridian Line of Mercator's Chart, of which we fhail fpeak by and by. The Use of this Scale is to find a mean Parallel between that of Departure and that of Arrival.
+
+When a Ship has failed on an oblique Courfe, that is, neither exactly North, South, Eafl, or West-, thele Courll-s, besides the North and South greater Leagues, give lejfer Leagues eaftwardly and weft hardly, which must be reduced to Degrees of Longitude. L.ut these Leagues were made neither upon the Parallel of Departure, nor upon that of Arrival -, for they were made upon all the Parallels between those of Departure and Arrival, and are all unequal between thcmfelves, and conlequently we are necefiitat d to find a mean proportional Parallel between that of Departure and that of Arrival, which for this realon is called a mean Parallel, and ferves to reduce Leagues made in failing a-crofs divers Parallels, into Degrees and Minutes of the Equator.
+
+Now there are several ways of finding such a mean Parallel ; but I shall only fpeak of that here, which is done by means of the Scale of increafed Latitude, without Calculation, and is thus : Let it be required, for example, to find a mean Parallel between that of 40 Deg. and that of 60 Deg.
+
+Take, by means of a Pair of CompafTes, the middle between the 40th and 60th Deg. upon this Scale, and the said middle Point will terminate against the 51ft Deg. which confequently will be the mean Parallel fought.
+
+Note, Because this Scale is in two Lines, you must take the Diflance from 40 Deg. of La- titude to 45 Deg. which is on one Side, and lay it off upon some feparatc Right-Line. This being done, you must take the Diflance from 45 D^g. to 60 Deg. which is on the other Side, and join these two Spaces together-, then half of these two Lines being taken between your CompafTes, you must let one Eoot upon the Number 60, and the other Point will fall upon 51 Deg. which will be the mean Parallel fought. After which, it will be eafy to reduce the Leagues failed Eastwardly into Degrees of Longitude, by the Sinecal Quadrant, confidered as a quarter of the Meridian, in the manner as we have laid down in the two Examples abovementioned.
+
+Of Mercator's Charts.
+
+This Figure reprefents a Mercator's Chart. But before we give the Conftrudtion and $■ 2&lt; Uses thereof, it is neceffary to obferve that when a Ship fails upon any determinate Point of the Compals, fhe always makes the fame Angle with all the Meridians fhe pafTes over upon the Surface of the Terraqueous Globe.
+
+If a Ship fails North and South, fhe makes an infinitely acute Angle with the Meridian me defcribes, that i?, fhe runs parallel to it, or rather fails upon it.
+
+If a Ship fails due East and West, fhe cuts all the Meridians at Right Angles ; for fhe either defcribes the Equator, or some lefTer Circle which is parallel thereto. But if her Courfe be on any Point between the North and East, North and West, Sooth and East, or South and VYeu. then fhe will not defcribe a Circle ; because a Circle drawn oblique to the
+
+Meridians, will cut all of them at unequal Angles, which the Ship must not do while fhe fails upon any determinate Point, unlets North and South, or East and West •, therefore fhe describes a Curve, not circular, whole efiential Property is to cut all the Meridians at the fame Angle. And this is called a Loxodromick Curve, or only Loxodromy, and is a kind of Spiral, making an Infinity of Revolutions towards a certain Point, which is the Pole, and every Turn thereof approaches nigher and nigher thereto. A Ship's Courfe then, except the two first abovenamed, is always a Loxodromick Curve, and is the Hypothenufe of a Right-angled fpherical Triangle, whose two other Sides are the Ship's Way in Lon- gitude and Latitude. Now we have the Latitude commonly given by Oblervation, and the Loxodromick Angle by the Compass ; therefore by Trigonometry we may find the Hypothe- nufe, or the Way that the Ship has failed, &c.
+
+But because the Calculation of a Ship's Way by means of the Loxodromick Curve is troublefome, therefore the Ancients fought after some Method whereby a Ship's Way might be a ftrait Line, which might nearly prcferve the Property of the Loxodromick Curve, which is, to cut all the Meridians under the fame Angle. But they found this abfolutely im- poffible upon the account of the Meridians not being parallel between themfelves, as in reality they are not. And therefore they supposed the Meridians to be parallel ftrait Lines ; and so from this fuppofition it follows, that the Degrees of Longitude unequally distanr. from the Equator, are of the fame bigness •, whereas they really always diminish from the Equator, in a certain known Proportion, which is as Radius is to the Sine-Complement of the Latitude. But to retrieve this Error, they have supposed the Degrees of Latitude, which by the Nature of the Sphere are every where equal, to be augmented in the fame Proportion as the Degrees of Longitude diminish. And so the Inequality which ought to be in the Degrees of Longitude of different Parallels, is thrown upon the Degrees of La- titude in the manner we are going to lay down.
+
+Now Charts made in this manner are called Mercator'% Charts, because Mercator was the first that made them •, and they are commonly efteemed the beft : for by the Experience of several Ages, it is found that Seamen ought to have vtry fimple Charts, wherein the Meridians, Parallels, and Rhumb-Lines, may be reprefented by ftrait Lines, that so they may prick down their Courfes eafily.
+
+43688638^
+
+CHAP. IV
+
+Of the ConjlruSiion and Uses of Mercator'.? Charts.
+
+Fig. 2. I F the Degrees of Latitude are to be augmented as much as those of Longitude are
+
+J|[ found enlarged by making them equal to the Degrees of the Equinoctial, the Secants must be used, which increafe in the fame Proportion as the Sine-Complements of the Lati- tudes (which ought to reprefent the Degrees of Longitude) have been increafed, by making them equal to the Radius of the Equator, because of the Parallelifm of the Meridians: for the Sine- Complement of an Arc is to Radius, as Radius is to the Secant of that Arc.
+
+As, afiuming for one Degree of the Equator, and for the first Degree of Latitude, the whole Radius, or some aliquot part thereof; take for the 2d Degree of Latitude, the Secant of one Degree, or a similar aliquot part of this Secant ; and for the 3d Degree of Latitude, take the Secant of two Degrees, or the similar aliquot part thereof, and so on.
+
+When a Chart is to be made large, you must take, for 30 Minutes of Latitude, and 30 Minutes of the Equator, the Radius of a Circle or some aliquot part thereof, for one Degree of Latitude. This being done, you must add continually the Secant of 30 Min. for 1 '- Degree of Latitude, the Secant of 1 Degree for 2 Degrees of Latitude, the Secant of 1^ Degree for 21 Degrees of Latitude, or their similar aliquot parts; and so proceed on. In doing of which, we use a Scale of equal parts, from which the Secants as they are found in Tables are taken off, by taking away some of the last Figures.
+
+In these Charts the Scale is changed, according as the Latitude is; as, for example, if a Ship fails between the 40th and 50th Parallel of Latitude, the Degrees of the Meridians be- tween those two Parallels will ferve for a Scale to measure the Ship's Way ; whence it fol- lows, that there are fewer Leagues on the Parallels, the nearer they are to the Poles, because they are measured by a Magnitude likewise continually increafing from the Equator towards the Poles.
+
+If, for example, a Chart of this kind be to be drawn from the the 40th Degree of North Latitude to the 50th, and from the 6th Degree of Longitude to the 18th: First draw the Line A B, reprefenting the 40th Parallel to the Equator, which divide into twelve equal Parts, for the 12 Degrees of Longitude, which the Chart is to contain. Tins being done, take a Sector or Scale, one hundred Parts whereof are equal to each of these Degrees of Longi- tude, and at the Points A and B raife two Perpendiculars to A 13, which will reprefent two parallel Meridians, and must be divided by the continual Addition of Secants. ,As, for the Distance from 40 Deg. to 41 Deg. of Latitude, take 131 f equal Parts from your Scale, which is the Secant of 40 Deg. 30 Min. For the Distance from 41 Deg. to 42 Deg. take J03 x. equal Parts from your Scale, which is the Secant of 41 Deg. 30 Min. For the Di- ftance from 42 Deg. to 43 Deg. take 136, which is the Secant of 42 Deg. ^o Min. and fo on to the last Degree of your Chart, which will be 154 equal Parts, viz. the Secant of 49 I&gt;g. 30 Min. and" will give the Distance from 49 Deg. of Latitude to 50 Deg. and by this means the Degrees of Latitude will be augmented in the fame Proportion as the Degrees of Longitude on the Globe do really decreafe.
+
+Having divided the Meridians, you may place the Card upon the Chart, for doing of which, ehufe a convenient Place towards the Middle thereof, as the Point R, about which, as a Center, defcribe a Circle so big that it's Circumference may be divided into 32 equal Parts, for the 32 Points of the Com pais. Then having drawn a Line towards the Top of the Chart, pirallel to the two divided Meridians, this will be the North Rhumb, and upon it a Flower- de-Luce must be put, that thereby all the other Rhumbs or Points may be known, the princi- pal of which ought to be distinguished from the others by broader Lines.
+
+After this, all the Towns, Ports, Iflands, Coafts, Sands, Rocks, i£c. which form the Chart, must be laid down upon the fame, according to their true Latitudes and Longitudes. And if the Chart be large, there may several Cards be placed thereon, always with their North and South Lines parallel between themfclvts.
+
+The Use of Mercator'j Charts,
+
+The chief Use of a Sea-Chart, is to find the Point of Departure therein, the Point ar- rived at, the Courfe, the Distance failed, the Longitude and the Latitude, as we shall now explain by some Examples.
+
+Example I. Suppose a Ship is to fail from the Ifiand de OueJJant, in 48 Deg. 30 Min. of North Latitude, and 13 Deg. 30 Min. of Longitude, to Cape Finijler in Galicia, which is in 43 Deg. of Latitude, and 8 Deg. of Longitude. Now the Point of the Compass the Ship must keep to, as also the Distance between the said two Places is required. In order to do this, you must imagine a Line drawn from the Ifiand de OueJJant to Cape Finijler., and with a Pair of Compafles examine what Point on the Chart that Line is parallel to, and this Point, which is South-West, one-fourth South, is that which the Ship must fail on.
+
+But to find the Distance of the two Places, take between your Compafles the Extent of live Degrees on the Meridian against the beforenamed Courfe, that is, from the 43d Deg* to the 48th •, and this will be a Scale of 100 Leagues. This being done, fet one Foot of your Compafles thus opened upon the Ifiand de OueJJant, and the other Foot upon the occult Line tending to Cape Finijler, making a little Mark thereon ; and this Extent of the Com- pafles will give 100 Leagues of Distance. Then take the Distance from the aforsaid Mark to Cape Finijler between your Compafles, and placing one Foot upon the 43d Deg. of the Meridian, and the other Foot will fall upon 44 Deg. 45 Min. which amounts to 35 Leagues \ and confequently the whole Distance between Cape Finijler and the Ifland de OueJJant is 135 Leagues.
+
+Example IT. A Ship failing from the Ifland de OueJJant South-West, one-fourth South, to- wards Cape Finijler, and the Mafter-Pilot having examined the Force of the Wind, and the Number of Sails fyrcad, and knowing by experience the Swiftnefs of his Ship, has eftimated her Way to have been 50 Leagues in 20 Hours. Now to find the Point upon the Chart wherein the Ship is, he must take the Extent of 2 \ Degrees, equivalent to 50 Leagues, between his Compafles, upon the Meridian, from the 46th Deg. to the 48 f Deg. This being done, if one Foot of the Compafles thus opened be fet upon the Place of Departure, the other Foot will fall upon the Point T, the Place wherein the Ship is, on the Line of the Ship's Way. But if the Longitude and Latitude of the Point T, or Place wherein the Ship is, be fought, he must place one Foot of the Compafles upon the Point T, and the other upon the neaRest Parallel, and then conduct the Compafles thus opened perpendicu- larly along the Parallel to the Meridian and the Degree thereof whereat the Point of the Com- pafles comes to, will be the Latitude of the Point T. And to find the Longitude of this Point, he must fet one Foot of the Compafles therein, and the other upon the neaRest Me- ridian. Then if this Foot be Aid along the Meridian (so that a Line joining the two Points be always parallel to itlelf) to the divided Parallel, he will have, upon that Parallel, the Longitude of the Point T.
+
+Because Meridians and Parallels are not drawn a-crofs the Chart, to the end that the Rhumb-Lines may not be con fu fed, therefore you may use a Ruler, which will produce the fame Effect.
+
+Example III. The Courfe being given, and the Latitude by Obfervation ; to find the Distance failed, and to prick down the Place of the Ship upon the Chart. Suppose a Ship departed from the Ifland de OueJJant is arrived to a Place whose Latitude, by Obfervation, is found to be 46 Degrees •, take, between your Compafles, the Distance from the 46th Degree of the Meridian to the 48 f, which is the Latitude of the Place of Departure, over which 48 ' Degree and the Ifland de OueJJant having laid a Ruler, Aide one Foot of the -Compafles thus opened along the Side of this Ruler, 'till the other Foot interiecls the Line of the Ship's Way ; then the Point of Interferon S will be that whereat the Ship was at the Time of Obfervation. Now to find the Distance failed, you must extend the Compafifes from this Point S to the Place of Departure, and lay off this Extent upon the Meridian, which will reach from the 46th Degree to the 49th ; and confequently the Di- ftance failed will be 60 Leagues, allowing 20 Leagues to a Degree.
+
+Example IV. The Latitude and Longitude of a Place being given, to fjnd that Place in the Chart. Having placed one Foot of a Sea-Chart Compass upon the known Degree of La- titude, and the other upon the nigheft Parallel, you must place with your other Hand one Foot of another Pair of Compasses upon the known Degree of Longitude on the Meridian, and the other Foot upon the neaRest Meridian •, and then Aide both these Pair of Compafles until their two Points meet each other : for then the Point of Concourfe will be that fought. This Operation is very much used by Seamen ; for the Point where they are, being first found by Calculation, or the Sinecal Quadrant, they can by this means prick down the Place of the Ship upon the Chart, and so it will be eafy for them to find what Courfe the Ship must fteer to continue on her Voyage.
