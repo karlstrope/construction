@@ -65,3 +65,13 @@
 - Base
 - Reason
 - reason
+- Instruments
+- such
+- strong
+- Astronomer
+- Philosophical
+- Telescope
+
+## Encoding
+
+- &amp;
